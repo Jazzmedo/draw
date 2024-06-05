@@ -316,5 +316,29 @@
     "w": 450,
     "h": 80,
     "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Raid Disks\" style=\"shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fixedSize=1;size=16;fillColor=#ffff88;strokeColor=#36393d;fontFamily=Mina;fontSize=20;strokeWidth=2;align=center;spacingLeft=0;spacingBottom=0;fillStyle=hachure;fontStyle=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-5.684341886080802e-14\" width=\"140\" height=\"57.14\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 140,
+    "h": 57.14,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Start\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;arcSize=50;fontFamily=Mina;fontStyle=1;fontSize=14;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"1.7053025658242404e-13\" width=\"90.10605000000001\" height=\"38.34319526627219\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 90.10605000000001,
+    "h": 38.34319526627219,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Is Next&amp;lt;div style=&amp;quot;font-size: 14px;&amp;quot;&amp;gt;Instruction&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-size: 14px;&amp;quot;&amp;gt;In IBR?&amp;lt;/div&amp;gt;\" style=\"rhombus;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;strokeWidth=2;fontFamily=Mina;fontStyle=1;fontSize=14;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-1.1368683772161603e-13\" width=\"124.61475000000002\" height=\"124.61538461538461\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 124.61475000000002,
+    "h": 124.61538461538461,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fillColor=#ffff88;strokeColor=#36393d;fontFamily=Mina;fontSize=14;\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry x=\"1.1368683772161603e-13\" width=\"153.372\" height=\"69.01775147928994\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"IBR&amp;amp;nbsp; &amp;amp;nbsp; &amp;amp;nbsp;MBR (20:39)&amp;lt;div style=&amp;quot;text-align: left; line-height: 120%; font-size: 14px;&amp;quot;&amp;gt;&amp;amp;nbsp;IR&amp;amp;nbsp; &amp;amp;nbsp; &amp;amp;nbsp; &amp;amp;nbsp;MBR (0:7)&amp;lt;br style=&amp;quot;font-size: 14px;&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;line-height: 120%; font-size: 14px;&amp;quot;&amp;gt;MAR&amp;amp;nbsp; &amp;amp;nbsp; &amp;amp;nbsp;MBR (8:19)&amp;lt;br style=&amp;quot;font-size: 14px;&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffff88;strokeColor=#36393d;arcSize=0;fontFamily=Mina;fontStyle=1;fontSize=14;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"153.372\" height=\"69.01775147928994\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=classic;html=1;rounded=0;strokeWidth=1;endFill=1;fontFamily=Mina;fontSize=14;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"53.680200000000006\" y=\"17.254437869822485\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"34.508700000000005\" y=\"17.254437869822485\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"endArrow=classic;html=1;rounded=0;strokeWidth=1;endFill=1;fontFamily=Mina;fontSize=14;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"51.76305000000001\" y=\"34.30757396449701\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"32.591550000000005\" y=\"34.30757396449701\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"\" style=\"endArrow=classic;html=1;rounded=0;strokeWidth=1;endFill=1;fontFamily=Mina;fontSize=14;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"65.15434275000003\" y=\"51.76331360946746\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"45.98284275000003\" y=\"51.76331360946746\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 153.372,
+    "h": 69.01775147928994,
+    "aspect": "fixed"
   }
 ]</mxlibrary>
