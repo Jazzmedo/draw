@@ -1,0 +1,91 @@
+<mxfile host="Electron" modified="2024-04-01T04:33:14.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="pxtVQpUDjG1a9tBn7Gok" version="24.1.0" type="device">
+  <diagram name="Page-1" id="f4X-83lch2x4hc1WxE7M">
+    <mxGraphModel dx="1434" dy="-315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p292q2lmp0ir0afpA0VF-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="64" y="1344" width="700" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="c2XPkhttcCRp7YXjQPyF-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;Video output device that drives a video display from a&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;memory containing the color for every pixel&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;spacingLeft=9;" parent="p292q2lmp0ir0afpA0VF-21" vertex="1">
+          <mxGeometry y="30" width="700" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="0-xZhpKkMX_-yZnJY7W8-87" value="Frame Buffer &amp;amp; Display" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;" parent="p292q2lmp0ir0afpA0VF-21" vertex="1">
+          <mxGeometry x="20" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="64" y="1214" width="700" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;Pixels are the smallest unit in a digital display Each pixel comprises a subpixel that emits a red, green and blue (RGB) color, which displays at different intensities&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#ffcccc;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;spacingLeft=9;" vertex="1" parent="p292q2lmp0ir0afpA0VF-23">
+          <mxGeometry y="30" width="700" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-8" value="Pixels" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;" vertex="1" parent="p292q2lmp0ir0afpA0VF-23">
+          <mxGeometry x="30" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="64" y="1464" width="700" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-17" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;The refresh rate is the amount of raster lines the beam sweep&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;per second.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#ffcccc;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;spacingLeft=9;align=left;" vertex="1" parent="p292q2lmp0ir0afpA0VF-26">
+          <mxGeometry y="30" width="700" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-18" value="Refresh Rate" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;" vertex="1" parent="p292q2lmp0ir0afpA0VF-26">
+          <mxGeometry x="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-27" value="" style="group;spacing=5;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="64" y="1564" width="700" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-28" value="&lt;div style=&quot;text-align: left;&quot;&gt;Is a number of points on the screen. The higher resolution implies to the more sharpness and clearance of the pictures. But higher resolution needs more memory for display.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;spacingLeft=9;spacing=8;" vertex="1" parent="p292q2lmp0ir0afpA0VF-27">
+          <mxGeometry y="30" width="700" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-29" value="Resolution" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;" vertex="1" parent="p292q2lmp0ir0afpA0VF-27">
+          <mxGeometry x="20" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="64" y="1714" width="700" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-31" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Shoot the electron beam&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;&lt;i&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;overall&lt;/font&gt;&lt;/i&gt;&lt;/u&gt; parts of the screen (line by line).&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;spacingLeft=9;align=left;" vertex="1" parent="p292q2lmp0ir0afpA0VF-33">
+          <mxGeometry y="30" width="700" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-32" value="Raster Scan" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;" vertex="1" parent="p292q2lmp0ir0afpA0VF-33">
+          <mxGeometry x="20" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="64" y="1824" width="700" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-35" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Shoot the electron beam&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;&lt;i&gt;only&lt;/i&gt;&lt;/u&gt; the &lt;i&gt;&lt;u&gt;parts&lt;/u&gt;&lt;/i&gt; of the picture to be &lt;u&gt;&lt;i&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;drawn&lt;/font&gt;&lt;/i&gt;&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#ffcccc;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;spacingLeft=9;align=left;" vertex="1" parent="p292q2lmp0ir0afpA0VF-34">
+          <mxGeometry y="30" width="700" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-36" value="Vector (Random) Scan" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;" vertex="1" parent="p292q2lmp0ir0afpA0VF-34">
+          <mxGeometry x="20" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="64" y="1934" width="700" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-38" value="&lt;div style=&quot;&quot;&gt;It contains a set of holes aligned with the phosphor pattern, when the beams pass through a hole in the shadow mask, it activate a dot triangle as in figure.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;spacingLeft=9;align=left;spacing=4;" vertex="1" parent="p292q2lmp0ir0afpA0VF-37">
+          <mxGeometry y="30" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-39" value="Shadow Mask" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;" vertex="1" parent="p292q2lmp0ir0afpA0VF-37">
+          <mxGeometry x="20" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-40" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="64" y="2064" width="700" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-41" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;The time it takes emitted light&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;to decay to one tenth of the original intensity (low persistence&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;requires higher refresh rates)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;spacingLeft=9;align=left;spacing=4;" vertex="1" parent="p292q2lmp0ir0afpA0VF-40">
+          <mxGeometry y="30" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-42" value="Phosphor Persistence" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;spacingBottom=4;" vertex="1" parent="p292q2lmp0ir0afpA0VF-40">
+          <mxGeometry x="20" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-43" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="64" y="2204" width="700" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-44" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Shapes of the object can be described with pixel&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;arrays or with sets of basic geometric structures&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;such as lines polygons..&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#ffcccc;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;spacingLeft=9;align=left;spacing=4;" vertex="1" parent="p292q2lmp0ir0afpA0VF-43">
+          <mxGeometry y="30" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p292q2lmp0ir0afpA0VF-45" value="Scan Conversion" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=50;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontSize=18;strokeWidth=2;shadow=0;container=0;spacingBottom=4;" vertex="1" parent="p292q2lmp0ir0afpA0VF-43">
+          <mxGeometry x="20" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
