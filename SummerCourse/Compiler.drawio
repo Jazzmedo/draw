@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
   <diagram name="Page-1" id="IUpjOICMqtakUM9hvEMq">
-    <mxGraphModel dx="714" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="1">
+    <mxGraphModel dx="1036" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3990,6 +3990,18 @@
         </mxCell>
         <mxCell id="oJTth1ToVh-QftDdB-gb-3" value="States" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontStyle=1;fontSize=16;fontColor=#ffffff;rotation=23.5;" vertex="1" parent="1">
           <mxGeometry x="446" y="11383" width="50" height="10.28" as="geometry" />
+        </mxCell>
+        <mxCell id="oJTth1ToVh-QftDdB-gb-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="228" y="18432" width="372" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oJTth1ToVh-QftDdB-gb-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#B20000;fillColor=#e51400;shape=mxgraph.azure.azure_alert;fontColor=#ffffff;" vertex="1" parent="oJTth1ToVh-QftDdB-gb-16">
+          <mxGeometry y="48.573873626374116" width="85.71374714896987" height="72.85714285714285" as="geometry" />
+        </mxCell>
+        <mxCell id="oJTth1ToVh-QftDdB-gb-11" value="Disclaimer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Dune Rise;fontSize=24;fontColor=#FF0000;fontStyle=1;" vertex="1" parent="oJTth1ToVh-QftDdB-gb-16">
+          <mxGeometry x="85.71297562722664" width="275.87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oJTth1ToVh-QftDdB-gb-12" value="ان ده ملخص معمول من طلبة و يفضل المذاكرة من السلايدز و الشيت قبل &lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;الاعتماد عليه&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp;الامتحان هيجي شبه الشيت و دا اللينك&amp;nbsp; &lt;a href=&quot;https://drive.google.com/file/d/1pfEeeNsuAv8hvkNHPjEtYbSwmgWNXmT2/view?usp=sharing&quot;&gt;Mid-Term Sheet&lt;/a&gt; بتاعه علي الدرايف&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Cairo;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCairo;fontSize=16;fontStyle=1;textShadow=0;" vertex="1" parent="oJTth1ToVh-QftDdB-gb-16">
+          <mxGeometry x="95.71" y="40" width="275.87" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
