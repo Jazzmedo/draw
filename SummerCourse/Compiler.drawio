@@ -2874,7 +2874,7 @@
           <mxGeometry y="40" width="720" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mEHN4kfI1SdAHDUqa50L-27" value="Syntax Analysis" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e51400;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=3;spacingRight=2;fontColor=#ffffff;" parent="mEHN4kfI1SdAHDUqa50L-25" vertex="1">
-          <mxGeometry x="20" width="170" height="40" as="geometry" />
+          <mxGeometry x="20" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mEHN4kfI1SdAHDUqa50L-29" value="&lt;div&gt;Sequence of production rules, in&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;order to get the input string. During parsing, we take two&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;decisions for some sentential form of input:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="48" y="14553" width="530" height="60" as="geometry" />
