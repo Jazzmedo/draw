@@ -1,0 +1,93 @@
+{
+  "language": "",
+  "configVersion": null,
+  "customFonts": [
+    {
+      "name": "Mina"
+    },
+    {
+      "name": "Sifonn Basic"
+    },
+    {
+      "name": "Spoof Trial Thin"
+    },
+    {
+      "name": "Spoof Trial Light"
+    },
+    {
+      "name": "Handlee"
+    },
+    {
+      "name": "DecoType Thuluth II"
+    },
+    {
+      "name": "Spoof Trial Regular"
+    },
+    {
+      "name": "Architects Daughter"
+    },
+    {
+      "name": "Kufam Regular"
+    },
+    {
+      "name": "Kufam Medium"
+    },
+    {
+      "name": "Kufam Bold"
+    },
+    {
+      "name": "Dune Rise"
+    },
+    {
+      "name": "Cairo Regular"
+    },
+    {
+      "name": "MuseoModerno",
+      "url": "https://fonts.googleapis.com/css?family=MuseoModerno"
+    },
+    {
+      "name": "Tektur",
+      "url": "https://fonts.googleapis.com/css?family=Tektur"
+    }
+  ],
+  "libraries": "general;uml;er;bpmn;flowchart;basic;arrows2",
+  "customLibraries": [
+    "L.scratchpad"
+  ],
+  "plugins": [],
+  "recentColors": [
+    "none",
+    "FF0000",
+    "A0CDFD",
+    "ccdaff",
+    "000000",
+    "FF9999",
+    "999900",
+    "FFFFFF",
+    "0000FF",
+    "FF8000",
+    "00FF00"
+  ],
+  "formatWidth": "240",
+  "createTarget": false,
+  "pageFormat": {
+    "x": 0,
+    "y": 0,
+    "width": 827,
+    "height": 1169
+  },
+  "search": true,
+  "showStartScreen": true,
+  "gridColor": "#d0d0d0",
+  "darkGridColor": "#424242",
+  "autosave": true,
+  "resizeImages": null,
+  "openCounter": 107,
+  "version": 18,
+  "unit": 1,
+  "isRulerOn": true,
+  "ui": "kennedy",
+  "darkMode": false,
+  "sketchMode": false,
+  "pages": true
+}
