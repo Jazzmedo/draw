@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5" pages="2">
   <diagram name="Page-1" id="gvA0fLdInKXx-Kjblphw">
-    <mxGraphModel dx="1036" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="863" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,52 +26,52 @@
           <mxGeometry x="304" y="20" width="220.68" height="57.14" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-128" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="79" y="530" width="670" height="617" as="geometry" />
+          <mxGeometry x="79" y="530" width="670" height="550" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-8" value="" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fillColor=none;arcSize=4;container=0;strokeWidth=2;strokeColor=#000000;" parent="xpKJjLeKlfq3drGUEYHt-128" vertex="1">
-          <mxGeometry y="40" width="670" height="560" as="geometry" />
+          <mxGeometry y="40" width="670" height="510" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-9" value="&lt;div&gt;Advantages of AI?&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=23;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;arcSize=20;container=0;fontColor=#ffffff;" parent="xpKJjLeKlfq3drGUEYHt-128" vertex="1">
           <mxGeometry x="30" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-122" value="" style="group" parent="xpKJjLeKlfq3drGUEYHt-128" vertex="1" connectable="0">
-          <mxGeometry x="21" y="60" width="420" height="60" as="geometry" />
+          <mxGeometry x="21" y="60" width="370" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-10" value="High Accuracy with less errors" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;verticalAlign=bottom;spacingBottom=0;arcSize=27;container=0;fontColor=#ffffff;" parent="xpKJjLeKlfq3drGUEYHt-122" vertex="1">
-          <mxGeometry x="40" width="310" height="30" as="geometry" />
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-10" value="High Accuracy with less errors" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=18;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;verticalAlign=bottom;spacingBottom=0;arcSize=27;container=0;fontColor=#ffffff;" parent="xpKJjLeKlfq3drGUEYHt-122" vertex="1">
+          <mxGeometry x="40" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-11" value="1" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;arcSize=24;container=0;fontColor=#ffffff;" parent="xpKJjLeKlfq3drGUEYHt-122" vertex="1">
           <mxGeometry x="9" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-19" value="It takes decisions as per pre-experience or information." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-122" vertex="1">
-          <mxGeometry y="30" width="420" height="30" as="geometry" />
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-19" value="It takes &lt;font color=&quot;#ff0000&quot;&gt;decisions&lt;/font&gt; as &lt;font color=&quot;#ff0000&quot;&gt;pre-experience&lt;/font&gt; or information." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-122" vertex="1">
+          <mxGeometry y="30" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-123" value="" style="group;flipH=1;" parent="xpKJjLeKlfq3drGUEYHt-128" vertex="1" connectable="0">
-          <mxGeometry x="20" y="120" width="630" height="83" as="geometry" />
+          <mxGeometry x="70" y="120" width="580" height="61" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-12" value="High-Speed" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;container=0;fontColor=#ffffff;spacingBottom=0;" parent="xpKJjLeKlfq3drGUEYHt-123" vertex="1">
-          <mxGeometry x="460" width="129" height="31.13" as="geometry" />
+          <mxGeometry x="410" width="129" height="31.13" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-13" value="2" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;arcSize=27;container=0;fontColor=#ffffff;spacingBottom=0;" parent="xpKJjLeKlfq3drGUEYHt-123" vertex="1">
-          <mxGeometry x="589" width="30" height="31.125000000000004" as="geometry" />
+          <mxGeometry x="539" width="30" height="31.125000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-20" value="Very high-speed and fast-decision making can beat a chess champion in the Chess game." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-123" vertex="1">
-          <mxGeometry y="31.125000000000004" width="630" height="51.87500000000001" as="geometry" />
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-20" value="Very &lt;font color=&quot;#ff0000&quot;&gt;high-speed&lt;/font&gt; and &lt;font color=&quot;#ff0000&quot;&gt;fast-decision making&lt;/font&gt; can beat a chess champion in the Chess game." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-123" vertex="1">
+          <mxGeometry y="31.13" width="580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-124" value="" style="group;flipV=0;flipH=1;" parent="xpKJjLeKlfq3drGUEYHt-128" vertex="1" connectable="0">
-          <mxGeometry x="160" y="290" width="490" height="60" as="geometry" />
+          <mxGeometry x="220" y="270" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-14" value="High reliability" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;container=0;fontColor=#ffffff;spacingBottom=0;" parent="xpKJjLeKlfq3drGUEYHt-124" vertex="1">
-          <mxGeometry x="290" width="160" height="30" as="geometry" />
+          <mxGeometry x="230" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-15" value="4" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;arcSize=24;container=0;fontColor=#ffffff;spacingBottom=0;" parent="xpKJjLeKlfq3drGUEYHt-124" vertex="1">
-          <mxGeometry x="450" width="30" height="30" as="geometry" />
+          <mxGeometry x="390" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-18" value="Can perform the same action multiple times with high accuracy." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-124" vertex="1">
-          <mxGeometry y="30" width="490" height="30" as="geometry" />
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-18" value="Can perform the same action multiple times with high accuracy." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-124" vertex="1">
+          <mxGeometry y="30" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-125" value="" style="group" parent="xpKJjLeKlfq3drGUEYHt-128" vertex="1" connectable="0">
-          <mxGeometry x="20" y="230" width="400" height="60" as="geometry" />
+          <mxGeometry x="20" y="210" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-23" value="Useful for risky areas" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;container=0;fontColor=#ffffff;spacingBottom=0;" parent="xpKJjLeKlfq3drGUEYHt-125" vertex="1">
           <mxGeometry x="41" width="229" height="30" as="geometry" />
@@ -79,11 +79,11 @@
         <mxCell id="xpKJjLeKlfq3drGUEYHt-24" value="3" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;arcSize=24;container=0;fontColor=#ffffff;spacingBottom=0;" parent="xpKJjLeKlfq3drGUEYHt-125" vertex="1">
           <mxGeometry x="10" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-25" value="Such as defusing a bomb, exploring the ocean floor." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-125" vertex="1">
-          <mxGeometry y="30" width="400" height="30" as="geometry" />
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-25" value="Such as &lt;font color=&quot;#ff0000&quot;&gt;defusing&lt;/font&gt; a &lt;font color=&quot;#ff0000&quot;&gt;bomb&lt;/font&gt;, exploring the ocean floor." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-125" vertex="1">
+          <mxGeometry y="30" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-126" value="" style="group" parent="xpKJjLeKlfq3drGUEYHt-128" vertex="1" connectable="0">
-          <mxGeometry x="20" y="380" width="630" height="80" as="geometry" />
+          <mxGeometry x="20" y="350" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-16" value="Digital Assistant" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;container=0;fontColor=#ffffff;spacingBottom=0;" parent="xpKJjLeKlfq3drGUEYHt-126" vertex="1">
           <mxGeometry x="40" width="170" height="30" as="geometry" />
@@ -91,20 +91,20 @@
         <mxCell id="xpKJjLeKlfq3drGUEYHt-17" value="5" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;arcSize=29;container=0;fontColor=#ffffff;spacingBottom=0;" parent="xpKJjLeKlfq3drGUEYHt-126" vertex="1">
           <mxGeometry x="10" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-21" value="Used by various E-commerce websites to show the products as per customer requirement." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-126" vertex="1">
-          <mxGeometry y="30" width="630" height="50" as="geometry" />
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-21" value="Used by various E-commerce websites to show the products as per customer requirement." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-126" vertex="1">
+          <mxGeometry y="30" width="600" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-127" value="" style="group;flipV=0;flipH=1;" parent="xpKJjLeKlfq3drGUEYHt-128" vertex="1" connectable="0">
-          <mxGeometry x="110" y="490" width="550" height="80" as="geometry" />
+          <mxGeometry x="90" y="440" width="570" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-27" value="Useful as a public utility" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;container=0;fontColor=#ffffff;spacingBottom=0;" parent="xpKJjLeKlfq3drGUEYHt-127" vertex="1">
-          <mxGeometry x="260" width="250" height="30" as="geometry" />
+          <mxGeometry x="280" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-28" value="6" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;arcSize=24;container=0;fontColor=#ffffff;spacingBottom=0;" parent="xpKJjLeKlfq3drGUEYHt-127" vertex="1">
-          <mxGeometry x="510" width="30" height="30" as="geometry" />
+          <mxGeometry x="530" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-29" value="Such as a self-driving car, facial recognition for security purpose, NLP to communicate with the human in human-language" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-127" vertex="1">
-          <mxGeometry y="30" width="550" height="50" as="geometry" />
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-29" value="Such as a self-driving car, facial recognition for security purpose, NLP to communicate with the human in human-language" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-127" vertex="1">
+          <mxGeometry y="30" width="570" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-140" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="79" y="1220" width="670" height="440" as="geometry" />
@@ -176,214 +176,25 @@
           <mxGeometry y="30" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-166" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="74" y="2040" width="680" height="235" as="geometry" />
+          <mxGeometry x="74" y="2040" width="630" height="235" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-145" value="&lt;div&gt;Goals of AI?&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=23;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;arcSize=17;container=0;fontColor=#ffffff;" parent="xpKJjLeKlfq3drGUEYHt-166" vertex="1">
           <mxGeometry x="10" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-149" value="Solve Knowledge-intensive tasks" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-166" vertex="1">
-          <mxGeometry y="70" width="256" height="30" as="geometry" />
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-149" value="Solve Knowledge-intensive tasks" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-166" vertex="1">
+          <mxGeometry y="70" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-153" value="Building a machine which can perform tasks that requires human intelligence such as: [Proving a theorem, Playing chess, Plan some surgical operation, Driving a car in traffic]" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-166" vertex="1">
-          <mxGeometry y="180" width="680" height="55" as="geometry" />
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-153" value="Building a machine which can perform tasks that requires human intelligence such as: [Proving a theorem, Playing chess, Plan some surgical operation, Driving a car in traffic]" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-166" vertex="1">
+          <mxGeometry y="180" width="630" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-157" value="Creating some system which can exhibit intelligent behavior, learn new things by itself, demonstrate, explain, and can advise to its user." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;container=0;flipH=0;" parent="xpKJjLeKlfq3drGUEYHt-166" vertex="1">
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-157" value="Creating some system which can exhibit intelligent behavior, learn new things by itself, demonstrate, explain, and can advise to its user." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;container=0;flipH=0;" parent="xpKJjLeKlfq3drGUEYHt-166" vertex="1">
           <mxGeometry y="130" width="520.98" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-161" value="Cannot beat this power of human intelligence" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-166" vertex="1">
-          <mxGeometry y="100" width="351" height="30" as="geometry" />
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-161" value="Cannot beat this power of human intelligence" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-166" vertex="1">
+          <mxGeometry y="100" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-165" value="Replicate human intelligence" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-166" vertex="1">
-          <mxGeometry y="40" width="219" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-51" value="Types of AI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="40" y="2640" width="148" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-49" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;" parent="1" source="xpKJjLeKlfq3drGUEYHt-51" target="xpKJjLeKlfq3drGUEYHt-65" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="227" y="2665" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;" parent="1" source="xpKJjLeKlfq3drGUEYHt-51" target="xpKJjLeKlfq3drGUEYHt-55" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="227" y="2665" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;strokeColor=#000000;" parent="1" source="xpKJjLeKlfq3drGUEYHt-65" target="xpKJjLeKlfq3drGUEYHt-69" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="334" y="2555" as="sourcePoint" />
-            <mxPoint x="374" y="2586" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="340" y="2555" />
-              <mxPoint x="340" y="2385" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-63" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;" parent="1" source="xpKJjLeKlfq3drGUEYHt-65" target="xpKJjLeKlfq3drGUEYHt-75" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="334" y="2555" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;" parent="1" source="xpKJjLeKlfq3drGUEYHt-65" target="xpKJjLeKlfq3drGUEYHt-79" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="340" y="2555" />
-              <mxPoint x="340" y="2805" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-65" value="Based on Capabilities" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#000000;strokeWidth=2;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontSize=16;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="144" y="2540" width="166" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-79" value="Super&amp;nbsp;AI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontColor=#ffffff;fontStyle=1;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="373.94" y="2790" width="76.06" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-88" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Is surpass human intelligence, and can perform any task better than human.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="1" vertex="1">
-          <mxGeometry x="366" y="2850" width="420" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-89" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Include capability include the ability to think, to reason, solve the puzzle, make judgments, plan, learn, and communicate.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="1" vertex="1">
-          <mxGeometry x="366" y="2900" width="420" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-90" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Still a hypothetical concept of Artificial Intelligence.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="1" vertex="1">
-          <mxGeometry x="366" y="2820" width="344" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-167" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="366" y="2370" width="420" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-69" value="Weak AI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontSize=16;fontStyle=1;strokeWidth=2;fontColor=#ffffff;" parent="xpKJjLeKlfq3drGUEYHt-167" vertex="1">
-          <mxGeometry x="10" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-80" value="Is able to perform a dedicated task" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="xpKJjLeKlfq3drGUEYHt-167" vertex="1">
-          <mxGeometry y="30" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Cannot perform beyond its field or limitations `to` only trained for one specific task and can fail in unpredictable ways.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="xpKJjLeKlfq3drGUEYHt-167" vertex="1">
-          <mxGeometry y="60" width="420" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-82" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 14px;&quot;&gt;EX&lt;/font&gt;(Apple Siris, IBM&#39;s Watson supercomputer, playing chess)." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="xpKJjLeKlfq3drGUEYHt-167" vertex="1">
-          <mxGeometry y="110" width="420" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-168" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="366" y="2540" width="420" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-75" value="General AI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontSize=16;fontStyle=1;strokeWidth=2;fontColor=#ffffff;" parent="xpKJjLeKlfq3drGUEYHt-168" vertex="1">
-          <mxGeometry x="10" width="94" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-83" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Can perform any intellectual task with efficiency like a human.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="xpKJjLeKlfq3drGUEYHt-168" vertex="1">
-          <mxGeometry y="90" width="420" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-84" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Smarter and think like a human.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="xpKJjLeKlfq3drGUEYHt-168" vertex="1">
-          <mxGeometry y="60" width="223" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-85" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;No such system exist&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="xpKJjLeKlfq3drGUEYHt-168" vertex="1">
-          <mxGeometry y="30" width="154" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-86" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Worldwide researchers are now focused on developing machines with General AI.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="xpKJjLeKlfq3drGUEYHt-168" vertex="1">
-          <mxGeometry y="120" width="420" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-87" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;General AI Systems still under research, and it will take lots of efforts and time to develop.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="xpKJjLeKlfq3drGUEYHt-168" vertex="1">
-          <mxGeometry y="170" width="420" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-12" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="110" y="2990" width="330" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-3" value="Reactive Machines" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontColor=#ffffff;fontStyle=1;fontSize=16;strokeWidth=2;" parent="-yXsvrhgGh--1ZpngYir-12" vertex="1">
-          <mxGeometry x="7.940000000000001" width="152.06" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-4" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;Such AI systems&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;do not store memories&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;or&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;past experiences for future actions.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;spacing=2;spacingRight=1;" parent="-yXsvrhgGh--1ZpngYir-12" vertex="1">
-          <mxGeometry y="80" width="330" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-5" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;These machines only focus on current scenarios and react on it as per possible best&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;action.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="-yXsvrhgGh--1ZpngYir-12" vertex="1">
-          <mxGeometry y="130" width="330" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-6" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;Purely reactive machines are the&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;most basic types of Artificial Intelligence&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="-yXsvrhgGh--1ZpngYir-12" vertex="1">
-          <mxGeometry y="30" width="270" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-11" value="&lt;div style=&quot;&quot;&gt;e.g. : IBM&#39;s Deep Blue system &amp;amp;&amp;nbsp;Google&#39;s AlphaGo&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="-yXsvrhgGh--1ZpngYir-12" vertex="1">
-          <mxGeometry y="180" width="330" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-13" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="20" y="3280" width="350" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-7" value="Limited Memory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontColor=#ffffff;fontStyle=1;fontSize=16;strokeWidth=2;" parent="-yXsvrhgGh--1ZpngYir-13" vertex="1">
-          <mxGeometry x="7.940000000000001" width="142.06" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-8" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Limited memory machines&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;can store past experiences&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;or some data for&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;a short&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;period of time.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;spacing=2;spacingRight=1;" parent="-yXsvrhgGh--1ZpngYir-13" vertex="1">
-          <mxGeometry y="80" width="350" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-9" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Self-driving cars&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;are one of the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;best examples&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;of Limited Memory systems&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="-yXsvrhgGh--1ZpngYir-13" vertex="1">
-          <mxGeometry y="130" width="350" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-10" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;These machines can use&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;stored data for a limited time&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;period only.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="-yXsvrhgGh--1ZpngYir-13" vertex="1">
-          <mxGeometry y="30" width="350" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-14" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="460" y="2990" width="350" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-15" value="Theory of Mind" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontColor=#ffffff;fontStyle=1;fontSize=16;strokeWidth=2;" parent="-yXsvrhgGh--1ZpngYir-14" vertex="1">
-          <mxGeometry x="7.940000000000001" width="142.06" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-16" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;This type of AI machines are&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;still not developed,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;but researchers are making lots&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;of efforts and improvement for developing such AI machines.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;spacing=2;spacingRight=1;" parent="-yXsvrhgGh--1ZpngYir-14" vertex="1">
-          <mxGeometry y="100" width="350" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-18" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;Theory of Mind AI&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;should understand the human emotions&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, people, beliefs, and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;be able to interact socially like humans.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="-yXsvrhgGh--1ZpngYir-14" vertex="1">
-          <mxGeometry y="30" width="350" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-19" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="440" y="3280" width="350" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="-yXsvrhgGh--1ZpngYir-19" source="-yXsvrhgGh--1ZpngYir-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-370" y="-30" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="79" y="-30" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-20" value="Self-Awareness" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontColor=#ffffff;fontStyle=1;fontSize=16;strokeWidth=2;" parent="-yXsvrhgGh--1ZpngYir-19" vertex="1">
-          <mxGeometry x="7.940000000000001" width="142.06" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-21" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;These machines will be&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;smarter than human mind&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;spacing=2;spacingRight=1;" parent="-yXsvrhgGh--1ZpngYir-19" vertex="1">
-          <mxGeometry y="110" width="350" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-22" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;Self-Awareness AI&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;does not exist in reality&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;still and it is a&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;hypothetical concept.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="-yXsvrhgGh--1ZpngYir-19" vertex="1">
-          <mxGeometry y="140" width="350" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-23" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;Self-awareness AI is the&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;future of Artificial Intelligence&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;. These machines will be&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;super intelligent&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, and will have their own consciousness, sentiments, and self-&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;awareness.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="-yXsvrhgGh--1ZpngYir-19" vertex="1">
-          <mxGeometry y="30" width="350" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;" parent="1" source="xpKJjLeKlfq3drGUEYHt-55" target="-yXsvrhgGh--1ZpngYir-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="227" y="2860" />
-              <mxPoint x="340" y="2860" />
-              <mxPoint x="340" y="2970" />
-              <mxPoint x="539" y="2970" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;curved=0;" parent="1" source="xpKJjLeKlfq3drGUEYHt-55" target="-yXsvrhgGh--1ZpngYir-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="227" y="2940" />
-              <mxPoint x="227" y="2940" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;" parent="1" source="xpKJjLeKlfq3drGUEYHt-55" target="-yXsvrhgGh--1ZpngYir-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="227" y="2860" />
-              <mxPoint x="70" y="2860" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xpKJjLeKlfq3drGUEYHt-55" value="Based on&amp;nbsp;Functionality" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#000000;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingBottom=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="134" y="2760" width="186" height="30" as="geometry" />
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-165" value="Replicate human intelligence" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;container=0;" parent="xpKJjLeKlfq3drGUEYHt-166" vertex="1">
+          <mxGeometry y="40" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-28" value="" style="group;flipH=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="640" y="60" width="134" height="40" as="geometry" />
@@ -395,7 +206,7 @@
           <mxGeometry x="94" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-32" value="" style="group;flipH=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="660" y="3530" width="134" height="40" as="geometry" />
+          <mxGeometry x="660" y="3010" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-33" value="Chapter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#cce5ff;strokeColor=#000000;strokeWidth=2;fontFamily=Mina;arcSize=0;hachureGap=4;align=left;spacingRight=0;fontStyle=1;spacingLeft=7;" parent="-yXsvrhgGh--1ZpngYir-32" vertex="1">
           <mxGeometry width="114" height="40" as="geometry" />
@@ -404,7 +215,7 @@
           <mxGeometry x="94" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-35" value="" style="group;flipH=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="34" y="3530" width="600" height="100" as="geometry" />
+          <mxGeometry x="34" y="3010" width="600" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-36" value="Performance measure, Environment, Actuators, Sensors.&amp;nbsp;Must first specify the setting for intelligent agent design" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="-yXsvrhgGh--1ZpngYir-35" vertex="1">
           <mxGeometry y="40" width="600" height="60" as="geometry" />
@@ -413,7 +224,7 @@
           <mxGeometry x="20" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-104" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="30" y="3660" width="766.24" height="331.48" as="geometry" />
+          <mxGeometry x="30" y="3140" width="766.24" height="331.48" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-40" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=20;" parent="-yXsvrhgGh--1ZpngYir-104" vertex="1">
           <mxGeometry y="1.5796034740001432" width="127.70588196781341" height="53.20974137516127" as="geometry" />
@@ -472,7 +283,7 @@
         <mxCell id="-yXsvrhgGh--1ZpngYir-98" value="&lt;font face=&quot;Mina&quot;&gt;Camera, joint angle sensors&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#B8DAFF;strokeColor=#000000;container=0;fontStyle=1;fontSize=14;align=left;spacingLeft=5;" parent="-yXsvrhgGh--1ZpngYir-104" vertex="1">
           <mxGeometry x="340.5537267739553" y="256.98636207477426" width="212.84313661302235" height="74.49363792522578" as="geometry" />
         </mxCell>
-        <mxCell id="-yXsvrhgGh--1ZpngYir-99" value="&lt;font face=&quot;Mina&quot;&gt;Percentage of parts in correct bins&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#E5F2FF;strokeColor=#000000;container=0;fontStyle=1;fontSize=14;align=left;spacingLeft=5;" parent="-yXsvrhgGh--1ZpngYir-104" vertex="1">
+        <mxCell id="-yXsvrhgGh--1ZpngYir-99" value="&lt;font face=&quot;Mina&quot;&gt;Maximize student&#39;s score on test.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#E5F2FF;strokeColor=#000000;container=0;fontStyle=1;fontSize=14;align=left;spacingLeft=5;" parent="-yXsvrhgGh--1ZpngYir-104" vertex="1">
           <mxGeometry x="553.3968633869777" y="54.78934484916142" width="212.84313661302235" height="74.49363792522578" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-100" value="&lt;font face=&quot;Mina&quot;&gt;Set of students&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b8daff;strokeColor=#000000;container=0;fontStyle=1;fontSize=14;align=left;spacingLeft=5;" parent="-yXsvrhgGh--1ZpngYir-104" vertex="1">
@@ -485,7 +296,7 @@
           <mxGeometry x="553.3968633869777" y="256.98636207477426" width="212.84313661302235" height="74.49363792522578" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-105" value="" style="group;flipH=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="69" y="4030" width="690" height="100" as="geometry" />
+          <mxGeometry x="73" y="3537" width="690" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-106" value="Anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="-yXsvrhgGh--1ZpngYir-105" vertex="1">
           <mxGeometry y="40" width="690" height="60" as="geometry" />
@@ -500,25 +311,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-108" value="Types of Agents" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="318" y="4150" width="192" height="40" as="geometry" />
+          <mxGeometry x="322" y="3657" width="192" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-109" value="Human Agent" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="124" y="4210" width="156.06" height="40" as="geometry" />
+          <mxGeometry x="128" y="3717" width="156.06" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-110" value="Robotic Agent" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="540.06" y="4210" width="163.94" height="40" as="geometry" />
+          <mxGeometry x="544.06" y="3717" width="163.94" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-111" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;ul style=&quot;line-height: 120%;&quot;&gt;&lt;li&gt;Eyes, ears, and other organs for sensors&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;line-height: 120%;&quot;&gt;&lt;li&gt;Hands, legs, mouth, and other body parts for actuators&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;spacingLeft=-23;" parent="1" vertex="1">
-          <mxGeometry x="77.03" y="4250" width="250" height="120" as="geometry" />
+          <mxGeometry x="81.03" y="3757" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-112" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Cameras and infrared range finders for sensors&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Various motors for actuators&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;spacingLeft=-22;" parent="1" vertex="1">
-          <mxGeometry x="497.03" y="4250" width="250" height="120" as="geometry" />
+          <mxGeometry x="501.03" y="3757" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-124" value="Rational Agent" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=3;spacingRight=2;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="460" y="4430" width="170" height="40" as="geometry" />
+          <mxGeometry x="464" y="3937" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-125" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="40" y="4420" width="310" height="200" as="geometry" />
+          <mxGeometry x="44" y="3927" width="310" height="200" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-121" value="Agents prior knowledge of environment" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="-yXsvrhgGh--1ZpngYir-125" vertex="1">
           <mxGeometry y="80" width="310" height="40" as="geometry" />
@@ -536,16 +347,16 @@
           <mxGeometry x="20" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-126" value="&lt;div&gt;For each possible percept sequence, a rational agent should select an action that is expected to maximize its performance measure, given the evidence provided by the percept sequence and whatever built-in knowledge the agent has.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=11;" parent="1" vertex="1">
-          <mxGeometry x="430" y="4470" width="340" height="140" as="geometry" />
+          <mxGeometry x="434" y="3977" width="340" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-128" value="&lt;ul&gt;&lt;li&gt;Rational is different from omniscience&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Percepts may not supply all relevant information&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;E.g., in card game, don’t know cards of others.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#ffff88;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;spacingLeft=-22;" parent="1" vertex="1">
-          <mxGeometry x="48" y="4700" width="312" height="160" as="geometry" />
+          <mxGeometry x="52" y="4207" width="312" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-130" value="&lt;ul&gt;&lt;li&gt;Rational is different from being perfect&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Rationality maximizes expected outcome while perfection maximizes actual outcome.&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#ffff88;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;spacingLeft=-22;" parent="1" vertex="1">
-          <mxGeometry x="468" y="4700" width="312" height="150" as="geometry" />
+          <mxGeometry x="472" y="4207" width="312" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-131" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="84" y="4900" width="660" height="260" as="geometry" />
+          <mxGeometry x="88" y="4387" width="660" height="260" as="geometry" />
         </mxCell>
         <mxCell id="-yXsvrhgGh--1ZpngYir-132" value="&lt;div&gt;The autonomy of an agent is the extent to which its behaviour is determined by its own experience, rather than knowledge of designer.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Extremes:&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul style=&quot;font-size: 17px;&quot;&gt;&lt;li&gt;No autonomy – ignores environment/data&lt;br&gt;&lt;/li&gt;&lt;li&gt;Complete autonomy – must act randomly/no program&lt;/li&gt;&lt;/ul&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Example:&lt;/font&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;baby learning to crawl&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Ideal:&lt;/font&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt; design agents to have some autonomy&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;spacingLeft=5;spacingRight=3;arcSize=6;" parent="-yXsvrhgGh--1ZpngYir-131" vertex="1">
           <mxGeometry y="40" width="660" height="220" as="geometry" />
@@ -553,7 +364,7 @@
         <mxCell id="-yXsvrhgGh--1ZpngYir-133" value="Autonomy in Agents" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=3;spacingRight=2;fontColor=#ffffff;" parent="-yXsvrhgGh--1ZpngYir-131" vertex="1">
           <mxGeometry x="20" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2PeqqAuefZmJvmtweQ4K-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="2PeqqAuefZmJvmtweQ4K-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="110" y="1720" width="608" height="247" as="geometry" />
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-116" value="&lt;div&gt;What Comprises to AI?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e51400;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=3;spacingRight=2;fontColor=#ffffff;" parent="2PeqqAuefZmJvmtweQ4K-1" vertex="1">
@@ -588,6 +399,404 @@
         </mxCell>
         <mxCell id="xpKJjLeKlfq3drGUEYHt-115" value="Statistics" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;strokeWidth=2;fillColor=#eeeeee;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingLeft=0;" parent="xpKJjLeKlfq3drGUEYHt-141" vertex="1">
           <mxGeometry x="493.5" y="19" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hARPzameS_g3vOmezL0k-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="54" y="2350" width="720" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-51" value="Types of AI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontStyle=1;fontSize=20;strokeWidth=2;" parent="hARPzameS_g3vOmezL0k-3" vertex="1">
+          <mxGeometry y="270" width="148" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-49" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;" parent="hARPzameS_g3vOmezL0k-3" source="xpKJjLeKlfq3drGUEYHt-51" target="xpKJjLeKlfq3drGUEYHt-65" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;" parent="hARPzameS_g3vOmezL0k-3" source="xpKJjLeKlfq3drGUEYHt-51" target="xpKJjLeKlfq3drGUEYHt-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;strokeColor=#000000;" parent="hARPzameS_g3vOmezL0k-3" source="xpKJjLeKlfq3drGUEYHt-65" target="xpKJjLeKlfq3drGUEYHt-69" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294" y="185" as="sourcePoint" />
+            <mxPoint x="334" y="216" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="105" />
+              <mxPoint x="300" y="15" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-63" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;" parent="hARPzameS_g3vOmezL0k-3" source="xpKJjLeKlfq3drGUEYHt-65" target="xpKJjLeKlfq3drGUEYHt-75" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="105" />
+              <mxPoint x="250" y="105" />
+            </Array>
+            <mxPoint x="294" y="185" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;" parent="hARPzameS_g3vOmezL0k-3" source="xpKJjLeKlfq3drGUEYHt-65" target="xpKJjLeKlfq3drGUEYHt-79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="105" />
+              <mxPoint x="300" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-65" value="Based on Capabilities" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000066;strokeColor=#000000;strokeWidth=2;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontSize=16;fontStyle=1;fontColor=#ffffff;" parent="hARPzameS_g3vOmezL0k-3" vertex="1">
+          <mxGeometry x="107" y="90" width="166" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-168" value="" style="group" parent="hARPzameS_g3vOmezL0k-3" vertex="1" connectable="0">
+          <mxGeometry x="320" y="90" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-75" value="General AI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontSize=16;fontStyle=1;strokeWidth=2;fontColor=#ffffff;" parent="xpKJjLeKlfq3drGUEYHt-168" vertex="1">
+          <mxGeometry x="10" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-85" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Can do any &lt;font color=&quot;#ff0000&quot;&gt;task&lt;/font&gt; with &lt;font color=&quot;#ff0000&quot;&gt;intelligence&lt;/font&gt;, like a &lt;font color=&quot;#ff0000&quot;&gt;human&lt;/font&gt;.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="xpKJjLeKlfq3drGUEYHt-168" vertex="1">
+          <mxGeometry y="30" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-69" value="Weak AI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontSize=16;fontStyle=1;strokeWidth=2;fontColor=#ffffff;" parent="hARPzameS_g3vOmezL0k-3" vertex="1">
+          <mxGeometry x="330" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-80" value="Does one specific task &lt;font color=&quot;#ff0000&quot;&gt;intelligently&lt;/font&gt;." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="hARPzameS_g3vOmezL0k-3" vertex="1">
+          <mxGeometry x="320" y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-79" value="Super&amp;nbsp;AI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontColor=#ffffff;fontStyle=1;fontSize=16;strokeWidth=2;" parent="hARPzameS_g3vOmezL0k-3" vertex="1">
+          <mxGeometry x="327.94" y="180" width="76.06" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-90" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Surpasses&lt;/font&gt; human &lt;font color=&quot;#ff0000&quot;&gt;intelligence&lt;/font&gt;, &lt;font color=&quot;#ff0000&quot;&gt;outstanding&lt;/font&gt; in all tasks.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="hARPzameS_g3vOmezL0k-3" vertex="1">
+          <mxGeometry x="320" y="210" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-yXsvrhgGh--1ZpngYir-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;" parent="hARPzameS_g3vOmezL0k-3" source="xpKJjLeKlfq3drGUEYHt-55" target="-yXsvrhgGh--1ZpngYir-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="425" />
+              <mxPoint x="300" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-yXsvrhgGh--1ZpngYir-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;curved=0;" parent="hARPzameS_g3vOmezL0k-3" source="xpKJjLeKlfq3drGUEYHt-55" target="-yXsvrhgGh--1ZpngYir-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="425" />
+              <mxPoint x="300" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-yXsvrhgGh--1ZpngYir-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;" parent="hARPzameS_g3vOmezL0k-3" source="xpKJjLeKlfq3drGUEYHt-55" target="-yXsvrhgGh--1ZpngYir-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="425" />
+              <mxPoint x="300" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xpKJjLeKlfq3drGUEYHt-55" value="Based on&amp;nbsp;Functionality" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#990000;strokeColor=#000000;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingBottom=0;strokeWidth=2;fontColor=#ffffff;" parent="hARPzameS_g3vOmezL0k-3" vertex="1">
+          <mxGeometry x="92" y="410" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-yXsvrhgGh--1ZpngYir-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="hARPzameS_g3vOmezL0k-3" source="-yXsvrhgGh--1ZpngYir-20" target="xpKJjLeKlfq3drGUEYHt-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="555" />
+              <mxPoint x="300" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-yXsvrhgGh--1ZpngYir-3" value="Reactive Machines" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontColor=#ffffff;fontStyle=1;fontSize=16;strokeWidth=2;" parent="hARPzameS_g3vOmezL0k-3" vertex="1">
+          <mxGeometry x="327.94" y="270" width="152.06" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-yXsvrhgGh--1ZpngYir-6" value="&lt;div style=&quot;&quot;&gt;No memory for past actions; reacts to current situations.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="hARPzameS_g3vOmezL0k-3" vertex="1">
+          <mxGeometry x="320" y="300" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-yXsvrhgGh--1ZpngYir-15" value="Theory of Mind" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontColor=#ffffff;fontStyle=1;fontSize=16;strokeWidth=2;" parent="hARPzameS_g3vOmezL0k-3" vertex="1">
+          <mxGeometry x="327.94" y="360" width="142.06" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-yXsvrhgGh--1ZpngYir-18" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Understands human emotions, beliefs, and interacts socially.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="hARPzameS_g3vOmezL0k-3" vertex="1">
+          <mxGeometry x="320" y="390" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-yXsvrhgGh--1ZpngYir-7" value="Limited Memory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontColor=#ffffff;fontStyle=1;fontSize=16;strokeWidth=2;" parent="hARPzameS_g3vOmezL0k-3" vertex="1">
+          <mxGeometry x="327.94" y="450" width="142.06" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-yXsvrhgGh--1ZpngYir-10" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Remember past experiences for a short time.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="hARPzameS_g3vOmezL0k-3" vertex="1">
+          <mxGeometry x="320" y="480" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-yXsvrhgGh--1ZpngYir-20" value="Self-Awareness" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontColor=#ffffff;fontStyle=1;fontSize=16;strokeWidth=2;" parent="hARPzameS_g3vOmezL0k-3" vertex="1">
+          <mxGeometry x="327.94" y="540" width="142.06" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-yXsvrhgGh--1ZpngYir-23" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Super intelligent, with its perception, feelings, and self-awareness.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;fontSize=14;fontStyle=1;strokeWidth=2;spacingLeft=5;" parent="hARPzameS_g3vOmezL0k-3" vertex="1">
+          <mxGeometry x="320" y="570" width="350" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OaXBvurHLuHqObIW4biC" name="Page-2">
+    <mxGraphModel dx="1036" dy="-4051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-1" value="" style="curved=1;endArrow=oval;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endFill=1;startArrow=oval;startFill=1;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="5181.538461538462" as="sourcePoint" />
+            <mxPoint x="20" y="5181.538461538462" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="5160" />
+              <mxPoint x="470" y="5208.461538461538" />
+              <mxPoint x="540" y="5230" />
+              <mxPoint x="580" y="5213.846153846154" />
+              <mxPoint x="550" y="5186.923076923077" />
+              <mxPoint x="468" y="5186.923076923077" />
+              <mxPoint x="228" y="5197.692307692308" />
+              <mxPoint x="230" y="5160" />
+              <mxPoint x="298" y="5170.7692307692305" />
+              <mxPoint x="283" y="5203.076923076923" />
+              <mxPoint x="190" y="5213.846153846154" />
+              <mxPoint x="90" y="5197.692307692308" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-2" value="Agents" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fixedSize=1;size=16;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=ADLaM Display;fontSize=20;strokeWidth=2;align=center;spacingLeft=0;spacingBottom=5;fillStyle=hachure;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DADLaM%2BDisplay;" vertex="1" parent="1">
+          <mxGeometry x="304" y="5232" width="220.68" height="57.14" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="19" y="5290" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-4" value="Simple reflex agents" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#cdeb8b;strokeColor=#000000;strokeWidth=2;fontFamily=Mina;arcSize=50;hachureGap=4;align=right;spacingRight=5;fontStyle=1" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-3">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-5" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontFamily=Mina;fontStyle=1;fontSize=20;spacingTop=3;fontColor=#ffffff;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-3">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="5340" width="335" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-7" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Simple but very limited intelligence&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-6">
+          <mxGeometry y="35" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-8" value="Agent" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-6">
+          <mxGeometry x="20" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-9" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Actions don&#39;t depend on percept history, Only on current percept&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-6">
+          <mxGeometry y="65" width="325" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-10" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;No memory requirements&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-6">
+          <mxGeometry y="115" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-11" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Infinite loops&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-6">
+          <mxGeometry x="184" y="115" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-12" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Only succeed in the fully observable environment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-6">
+          <mxGeometry y="145" width="335" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-13" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Works on Condition-action rule which means it maps the current state to action&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-6">
+          <mxGeometry y="175" width="335" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-14" value="" style="group;flipH=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="5520" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-15" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;`&quot;[&quot;f:P&quot;*&quot;to A&quot;]&quot;`&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-14">
+          <mxGeometry width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-16" value="Agent Function" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-14">
+          <mxGeometry x="150" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-17" value="" style="group;flipH=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="5340" width="291" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-18" value="Mostly too big to generate and to store" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-17">
+          <mxGeometry x="21" y="95" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-19" value="Very limited intelligence" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-17">
+          <mxGeometry x="121" y="35" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-20" value="Transfare Rate" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e51400;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-17">
+          <mxGeometry x="121" width="170" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-21" value="No knowledge of hidden states" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-17">
+          <mxGeometry x="81" y="65" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-22" value="Not adaptive to changes in the environment" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-17">
+          <mxGeometry y="125" width="291" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="162" y="5580" width="503" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-24" value="" style="group" vertex="1" connectable="0" parent="EaI1ELZ1hYJHu-Qk60dJ-23">
+          <mxGeometry width="370" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-25" value=" " style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;arcSize=5;strokeWidth=2;textShadow=0;labelBorderColor=none;strokeColor=#000000;glass=0;shadow=0;gradientColor=none;gradientDirection=radial;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-24">
+          <mxGeometry width="370" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-26" value="Agent" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=none;strokeColor=default;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#000000;fillStyle=dots;arcSize=35;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-24">
+          <mxGeometry width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;startSize=3;endSize=3;" edge="1" parent="EaI1ELZ1hYJHu-Qk60dJ-24" source="EaI1ELZ1hYJHu-Qk60dJ-28" target="EaI1ELZ1hYJHu-Qk60dJ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-28" value="Sensors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontSize=18;fontStyle=1" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-24">
+          <mxGeometry x="230" y="12.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=3;startSize=3;" edge="1" parent="EaI1ELZ1hYJHu-Qk60dJ-24" source="EaI1ELZ1hYJHu-Qk60dJ-30" target="EaI1ELZ1hYJHu-Qk60dJ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;What the world is like now&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;arcSize=12;fontFamily=Mina;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-24">
+          <mxGeometry x="200" y="67.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=3;startSize=3;" edge="1" parent="EaI1ELZ1hYJHu-Qk60dJ-24" source="EaI1ELZ1hYJHu-Qk60dJ-32" target="EaI1ELZ1hYJHu-Qk60dJ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;What action should do now&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;arcSize=12;fontFamily=Mina;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-24">
+          <mxGeometry x="200" y="131" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-33" value="Actuators" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontSize=18;fontStyle=1" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-24">
+          <mxGeometry x="220" y="197.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Condition action rules&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;arcSize=12;fontFamily=Mina;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-24">
+          <mxGeometry x="20" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-35" value="Environment" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fillColor=#eeeeee;arcSize=13;strokeWidth=2;textShadow=0;labelBorderColor=none;strokeColor=#000000;glass=0;shadow=0;gradientColor=none;gradientDirection=radial;fontSize=32;fontStyle=1;textDirection=vertical-lr;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-23">
+          <mxGeometry x="433" width="70" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="EaI1ELZ1hYJHu-Qk60dJ-23" source="EaI1ELZ1hYJHu-Qk60dJ-35" target="EaI1ELZ1hYJHu-Qk60dJ-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="28" />
+              <mxPoint x="380" y="28" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="EaI1ELZ1hYJHu-Qk60dJ-23" source="EaI1ELZ1hYJHu-Qk60dJ-33" target="EaI1ELZ1hYJHu-Qk60dJ-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="213" />
+              <mxPoint x="380" y="213" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-38" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="28" y="5870" width="285" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-39" value="Model-based reflex agent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#cdeb8b;strokeColor=#000000;strokeWidth=2;fontFamily=Mina;arcSize=50;hachureGap=4;align=right;spacingRight=5;fontStyle=1" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-38">
+          <mxGeometry width="285" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-40" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontFamily=Mina;fontStyle=1;fontSize=20;spacingTop=3;fontColor=#ffffff;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-38">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-41" value="" style="group;flipH=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="430" y="6060" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-42" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;`&quot;[&quot;f:P&quot;*&quot;,A&quot;*&quot;to S to A&quot;]&quot;`&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;fontSize=17;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-41">
+          <mxGeometry width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-43" value="Agent Function" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-41">
+          <mxGeometry x="210" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-44" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Work in a partially observable has two important factors:&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="29" y="5955" width="382" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-45" value="Agent" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="49" y="5920" width="91" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-46" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Model: It is knowledge about &quot;how things happen in the world&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="58" y="5985" width="282" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-47" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Internal State: It is a representation of the current state based on percept history.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="58" y="6030" width="282" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-48" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Updating the agent state requires information about:&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="447" y="5955" width="352" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-49" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;How the world evolves&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="477" y="5985" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-50" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;How the agent&#39;s action affects the world.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="477" y="6015" width="282" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-51" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="139" y="6130" width="550" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-52" value=" " style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;arcSize=5;strokeWidth=2;textShadow=0;labelBorderColor=none;strokeColor=#000000;glass=0;shadow=0;gradientColor=none;gradientDirection=radial;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51">
+          <mxGeometry width="422" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-53" value="Environment" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fillColor=#eeeeee;arcSize=13;strokeWidth=2;textShadow=0;labelBorderColor=none;strokeColor=#000000;glass=0;shadow=0;gradientColor=none;gradientDirection=radial;fontSize=32;fontStyle=1;textDirection=vertical-lr;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51">
+          <mxGeometry x="480" width="70" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51" source="EaI1ELZ1hYJHu-Qk60dJ-53" target="EaI1ELZ1hYJHu-Qk60dJ-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432" y="28" />
+              <mxPoint x="432" y="28" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51" source="EaI1ELZ1hYJHu-Qk60dJ-64" target="EaI1ELZ1hYJHu-Qk60dJ-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="235" />
+              <mxPoint x="390" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-56" value="Agent" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=none;strokeColor=default;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#000000;fillStyle=dots;arcSize=35;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51">
+          <mxGeometry width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;startSize=3;endSize=3;" edge="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51" source="EaI1ELZ1hYJHu-Qk60dJ-58" target="EaI1ELZ1hYJHu-Qk60dJ-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-58" value="Sensors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontSize=18;fontStyle=1" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51">
+          <mxGeometry x="282" y="12.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=3;startSize=3;" edge="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51" source="EaI1ELZ1hYJHu-Qk60dJ-61" target="EaI1ELZ1hYJHu-Qk60dJ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;curved=0;" edge="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51" source="EaI1ELZ1hYJHu-Qk60dJ-61" target="EaI1ELZ1hYJHu-Qk60dJ-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="28" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;What the world is like now&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;arcSize=12;fontFamily=Mina;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51">
+          <mxGeometry x="252" y="80" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=3;startSize=3;" edge="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51" source="EaI1ELZ1hYJHu-Qk60dJ-63" target="EaI1ELZ1hYJHu-Qk60dJ-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-63" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;What action should do now&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;arcSize=12;fontFamily=Mina;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51">
+          <mxGeometry x="252" y="162.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-64" value="Actuators" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontSize=18;fontStyle=1" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51">
+          <mxGeometry x="272" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51" source="EaI1ELZ1hYJHu-Qk60dJ-66" target="EaI1ELZ1hYJHu-Qk60dJ-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-66" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;How the world evolves&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;arcSize=12;fontFamily=Mina;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51">
+          <mxGeometry x="25" y="65" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-67" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51" source="EaI1ELZ1hYJHu-Qk60dJ-68" target="EaI1ELZ1hYJHu-Qk60dJ-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="252" y="72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-68" value="Sensors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontSize=16;fontStyle=1;fillColor=#cce5ff;strokeColor=default;strokeWidth=2;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51">
+          <mxGeometry x="160" y="12.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51" source="EaI1ELZ1hYJHu-Qk60dJ-70" target="EaI1ELZ1hYJHu-Qk60dJ-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;What my actions do&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;arcSize=12;fontFamily=Mina;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51">
+          <mxGeometry x="34" y="117.5" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51" source="EaI1ELZ1hYJHu-Qk60dJ-72" target="EaI1ELZ1hYJHu-Qk60dJ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EaI1ELZ1hYJHu-Qk60dJ-72" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Condition-Action Rules&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;arcSize=12;fontFamily=Mina;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="EaI1ELZ1hYJHu-Qk60dJ-51">
+          <mxGeometry x="24" y="165" width="162" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
