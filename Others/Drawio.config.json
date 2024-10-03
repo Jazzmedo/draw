@@ -1,9 +1,10 @@
 {
   "language": "",
-  "configVersion": null,
+  "configVersion": 18,
   "customFonts": [
     {
-      "name": "Mina"
+      "name": "Mina",
+      "url": "https://fonts.googleapis.com/css?family=Mina"
     },
     {
       "name": "Sifonn Basic"
@@ -27,19 +28,7 @@
       "name": "Architects Daughter"
     },
     {
-      "name": "Kufam Regular"
-    },
-    {
-      "name": "Kufam Medium"
-    },
-    {
-      "name": "Kufam Bold"
-    },
-    {
       "name": "Dune Rise"
-    },
-    {
-      "name": "Cairo Regular"
     },
     {
       "name": "MuseoModerno",
@@ -48,6 +37,50 @@
     {
       "name": "Tektur",
       "url": "https://fonts.googleapis.com/css?family=Tektur"
+    },
+    {
+      "name": "Cairo",
+      "url": "https://fonts.googleapis.com/css?family=Cairo"
+    },
+    {
+      "name": "Poiret One",
+      "url": "https://fonts.googleapis.com/css?family=Poiret+One"
+    },
+    {
+      "name": "Comfortaa",
+      "url": "https://fonts.googleapis.com/css?family=Comfortaa"
+    },
+    {
+      "name": "Chakra Petch",
+      "url": "https://fonts.googleapis.com/css?family=Chakra+Petch"
+    },
+    {
+      "name": "Oxanium",
+      "url": "https://fonts.googleapis.com/css?family=Oxanium"
+    },
+    {
+      "name": "Baloo Bhaijaan 2",
+      "url": "https://fonts.googleapis.com/css?family=Baloo+Bhaijaan+2"
+    },
+    {
+      "name": "Gayathri",
+      "url": "https://fonts.googleapis.com/css?family=Gayathri"
+    },
+    {
+      "name": "Araboto-Normal",
+      "url": "https://fonts.googleapis.com/css?family=Araboto-Normal"
+    },
+    {
+      "name": "Kufam",
+      "url": "https://fonts.googleapis.com/css?family=Kufam"
+    },
+    {
+      "name": "Fustat",
+      "url": "https://fonts.googleapis.com/css?family=Fustat"
+    },
+    {
+      "name": "Changa",
+      "url": "https://fonts.googleapis.com/css?family=Changa"
     }
   ],
   "libraries": "general;uml;er;bpmn;flowchart;basic;arrows2",
@@ -56,16 +89,16 @@
   ],
   "plugins": [],
   "recentColors": [
-    "none",
-    "FF0000",
-    "A0CDFD",
-    "ccdaff",
-    "000000",
-    "FF9999",
-    "999900",
+    "C365F1",
+    "c365f1",
+    "000034",
     "FFFFFF",
+    "none",
+    "000000",
+    "CC6600",
     "0000FF",
-    "FF8000",
+    "009900",
+    "6600CC",
     "00FF00"
   ],
   "formatWidth": "240",
@@ -73,8 +106,8 @@
   "pageFormat": {
     "x": 0,
     "y": 0,
-    "width": 827,
-    "height": 1169
+    "width": 1024,
+    "height": 1024
   },
   "search": true,
   "showStartScreen": true,
@@ -82,12 +115,11 @@
   "darkGridColor": "#424242",
   "autosave": true,
   "resizeImages": null,
-  "openCounter": 107,
+  "openCounter": 109,
   "version": 18,
   "unit": 1,
-  "isRulerOn": true,
-  "ui": "kennedy",
-  "darkMode": false,
-  "sketchMode": false,
-  "pages": true
+  "isRulerOn": false,
+  "ui": "dark",
+  "darkMode": true,
+  "sketchMode": false
 }
