@@ -1,0 +1,64 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="Page-1" id="IwMiIC_8yUm4fLXyqe0M">
+    <mxGraphModel dx="1036" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-1" value="Quality Assurance Midterm" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fixedSize=1;size=16;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=ADLaM Display;fontSize=20;strokeWidth=2;align=center;spacingLeft=0;spacingBottom=5;fillStyle=hachure;fontStyle=1;rounded=1;arcSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DADLaM%2BDisplay;" vertex="1" parent="1">
+          <mxGeometry x="264" y="20" width="299.32" height="57.14" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-2" value="" style="triangle;whiteSpace=wrap;html=1;dashed=0;direction=south;fillColor=#e51400;fontColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontFamily=Kufam;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKufam;verticalAlign=top;spacingTop=5;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="730" y="20" width="87" height="68.13" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="54" y="110" width="720" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-4" value="&lt;div&gt;A systematic, planned set of actions necessary to provide adequate confidence that&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;the software development or the maintenance process Of a software system&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;product conforms to established functional technical requirements as well as With&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;the managerial requirements of keeping the schedule and operating within the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;budgetary confines.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=15;" vertex="1" parent="BXh0nDcgOIVhTgeqGbve-3">
+          <mxGeometry y="40" width="720" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-5" value="Software Quality Assurance" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;" vertex="1" parent="BXh0nDcgOIVhTgeqGbve-3">
+          <mxGeometry x="20" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="89" y="280" width="649" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-9" value="&lt;font face=&quot;Mina&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Complexity&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;" vertex="1" parent="BXh0nDcgOIVhTgeqGbve-28">
+          <mxGeometry y="50" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-13" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Usually, very complex product&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;allowing for very large number&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;of operational options&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontSize=16;fontStyle=1;align=left;spacingLeft=4;verticalAlign=middle;" vertex="1" parent="BXh0nDcgOIVhTgeqGbve-28">
+          <mxGeometry x="150" y="50" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-17" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Mina&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Degree of complexity much&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Mina&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;lower, allowing at most a few&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Mina&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;thousand operational options&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d0cee2;strokeColor=#000000;fontSize=16;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=4;" vertex="1" parent="BXh0nDcgOIVhTgeqGbve-28">
+          <mxGeometry x="390" y="50" width="259" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Characteristic&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=20;fontFamily=ADLaM Display;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DADLaM%2BDisplay;fontStyle=0;fontColor=#ffffff;" vertex="1" parent="BXh0nDcgOIVhTgeqGbve-28">
+          <mxGeometry width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Software products&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#000000;fontSize=20;fontFamily=ADLaM Display;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DADLaM%2BDisplay;fontStyle=0;fontColor=#ffffff;" vertex="1" parent="BXh0nDcgOIVhTgeqGbve-28">
+          <mxGeometry x="150" width="247.22" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Other Industrial Products&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=20;fontFamily=ADLaM Display;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DADLaM%2BDisplay;fontStyle=0;fontColor=#ffffff;" vertex="1" parent="BXh0nDcgOIVhTgeqGbve-28">
+          <mxGeometry x="390" width="259" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-22" value="&lt;font&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Visibility of product&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="BXh0nDcgOIVhTgeqGbve-28">
+          <mxGeometry y="130" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-23" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div&gt;Invisible product, impossible&lt;/div&gt;&lt;div&gt;to detect defects or omissions&lt;/div&gt;&lt;div&gt;by sight (e.g. of a diskette or&lt;/div&gt;&lt;div&gt;CD storing the software)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;fontFamily=Mina;fontSize=16;fontStyle=1;align=left;spacingLeft=4;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="BXh0nDcgOIVhTgeqGbve-28">
+          <mxGeometry x="150" y="130" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-24" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div&gt;Visible product, allowing&lt;/div&gt;&lt;div&gt;effective detection of defects&lt;/div&gt;&lt;div&gt;by sight&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d0cee2;strokeColor=#000000;fontSize=16;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="BXh0nDcgOIVhTgeqGbve-28">
+          <mxGeometry x="390" y="130" width="259" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-25" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Nature of development&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;and production process&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontSize=20;" vertex="1" parent="BXh0nDcgOIVhTgeqGbve-28">
+          <mxGeometry y="220" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-26" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Opportunities to detect defects&lt;/div&gt;&lt;div style=&quot;&quot;&gt;arise in only one phase,&lt;/div&gt;&lt;div style=&quot;&quot;&gt;namely product development&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;fontFamily=Mina;fontSize=16;fontStyle=1;align=left;spacingLeft=4;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="BXh0nDcgOIVhTgeqGbve-28">
+          <mxGeometry x="150" y="220" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BXh0nDcgOIVhTgeqGbve-27" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Opportunities to detect&lt;/div&gt;&lt;div style=&quot;&quot;&gt;defects arise in all phases of&lt;/div&gt;&lt;div style=&quot;&quot;&gt;development and production:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;Product Development&lt;/li&gt;&lt;li&gt;Product production&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d0cee2;strokeColor=#000000;fontSize=16;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=4;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingTop=13;" vertex="1" parent="BXh0nDcgOIVhTgeqGbve-28">
+          <mxGeometry x="390" y="220" width="259" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
