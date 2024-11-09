@@ -844,8 +844,8 @@
         <mxCell id="TtS9juuq12lrhuoORuy9-44" value="Average Time" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#333333;strokeColor=#000000;strokeWidth=2;fontFamily=Mina;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontStyle=1;fontColor=#ffffff;" parent="TtS9juuq12lrhuoORuy9-42" vertex="1">
           <mxGeometry x="30" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TtS9juuq12lrhuoORuy9-43" value="&lt;div style=&quot;direction: ltr;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(3+16+9+0) / 4 = 7&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;fontFamily=Changa;arcSize=0;hachureGap=4;align=right;spacingRight=5;fontStyle=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChanga;" parent="TtS9juuq12lrhuoORuy9-42" vertex="1">
-          <mxGeometry y="40" width="190" height="40" as="geometry" />
+        <mxCell id="TtS9juuq12lrhuoORuy9-43" value="&lt;div style=&quot;direction: ltr;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(3+16+9+0) / 4 = 7&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;fontFamily=Changa;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontStyle=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChanga;" parent="TtS9juuq12lrhuoORuy9-42" vertex="1">
+          <mxGeometry x="10" y="40" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TtS9juuq12lrhuoORuy9-48" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="9" y="4690" width="380" height="40" as="geometry" />
