@@ -1,0 +1,22 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="E_IGWqvpDnxncTXSa72u">
+    <mxGraphModel dx="1434" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="1654" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZxauiuDKG2g1dHI-4sZQ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;arcSize=5;fillStyle=cross-hatch;fillColor=#d8e5d7;strokeColor=none;sketch=1;curveFitting=1;jiggle=2;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="1720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxauiuDKG2g1dHI-4sZQ-2" value="Sampling" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Marhey;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMarhey;fontSize=52;fontColor=#f8932f;" vertex="1" parent="1">
+          <mxGeometry x="502.86" y="30" width="257.14" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxauiuDKG2g1dHI-4sZQ-5" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Marhey;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMarhey;fontSize=72;fontColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="220" y="40" width="77.14" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxauiuDKG2g1dHI-4sZQ-7" value="The sampling frequency must be at least twice the highest frequency ( `f_{max}` ) in a signal" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Comic Sans MS;strokeWidth=2;fillColor=#ffcccc;strokeColor=none;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;sketch=1;jiggle=2;curveFitting=1;fontColor=default;fillStyle=zigzag;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="720" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
