@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DBf462meMkfPZxIZ3yuq-1" value="Operating System Midterm" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fixedSize=1;size=16;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=ADLaM Display;fontSize=20;strokeWidth=2;align=center;spacingLeft=0;spacingBottom=5;fillStyle=hachure;fontStyle=1;rounded=1;arcSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DADLaM%2BDisplay;" vertex="1" parent="1">
-          <mxGeometry x="264" y="30" width="299.32" height="57.14" as="geometry" />
+        <mxCell id="DBf462meMkfPZxIZ3yuq-1" value="Modeling &amp; Simulation Midterm" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fixedSize=1;size=16;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=ADLaM Display;fontSize=20;strokeWidth=2;align=center;spacingLeft=0;spacingBottom=5;fillStyle=hachure;fontStyle=1;rounded=1;arcSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DADLaM%2BDisplay;" vertex="1" parent="1">
+          <mxGeometry x="237.32" y="30" width="352.68" height="57.14" as="geometry" />
+        </mxCell>
+        <mxCell id="DBf462meMkfPZxIZ3yuq-2" value="" style="triangle;whiteSpace=wrap;html=1;dashed=0;direction=south;fillColor=#e51400;fontColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontFamily=Kufam;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKufam;verticalAlign=top;spacingTop=5;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="720" y="24.5" width="87" height="68.13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
