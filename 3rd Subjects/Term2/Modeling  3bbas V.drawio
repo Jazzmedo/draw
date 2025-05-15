@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5" pages="5">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2" pages="5">
   <diagram name="Page-1" id="lEEVBHIyu8XrA76qkRSj">
     <mxGraphModel dx="888" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,281 +245,284 @@
     </mxGraphModel>
   </diagram>
   <diagram id="q4xhOBBaB0EgW-x6xwnA" name="Chi-Test">
-    <mxGraphModel dx="1003" dy="-1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="983" dy="-1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="43nDSbNnqOTWgxMdbby4-1" value="&lt;font face=&quot;Mali&quot;&gt;Because `n` not given i will assume it with `n = 10`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="43nDSbNnqOTWgxMdbby4-1" value="&lt;font face=&quot;Mali&quot;&gt;Because `n` not given i will assume it with `n = 10`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="79.96" y="2491.5" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="43nDSbNnqOTWgxMdbby4-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Mali&quot; face=&quot;Mali&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 204);&quot;&gt;Chi-Square Test&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;spacingLeft=5;" vertex="1" parent="1">
+        <mxCell id="43nDSbNnqOTWgxMdbby4-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Mali&quot; face=&quot;Mali&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 204);&quot;&gt;Chi-Square Test&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="40" y="2360" width="201" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="43nDSbNnqOTWgxMdbby4-3" value="&lt;div&gt;1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="43nDSbNnqOTWgxMdbby4-3" value="&lt;div&gt;1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="39.96" y="2491.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="43nDSbNnqOTWgxMdbby4-4" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;Given a matrix with size `10\cdot 10` that&#39;s mean `N = 100`&amp;nbsp;and `\alpha`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mali;strokeWidth=2;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;fillColor=#bac8d3;strokeColor=#23445d;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" vertex="1" parent="1">
+        <mxCell id="43nDSbNnqOTWgxMdbby4-4" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;Given a matrix with size `10\cdot 10` that&#39;s mean `N = 100`&amp;nbsp;and `\alpha`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mali;strokeWidth=2;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;fillColor=#bac8d3;strokeColor=#23445d;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="40" y="2420" width="480" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="43nDSbNnqOTWgxMdbby4-5" value="Draw Table&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mali;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" vertex="1" parent="1">
+        <mxCell id="43nDSbNnqOTWgxMdbby4-5" value="Draw Table&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mali;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="1" vertex="1">
           <mxGeometry x="80" y="2627.61" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="43nDSbNnqOTWgxMdbby4-11" value="&lt;div&gt;2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="43nDSbNnqOTWgxMdbby4-11" value="&lt;div&gt;2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="40" y="2627.61" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="43nDSbNnqOTWgxMdbby4-12" value="ميزة الـ Chi-Square بقي ان لو عندي عدد قيم اكبر من `5` او `10` حتي هيبقي مش سهل عليا احل بطريقة الـ KST عشان كده هنعرف الـ Chi-Square اللي بيبقي فعال معايا لما تكون الـ `N` اكبر من `25`" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=right;fontStyle=1;textDirection=rtl;fontSize=15;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="43nDSbNnqOTWgxMdbby4-12" value="ميزة الـ Chi-Square بقي ان لو عندي عدد قيم اكبر من `5` او `10` حتي هيبقي مش سهل عليا احل بطريقة الـ KST عشان كده هنعرف الـ Chi-Square اللي بيبقي فعال معايا لما تكون الـ `N` اكبر من `25`" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=right;fontStyle=1;textDirection=rtl;fontSize=15;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="2370" width="348.5" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="43nDSbNnqOTWgxMdbby4-13" value="هنا بنعد كام مرة ظهر رقم في رينج الـ interval." style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=center;fontStyle=1;textDirection=rtl;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="43nDSbNnqOTWgxMdbby4-13" value="هنا بنعد كام مرة ظهر رقم في رينج الـ interval." style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=center;fontStyle=1;textDirection=rtl;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="210" y="2622.39" width="110" height="45.22" as="geometry" />
         </mxCell>
-        <mxCell id="z8cir35tBxigorARFN-r-1" value="ممكن يديك array كبيرة مثلا او matrix المهم ان حجمهم اللي هو الـ `N` و كمان قيمة الـ `\alpha` و ممكن يديك قيمة `n` ودي عدد الـ intervals اللي عندي او هقسم ال data بتاعتي كام جزء ,,, طب لو مش given وقتها لازم اتصرف فــهفرض قيمة من عندي بحيث اعرف أقسم الـ `N` لعدد intervals تكون متساوية." style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=right;fontStyle=1;textDirection=rtl;fontSize=15;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="2470" width="288.5" height="83" as="geometry" />
+        <mxCell id="z8cir35tBxigorARFN-r-1" value="ممكن يديك array كبيرة مثلا او matrix المهم ان حجمهم اللي هو الـ `N` و كمان قيمة الـ `\alpha` و ممكن يديك قيمة `n` ودي عدد الـ intervals اللي عندي او هقسم ال data بتاعتي كام جزء ,,, طب لو مش given وقتها لازم اتصرف فــهفرض قيمة من عندي بحيث اعرف أقسم الـ `N` لعدد intervals تكون متساوية." style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=right;fontStyle=1;textDirection=rtl;fontSize=15;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="2550" width="288.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-1" value="`\chi_{\circ}^2 = \sum_{i=1}^k {(O_i - E_i)^2}/E_i`" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=13;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-1" value="`\chi_{\circ}^2 = \sum_{i=1}^k {(O_i - E_i)^2}/E_i`" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#b1ddf0;strokeColor=default;fontSize=13;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="79.95999999999998" y="2550" width="152" height="54.55" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-2" value="`E = N / n`" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=13;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-2" value="`E = N / n`" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#b1ddf0;strokeColor=default;fontSize=13;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="250" y="2550" width="70" height="54.55" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-46" value="5" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-46" value="5" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="53.04" y="2868.12" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-47" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;6&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-47" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;6&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="53" y="2904.16" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-48" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;7&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-48" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;7&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="53" y="2940.2" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-49" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;8&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-49" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;8&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="53" y="2976.24" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-54" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-54" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="227.96000000000006" y="2868.12" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-55" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-55" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="227.92000000000007" y="2904.16" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-56" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-56" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="227.92000000000007" y="2940.2" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-57" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-57" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="227.92000000000007" y="2976.24" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-58" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-58" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="314.9600000000001" y="2868.12" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-59" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-59" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="314.9200000000001" y="2904.16" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-60" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-60" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="314.9200000000001" y="2940.2" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-61" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-61" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="314.9200000000001" y="2976.24" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-62" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-62" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="402.0400000000001" y="2868.12" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-63" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-63" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="402.00000000000006" y="2904.16" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-64" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-64" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="402.00000000000006" y="2940.2" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-65" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-65" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="402.00000000000006" y="2976.24" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-66" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-66" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="489.04000000000013" y="2868.12" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-67" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-67" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="489.0000000000001" y="2904.16" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-68" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-68" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="489.0000000000001" y="2940.2" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-69" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-69" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="489.0000000000001" y="2976.24" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-70" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-70" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="576" y="2868.12" width="86.75" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-71" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-71" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="576" y="2904.16" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-72" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-72" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="576" y="2940.2" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-73" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-73" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="576" y="2976.24" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-74" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;9&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-74" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;9&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="53" y="3010.2" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-75" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;10&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-75" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;10&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="53" y="3046.24" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-78" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-78" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="227.92000000000007" y="3010.2" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-79" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="PZnLodhZb1bgM4EHI_7N-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="D0P-cQOBXl9gxgHHSvNB-79" target="v8tUN5qOXzX8aflVS6cc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-79" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="227.92000000000007" y="3046.24" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-80" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-80" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="314.9200000000001" y="3010.2" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-81" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-81" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="314.9200000000001" y="3046.24" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-82" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-82" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="402.00000000000006" y="3010.2" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-83" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-83" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="402.00000000000006" y="3046.24" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-84" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-84" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="489.0000000000001" y="3010.2" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-85" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-85" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="489.0000000000001" y="3046.24" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-86" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-86" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="576" y="3010" width="86.96" height="36.24" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-87" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-87" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="576" y="3046.24" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-23" value="&lt;b&gt;`E_i`&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-23" value="&lt;b&gt;`E_i`&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="314.9600000000001" y="2690" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-24" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-24" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="314.9600000000001" y="2726.04" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-25" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-25" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="314.9200000000001" y="2762.08" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-26" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-26" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="314.9200000000001" y="2798.12" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-27" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-27" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="314.9200000000001" y="2834.16" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-90" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-90" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#bac8d3;strokeColor=default;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="576" y="3080.2" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-41" value="&lt;b&gt;`(O-E)^2/E`&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=10;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-41" value="&lt;b&gt;`(O-E)^2/E`&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=default;fontColor=#ffffff;container=0;fontSize=10;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="576" y="2690" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-42" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-42" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="576" y="2726.04" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-43" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-43" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="576" y="2762.08" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-44" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-44" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="576" y="2798.12" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-45" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-45" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="576" y="2834.16" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-35" value="&lt;b&gt;`(O-E)^2`&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=14;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-35" value="&lt;b&gt;`(O-E)^2`&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=14;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="489.04000000000013" y="2690" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-36" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-36" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="489.04000000000013" y="2726.04" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-37" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-37" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="489.0000000000001" y="2762.08" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-38" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-38" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="489.0000000000001" y="2798.12" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-39" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-39" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="489.0000000000001" y="2834.16" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-29" value="&lt;b&gt;`O-E`&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=15;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-29" value="&lt;b&gt;`O-E`&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=15;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="402.0400000000001" y="2690" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-30" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-30" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="402.0400000000001" y="2726.04" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-31" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-31" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="402.00000000000006" y="2762.08" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-32" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-32" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="402.00000000000006" y="2798.12" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-33" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-33" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="402.00000000000006" y="2834.16" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-17" value="&lt;b&gt;`O_i`&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-17" value="&lt;b&gt;`O_i`&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="227.96000000000006" y="2690" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-18" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-18" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="227.96000000000006" y="2726.04" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-19" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-19" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="227.92000000000007" y="2762.08" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-20" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-20" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="227.92000000000007" y="2798.12" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-21" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-21" value=".." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="227.92000000000007" y="2834.16" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-50" value="`[0.4-0.5[`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-50" value="`[0.4-0.5]`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="140.04073085444645" y="2868.12" width="88.54887756660618" height="36.04000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-51" value="`[0.5-0.6[`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-51" value="`[0.5-0.6]`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="140" y="2904.16" width="88.54887756660618" height="36.04000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-52" value="`[0.6-0.7[`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-52" value="`[0.6-0.7]`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="140" y="2940.2" width="88.54887756660618" height="36.04000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-53" value="`[0.7-0.8[`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-53" value="`[0.7-0.8]`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="140" y="2976.24" width="88.54887756660618" height="33.960000000000015" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-76" value="`[0.8-0.9[`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-76" value="`[0.8-0.9]`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="140" y="3010.2" width="88.54887756660618" height="36.04000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-77" value="`[0.9-1.0[`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-77" value="`[0.9-1.0]`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="140" y="3046.24" width="88.54887756660618" height="33.960000000000015" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-11" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;Upperlimit&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-11" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;Upperlimit&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="140.04073085444648" y="2690" width="88.54887756660618" height="36.04000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-12" value="`[0-0.1[`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-12" value="`[0-0.1]`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="140.04073085444648" y="2726.04" width="88.54887756660618" height="36.04000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-13" value="&lt;span&gt;`[0.1-0.2[`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-13" value="&lt;span&gt;`[0.1-0.2]`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="140" y="2762.08" width="88.54887756660618" height="36.04000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-14" value="`[0.2-0.3[`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-14" value="`[0.2-0.3]`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="140" y="2798.12" width="88.54887756660618" height="36.04000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-15" value="`[0.3-0.4[`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-15" value="`[0.3-0.4]`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="140" y="2834.16" width="88.54887756660618" height="33.960000000000015" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-5" value="&lt;b&gt;Interval&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-5" value="&lt;b&gt;Interval&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="53.04" y="2690" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-6" value="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-6" value="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="53.04" y="2726.04" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="53" y="2762.08" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="53" y="2798.12" width="86.96" height="36.04" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;4&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;4&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="1" vertex="1">
           <mxGeometry x="53" y="2834.16" width="86.96" height="33.96" as="geometry" />
         </mxCell>
-        <mxCell id="D0P-cQOBXl9gxgHHSvNB-93" value="هنا بنـ Fill بقيمة الـ `E_i` اللي حسبناها قبل كده `E_i=N/n=100/10`" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=center;fontStyle=1;textDirection=rtl;fontSize=13;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="D0P-cQOBXl9gxgHHSvNB-93" value="هنا بنـ Fill بقيمة الـ `E_i` اللي حسبناها قبل كده `E_i=N/n=100/10`" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=center;fontStyle=1;textDirection=rtl;fontSize=13;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="322" y="2620" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ke5pAPr_GrU_tqwF9Evr-1" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;endArrow=none;endFill=0;startArrow=baseDash;startFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="Ke5pAPr_GrU_tqwF9Evr-1" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;endArrow=none;endFill=0;startArrow=baseDash;startFill=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="249" y="2660" as="targetPoint" />
             <mxPoint x="270" y="2718.03" as="sourcePoint" />
@@ -531,7 +534,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ke5pAPr_GrU_tqwF9Evr-2" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;endArrow=none;endFill=0;startArrow=baseDash;startFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="Ke5pAPr_GrU_tqwF9Evr-2" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;endArrow=none;endFill=0;startArrow=baseDash;startFill=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="336" y="2671" as="targetPoint" />
             <mxPoint x="356" y="2715" as="sourcePoint" />
@@ -541,154 +544,146 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ke5pAPr_GrU_tqwF9Evr-3" value="`\chi_{\circ}^2 =`" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=center;fontStyle=1;textDirection=rtl;fontSize=19;verticalAlign=middle;fillColor=none;strokeColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="Ke5pAPr_GrU_tqwF9Evr-3" value="`\chi_{\circ}^2 =`" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=center;fontStyle=1;textDirection=rtl;fontSize=19;verticalAlign=middle;fillColor=none;strokeColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="520" y="3083.59" width="45.96" height="27.18" as="geometry" />
         </mxCell>
-        <mxCell id="v8tUN5qOXzX8aflVS6cc-5" value="&lt;div&gt;5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="v8tUN5qOXzX8aflVS6cc-5" value="&lt;div&gt;5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="53.04" y="3137" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v8tUN5qOXzX8aflVS6cc-6" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Mali&quot; face=&quot;Mali&quot;&gt;Not Rejected if &lt;/font&gt;`\chi_{\circ}^2 &amp;lt; \chi_{\alpha}^2` &lt;font face=&quot;Lateef&quot;&gt;اللي بجيبها من الجدول&lt;/font&gt;, &lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Mali&quot; face=&quot;Mali&quot;&gt;Otherwise Reject&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;textDirection=ltr;" vertex="1" parent="1">
+        <mxCell id="v8tUN5qOXzX8aflVS6cc-6" value="&lt;font face=&quot;Mali&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Mali&quot;&gt;Not Rejected if &lt;/font&gt;`\chi_{\circ}^2 &amp;lt; \chi_{\alpha}^2` &lt;font face=&quot;Lateef&quot;&gt;اللي بجيبها من الجدول&lt;/font&gt;, &lt;font face=&quot;Mali&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Mali&quot;&gt;Otherwise Reject&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=15;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;textDirection=ltr;" parent="1" vertex="1">
           <mxGeometry x="93.04" y="3137" width="476.96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v8tUN5qOXzX8aflVS6cc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;endArrow=baseDash;endFill=0;curved=0;" edge="1" parent="1" source="v8tUN5qOXzX8aflVS6cc-8">
+        <mxCell id="v8tUN5qOXzX8aflVS6cc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;endArrow=baseDash;endFill=0;curved=0;" parent="1" source="v8tUN5qOXzX8aflVS6cc-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="242" y="3170" as="targetPoint" />
+            <mxPoint x="230" y="3170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="242" y="3206" />
+              <mxPoint x="230" y="3206" />
+              <mxPoint x="230" y="3173" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v8tUN5qOXzX8aflVS6cc-8" value="اللي انا حاسبها" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="v8tUN5qOXzX8aflVS6cc-8" value="اللي انا حاسبها" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="169" y="3192" width="60" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="1VSz23jFe4aa1tyaqeh--1" value="قيمة الـ  `\chi_{\alpha}^2` دي بروح اجيبها من الجدول اللي هو مديهولي بمعلومية الـ `\alpha, n-1` بسكده" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=center;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="1VSz23jFe4aa1tyaqeh--1" value="قيمة الـ  `\chi_{\alpha}^2` دي بروح اجيبها من الجدول اللي هو مديهولي بمعلومية الـ `\alpha, n-1` بسكده" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="576" y="3137" width="200.52" height="41.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="PyCIwNq1UhTMntHSYxkj" name="LCM">
-    <mxGraphModel dx="1072" dy="-1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="983" dy="-1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6njgCLjoG7kJNS9bL-9w-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Mali&quot; face=&quot;Mali&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Linear Congruential Method (&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 255, 204);&quot;&gt;LCM&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;spacingLeft=5;" vertex="1" parent="1">
+        <mxCell id="6njgCLjoG7kJNS9bL-9w-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Mali&quot; face=&quot;Mali&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Linear Congruential Method (&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 255, 204);&quot;&gt;LCM&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="40" y="2360" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6njgCLjoG7kJNS9bL-9w-2" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;Given a params `a`, `c`, `m`, `X_\circ`&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mali;strokeWidth=2;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;fillColor=#bac8d3;strokeColor=#23445d;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" vertex="1" parent="1">
+        <mxCell id="6njgCLjoG7kJNS9bL-9w-2" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;Given a params `a`, `c`, `m`, `X_\circ`&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mali;strokeWidth=2;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;fillColor=#bac8d3;strokeColor=default;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="1" vertex="1">
           <mxGeometry x="40" y="2420" width="230" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="6njgCLjoG7kJNS9bL-9w-3" value="هدفنا اننا نعمل generate لـ Random Numbers عن طريق اننا  بنعمل seeder و بنستخدمة في اننا نطلع الـ `R` و أول Technique معانا هو LCM، بكل بساطة انا معايا معادلة و المعادلة ديه ليها Parameters معينة فيه منهم given زي الـ `a` و `c` و `m` و فيه منهم بيعتمد علي ال seeder اللي قبله زي الـ `X_i` و بشكل ابتدائي هو بيديك الـ `X_\circ`" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=right;fontStyle=1;textDirection=rtl;fontSize=15;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="6njgCLjoG7kJNS9bL-9w-3" value="هدفنا اننا نعمل generate لـ Random Numbers عن طريق اننا  بنعمل seeder و بنستخدمة في اننا نطلع الـ `R` و أول Technique معانا هو LCM، بكل بساطة انا معايا معادلة و المعادلة ديه ليها Parameters معينة فيه منهم given زي الـ `a` و `c` و `m` و فيه منهم بيعتمد علي ال seeder اللي قبله زي الـ `X_i` و بشكل ابتدائي هو بيديك الـ `X_\circ`" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=right;fontStyle=1;textDirection=rtl;fontSize=15;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="2370" width="348.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1f_92boboXnTyiL4tQLm-1" value="&lt;font face=&quot;Mali&quot;&gt;`X_1 = (a \cdot X_\circ + c) % m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2600" width="400" height="40" as="geometry" />
+        <mxCell id="1f_92boboXnTyiL4tQLm-1" value="&lt;font face=&quot;Mali&quot;&gt;`X_1 = (a \cdot X_\circ + c) % m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="178" y="2620" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1f_92boboXnTyiL4tQLm-2" value="&lt;div&gt;1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2600" width="40" height="40" as="geometry" />
+        <mxCell id="1f_92boboXnTyiL4tQLm-2" value="&lt;div&gt;1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="138" y="2620" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1f_92boboXnTyiL4tQLm-3" value="&lt;font face=&quot;Mali&quot;&gt;`X_2 = (a \cdot X_1 + c) % m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2648.5" width="400" height="40" as="geometry" />
+        <mxCell id="1f_92boboXnTyiL4tQLm-3" value="&lt;font face=&quot;Mali&quot;&gt;`X_2 = (a \cdot X_1 + c) % m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="178" y="2668.5" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1f_92boboXnTyiL4tQLm-4" value="&lt;div&gt;2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2648.5" width="40" height="40" as="geometry" />
+        <mxCell id="1f_92boboXnTyiL4tQLm-4" value="&lt;div&gt;2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="138" y="2668.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1f_92boboXnTyiL4tQLm-5" value="&lt;font face=&quot;Mali&quot;&gt;`X_3 = (a \cdot X_2 + c) % m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2698.5" width="400" height="40" as="geometry" />
+        <mxCell id="1f_92boboXnTyiL4tQLm-5" value="&lt;font face=&quot;Mali&quot;&gt;`X_3 = (a \cdot X_2 + c) % m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="178" y="2718.5" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1f_92boboXnTyiL4tQLm-6" value="&lt;div&gt;3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2698.5" width="40" height="40" as="geometry" />
+        <mxCell id="1f_92boboXnTyiL4tQLm-6" value="&lt;div&gt;3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="138" y="2718.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1f_92boboXnTyiL4tQLm-7" value="&lt;font face=&quot;Mali&quot;&gt;`X_{i + 1} = (a \cdot X_i + c) % m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2748.5" width="400" height="40" as="geometry" />
+        <mxCell id="1f_92boboXnTyiL4tQLm-7" value="&lt;font face=&quot;Mali&quot;&gt;`X_{i + 1} = (a \cdot X_i + c) % m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="178" y="2768.5" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1f_92boboXnTyiL4tQLm-8" value="&lt;div&gt;..&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2748.5" width="40" height="40" as="geometry" />
+        <mxCell id="1f_92boboXnTyiL4tQLm-8" value="&lt;div&gt;..&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="138" y="2768.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-1" value="We apply on formula: `X_{i+1} = (a \cdot X_i + c) % m`" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=13;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2480" width="310" height="44.55" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-1" value="We apply on formula: `X_{i+1} = (a \cdot X_i + c) % m`" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#b1ddf0;strokeColor=default;fontSize=13;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="28" y="2500" width="310" height="44.55" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;endFill=0;fillColor=#d0cee2;strokeColor=#56517e;curved=1;" edge="1" parent="1" source="3XvZgXC38OFqLWB26CIr-2">
+        <mxCell id="3XvZgXC38OFqLWB26CIr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;endFill=0;fillColor=#d0cee2;strokeColor=#56517e;curved=1;" parent="1" source="3XvZgXC38OFqLWB26CIr-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="255.00383911132812" y="2515.001536114032" as="targetPoint" />
-            <mxPoint x="255.85" y="2552.54" as="sourcePoint" />
+            <mxPoint x="243.00383911132812" y="2535.001536114032" as="targetPoint" />
+            <mxPoint x="243.85" y="2572.54" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-2" value="Multiplier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Mali;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="200" y="2550" width="80" height="30" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-2" value="Multiplier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Mali;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="188" y="2570" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-4" value="Increment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Mali;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="280" y="2550" width="80" height="30" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-4" value="Increment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Mali;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="268" y="2570" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;endFill=0;fillColor=#d0cee2;strokeColor=#56517e;curved=1;" edge="1" parent="1">
+        <mxCell id="3XvZgXC38OFqLWB26CIr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;endFill=0;fillColor=#d0cee2;strokeColor=#56517e;curved=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300.00383911132815" y="2515.001536114032" as="targetPoint" />
-            <mxPoint x="310" y="2550" as="sourcePoint" />
+            <mxPoint x="288.00383911132815" y="2535.001536114032" as="targetPoint" />
+            <mxPoint x="298" y="2570" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-6" value="Modulus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Mali;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="355" y="2530" width="70" height="30" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-6" value="Modulus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Mali;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="343" y="2550" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;endFill=0;fillColor=#d0cee2;strokeColor=#56517e;curved=1;" edge="1" parent="1" source="3XvZgXC38OFqLWB26CIr-6">
+        <mxCell id="3XvZgXC38OFqLWB26CIr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;endFill=0;fillColor=#d0cee2;strokeColor=#56517e;curved=1;" parent="1" source="3XvZgXC38OFqLWB26CIr-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="328.00383911132815" y="2514.001536114032" as="targetPoint" />
-            <mxPoint x="373" y="2534" as="sourcePoint" />
+            <mxPoint x="316.00383911132815" y="2534.001536114032" as="targetPoint" />
+            <mxPoint x="361" y="2554" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="329" y="2545" />
-              <mxPoint x="329" y="2514" />
+              <mxPoint x="317" y="2565" />
+              <mxPoint x="317" y="2534" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-8" value="شوية حاجات لاحظناها أن كل ما الـ `m` بتزيد الـ ِCycle بتزيد كمان رينج الـقيم كلها معطيات و نواتج بتكون مش سالبة و اصغر من الـ `m`&#xa;&#xa;قيم الـ R بتكون في رينج `R  \in [0, {m-1}/m]` يعني من صفر لـ اقل من الـ `1`" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=right;fontStyle=1;textDirection=rtl;fontSize=15;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="3XvZgXC38OFqLWB26CIr-8" value="شوية حاجات لاحظناها أن كل ما الـ `m` بتزيد الـ ِCycle بتزيد كمان رينج الـقيم كلها معطيات و نواتج بتكون مش سالبة و اصغر من الـ `m`&#xa;&#xa;قيم الـ R بتكون في رينج `R  \in [0, {m-1}/m]` يعني من صفر لـ اقل من الـ `1`" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=right;fontStyle=1;textDirection=rtl;fontSize=15;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="2480" width="348.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-13" value="" style="group;align=center;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="490" y="2600" width="100" height="188.5" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-18" value="&lt;font face=&quot;Mali&quot;&gt;`X_1 = (17 \cdot 27 + 43) % 100`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="138" y="2923" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-9" value="&lt;font face=&quot;Mali&quot;&gt;`R_1 = X_1/m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="3XvZgXC38OFqLWB26CIr-13">
-          <mxGeometry width="100" height="40" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-19" value="&lt;font face=&quot;Mali&quot;&gt;`X_2 = (17 \cdot 2 + 43) % 100`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="138" y="2971.5" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-10" value="&lt;font face=&quot;Mali&quot;&gt;`R_2 = X_2/m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="3XvZgXC38OFqLWB26CIr-13">
-          <mxGeometry y="48.5" width="100" height="40" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-20" value="&lt;font face=&quot;Mali&quot;&gt;`X_3 = (17 \cdot 77 + 43) % 100`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="138" y="3021.5" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-11" value="&lt;font face=&quot;Mali&quot;&gt;`R_3=X_3/m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="3XvZgXC38OFqLWB26CIr-13">
-          <mxGeometry y="98.5" width="100" height="40" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-21" value="&lt;font face=&quot;Mali&quot;&gt;`\cdots`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="138" y="3071.5" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-12" value="&lt;font face=&quot;Mali&quot;&gt;`R_{i+1}=X_{i+1}/m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="3XvZgXC38OFqLWB26CIr-13">
-          <mxGeometry y="148.5" width="100" height="40" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-27" value="&lt;font face=&quot;Mali&quot;&gt;Ex: Use linear congruential method to generate sequence of random numbers with &lt;br&gt;`a = 17`, `c = 43`, `m=100`, `X_\circ=27`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#fad7ac;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="78" y="2830" width="670" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-18" value="&lt;font face=&quot;Mali&quot;&gt;`X_1 = (17 \cdot 27 + 43) % 100`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2862" width="400" height="40" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-26" value="&lt;font face=&quot;Mali&quot;&gt;`\cdots`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=default;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="548" y="3071.5" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-19" value="&lt;font face=&quot;Mali&quot;&gt;`X_2 = (17 \cdot 2 + 43) % 100`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2910.5" width="400" height="40" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-23" value="&lt;font face=&quot;Mali&quot;&gt;`R_1 = 2/100 = 0.02`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=default;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="548" y="2923" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-20" value="&lt;font face=&quot;Mali&quot;&gt;`X_3 = (17 \cdot 77 + 43) % 100`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2960.5" width="400" height="40" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-24" value="&lt;font face=&quot;Mali&quot;&gt;`R_2 = 77/100 = 0.77`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=default;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="548" y="2971.5" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-21" value="&lt;font face=&quot;Mali&quot;&gt;`\cdots`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="80" y="3010.5" width="400" height="40" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-25" value="&lt;font face=&quot;Mali&quot;&gt;`R_3=52/100=0.52`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=default;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="548" y="3021.5" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-22" value="" style="group;align=center;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="490" y="2862" width="140" height="188.5" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-9" value="&lt;font face=&quot;Mali&quot;&gt;`R_1 = X_1/m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="588" y="2620" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-26" value="&lt;font face=&quot;Mali&quot;&gt;`\cdots`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="3XvZgXC38OFqLWB26CIr-22">
-          <mxGeometry y="148.5" width="140" height="40" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-10" value="&lt;font face=&quot;Mali&quot;&gt;`R_2 = X_2/m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="588" y="2668.5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-28" value="" style="group;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" connectable="0" parent="3XvZgXC38OFqLWB26CIr-22">
-          <mxGeometry width="140" height="138.5" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-11" value="&lt;font face=&quot;Mali&quot;&gt;`R_3=X_3/m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="588" y="2718.5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-23" value="&lt;font face=&quot;Mali&quot;&gt;`R_1 = 2/100 = 0.02`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="3XvZgXC38OFqLWB26CIr-28">
-          <mxGeometry width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-24" value="&lt;font face=&quot;Mali&quot;&gt;`R_2 = 77/100 = 0.77`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="3XvZgXC38OFqLWB26CIr-28">
-          <mxGeometry y="48.5" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-25" value="&lt;font face=&quot;Mali&quot;&gt;`R_3=52/100=0.52`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="3XvZgXC38OFqLWB26CIr-28">
-          <mxGeometry y="98.5" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3XvZgXC38OFqLWB26CIr-27" value="&lt;font face=&quot;Mali&quot;&gt;Ex: Use linear congruential method to generate sequence of random numbers with &lt;br&gt;`a = 17`, `c = 43`, `m=100`, `X_\circ=27`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2800" width="670" height="50" as="geometry" />
+        <mxCell id="3XvZgXC38OFqLWB26CIr-12" value="&lt;font face=&quot;Mali&quot;&gt;`R_{i+1}=X_{i+1}/m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="588" y="2768.5" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
