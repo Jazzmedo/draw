@@ -931,7 +931,7 @@
         <mxCell id="3XvZgXC38OFqLWB26CIr-27" value="&lt;font face=&quot;Mali&quot;&gt;Ex: Use linear congruential method to generate sequence of random numbers with &lt;br&gt;`a = 17`, `c = 43`, `m=100`, `X_\circ=27`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#fad7ac;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="79" y="2990" width="670" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PLEYl3UzaIWWC3gaPfr4-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="PLEYl3UzaIWWC3gaPfr4-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="139" y="3140" width="550" height="188.5" as="geometry" />
         </mxCell>
         <mxCell id="3XvZgXC38OFqLWB26CIr-18" value="&lt;font face=&quot;Mali&quot;&gt;`X_1 = (17 \cdot 27 + 43) % 100`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="PLEYl3UzaIWWC3gaPfr4-1" vertex="1">
@@ -958,7 +958,7 @@
         <mxCell id="3XvZgXC38OFqLWB26CIr-25" value="&lt;font face=&quot;Mali&quot;&gt;`R_3=52/100=0.52`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#bac8d3;strokeColor=default;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="PLEYl3UzaIWWC3gaPfr4-1" vertex="1">
           <mxGeometry x="410" y="98.5" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PLEYl3UzaIWWC3gaPfr4-2" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="PLEYl3UzaIWWC3gaPfr4-2" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="139" y="2720" width="550" height="188.5" as="geometry" />
         </mxCell>
         <mxCell id="1f_92boboXnTyiL4tQLm-1" value="&lt;font face=&quot;Mali&quot;&gt;`X_1 = (a \cdot X_\circ + c) % m`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="PLEYl3UzaIWWC3gaPfr4-2" vertex="1">
@@ -1001,10 +1001,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SMTgXpbJq1Kilyh0L7qB" name="Combined LCM">
-    <mxGraphModel dx="1554" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="679" dy="-1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-iqzZ4GS1WJfVQyZNKmY-1" value="&lt;font face=&quot;Mali&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Mali&quot;&gt;&lt;font style=&quot;&quot;&gt;Combined Linear Congruential Method (&lt;/font&gt;&lt;font style=&quot;&quot;&gt;CLCM&lt;/font&gt;&lt;font style=&quot;&quot;&gt;)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#f8cecc;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;container=0;spacingLeft=5;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="154" y="2360" width="520" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
