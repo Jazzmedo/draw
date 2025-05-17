@@ -1246,13 +1246,801 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="09x_6056hV_jox_1XJTw" name="Page-3">
-    <mxGraphModel dx="1426" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="09x_6056hV_jox_1XJTw" name="Inventory">
+    <mxGraphModel dx="1501" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Y34OrhS3DBZmtk_FYPSn-1" value="Gap Test" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fixedSize=1;size=16;fillColor=#ffcc99;strokeColor=default;fontFamily=Mali;fontSize=20;strokeWidth=2;align=center;spacingLeft=0;spacingBottom=5;fillStyle=hachure;fontStyle=1;rounded=1;arcSize=14;fontSource=https://fonts.googleapis.com/css?family=Mali;" vertex="1" parent="1">
+        <mxCell id="Y34OrhS3DBZmtk_FYPSn-1" value="Inventory" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fixedSize=1;size=16;fillColor=#fff2cc;strokeColor=default;fontFamily=Mali;fontSize=20;strokeWidth=2;align=center;spacingLeft=0;spacingBottom=5;fillStyle=hachure;fontStyle=1;rounded=1;arcSize=14;fontSource=https://fonts.googleapis.com/css?family=Mali;" parent="1" vertex="1">
           <mxGeometry x="349" y="20" width="130" height="42.86" as="geometry" />
+        </mxCell>
+        <mxCell id="qaLMw-TS9nCvAFF2qimC-1" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;انا لو عندي مخرن بضائع وبييجي عدد طلبات عشوائي علي منتج معين في اليوم ،&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;هدف المسألة دي انا اقلل التكلفة الكلية مع الاخذ في الاعتبار وقت كل اعادة الطلبات&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;وكمياتهم عشان اتجنب نفاذ الكمية بأقل تكلفة ممكنة&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="34" y="90" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qaLMw-TS9nCvAFF2qimC-2" value="&lt;div&gt;&lt;span&gt;Goal : `min T_c (x, r)`&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;fontFamily=Oxanium;fontSize=23;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="10" y="180" width="226" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-1" value="&lt;div&gt;&lt;b&gt;`T_c = H_c + O_c + S_c`&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;fontFamily=Mina;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="549.27" y="190" width="260.73" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;endArrow=oval;endFill=1;" edge="1" parent="1" source="o2nltqOlut8XN4g4-p3H-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="717" y="233" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-23" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;تكلفة النقل عند نفاذ الكمية&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="620" y="510" width="153" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-25" value="&amp;nbsp;تكلفة أوردر&amp;nbsp; البضائع&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="610" y="470" width="107" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-26" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;تكلفة تخزين البضائع يوميا&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="567" y="419" width="79.27" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-27" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;التكلفة الكلية&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="528" y="320" width="51" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-28" value="&lt;div style=&quot;direction: rtl;&quot;&gt;في المسألة في قيم مش بتبقي ثابتة بتبقي عشوائية بيديهالك بردو Given زي ال Demand (`D`)&amp;nbsp; ودا بيبقي الطلب اليومي و ال Lead Time (`L`) ودا بيبقي وقت توصيل الاوردر&amp;nbsp; وهيديك ال Frequencies بتاعت كل واحدة كمان، وبتبتدي انت تعمل جدول لكل قيمة من ال `L` و ال `D` وتحسب لكل واحدة ال Relative Frequency و ال Cumulative Relative Frequency&amp;nbsp; في كل جدول&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="8" y="585" width="812" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;strokeWidth=2;curved=0;" edge="1" parent="1" source="o2nltqOlut8XN4g4-p3H-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="646" y="234" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;curved=0;strokeWidth=2;" edge="1" parent="1" source="o2nltqOlut8XN4g4-p3H-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="776" y="232" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;strokeWidth=2;curved=0;" edge="1" parent="1" source="o2nltqOlut8XN4g4-p3H-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="578" y="235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="578" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-6" value="Holding Cost = 0.1$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#ffcccc;strokeColor=default;strokeWidth=2;fontFamily=Oxanium;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="308" y="440" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-7" value="`H_c`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=default;strokeWidth=2;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontSize=23;fontColor=#ffffff;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="248" y="440" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-12" value="Shortage Cost = 50$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=2;fontFamily=Oxanium;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="308" y="520" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-13" value="`S_c`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=default;strokeWidth=2;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontSize=23;fontColor=#FFFFFF;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="248" y="520" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-9" value="Order Cost = 20$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=default;strokeWidth=2;fontFamily=Oxanium;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="308" y="480" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-10" value="`O_c`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=default;strokeWidth=2;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontSize=23;fontColor=#ffffff;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="248" y="480" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-16" value="Total Cost" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#fff2cc;strokeColor=default;strokeWidth=2;fontFamily=Oxanium;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="308" y="400" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-17" value="`T_c`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=default;strokeWidth=2;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontSize=23;fontColor=#FFFFFF;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="248" y="400" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-33" value="Order Quantity = 5" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#fff2cc;strokeColor=default;strokeWidth=2;fontFamily=Oxanium;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="308" y="360" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;curved=0;strokeWidth=2;" edge="1" parent="1" source="o2nltqOlut8XN4g4-p3H-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="183" y="221" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="380" />
+              <mxPoint x="160" y="240" />
+              <mxPoint x="183" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-34" value="`x`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=default;strokeWidth=2;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontSize=23;fontColor=#FFFFFF;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="248" y="360" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-35" value="Reorder Point = 3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#fff2cc;strokeColor=default;strokeWidth=2;fontFamily=Oxanium;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="308" y="320" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;endArrow=oval;endFill=1;" edge="1" parent="1" source="o2nltqOlut8XN4g4-p3H-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="206" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="340" />
+              <mxPoint x="175" y="290" />
+              <mxPoint x="206" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-36" value="`r`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=default;strokeWidth=2;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontSize=23;fontColor=#FFFFFF;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="248" y="320" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-39" value="كمية الاوردر" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-40" value="كل كام يوم بعمل اوردر" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="177" y="300" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-41" value="Inventory Level = 5" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#fff2cc;strokeColor=default;strokeWidth=2;fontFamily=Oxanium;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="308" y="280" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;curved=0;strokeWidth=2;" edge="1" parent="1" source="o2nltqOlut8XN4g4-p3H-42" target="o2nltqOlut8XN4g4-p3H-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="278" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-42" value="`I`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=default;strokeWidth=2;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontSize=23;fontColor=#FFFFFF;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="248" y="280" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-44" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;تقدر تقول زي Standard للمخزن ودا الرقم اللي بتبدأ بيه ال Simulation&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="323" y="240" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-113" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;بعد ما خلصنا الجدولين هنعمل الجدول الاخير&amp;nbsp; اللي هيبقي simulation للعملية لعدد ايام given وهو 10 ايام ال Random Number في ال Demand و ال Lead هنا Given&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="58" y="1180" width="712" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-80" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="35" y="760" width="347.9200000000001" height="276.03999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-71" value="5" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry y="208.12" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-72" value="3" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="86.96000000000004" y="208.12" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-73" value="0.10" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="173.92000000000007" y="208.12" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-74" value="1.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="260.9200000000001" y="208.12" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-49" value="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontColor=#ffffff;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="0.03999999999999915" y="66.03999999999996" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-50" value="2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry y="102.08000000000004" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-51" value="3" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry y="138.12" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-52" value="4" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry y="174.15999999999997" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-55" value="6" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontColor=#ffffff;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="87.00000000000004" y="66.03999999999996" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-56" value="3" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="86.96000000000004" y="102.08000000000004" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-57" value="12" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="86.96000000000004" y="138.12" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-58" value="6" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="86.96000000000004" y="174.15999999999997" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-61" value="0.20" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontColor=#ffffff;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="173.96000000000006" y="66.03999999999996" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-62" value="0.10" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="173.92000000000007" y="102.08000000000004" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-63" value="0.40" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="173.92000000000007" y="138.12" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-64" value="0.20" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="173.92000000000007" y="174.15999999999997" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-67" value="0.20" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontColor=#ffffff;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="260.9600000000001" y="66.03999999999996" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-68" value="0.30" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="260.9200000000001" y="102.08000000000004" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-69" value="0.70" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="260.9200000000001" y="138.12" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-70" value="0.90" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="260.9200000000001" y="174.15999999999997" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-48" value="Lead Time&lt;div&gt;(Days)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=default;fontColor=#ffffff;container=0;fontSize=15;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="0.03999999999999915" width="86.95999999999998" height="66.04000000000008" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-54" value="&lt;span&gt;Frequency&lt;/span&gt;&lt;div&gt;&lt;span&gt;(Days)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=default;fontColor=#ffffff;container=0;fontSize=15;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="87.00000000000003" width="86.95999999999998" height="66.04000000000008" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-60" value="&lt;span&gt;Relative Frequency&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=default;fontColor=#ffffff;container=0;fontSize=15;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="173.96000000000004" width="86.95999999999998" height="66.04000000000008" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-66" value="&lt;span&gt;Cumulative Relative Frequency&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=default;fontColor=#ffffff;container=0;fontSize=15;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="260.96000000000004" width="86.95999999999998" height="66.04000000000008" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-76" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="0.03999999999999915" y="242.07999999999993" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-77" value="30" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="87.00000000000004" y="242.07999999999993" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-78" value="1.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="173.96000000000006" y="242.07999999999993" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-79" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-80">
+          <mxGeometry x="260.9600000000001" y="242.07999999999993" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-110" value="&lt;div style=&quot;direction: ltr;&quot;&gt;Lead Time (`L`)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Oxanium;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="131.95999999999998" y="710" width="154" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-111" value="&lt;div style=&quot;direction: ltr;&quot;&gt;Demand (`D`)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Oxanium;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="543" y="710" width="154" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-114" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="445" y="760" width="347.9200000000001" height="276.03999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-82" value="4" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry y="208.12" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-83" value="15" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="86.96000000000004" y="208.12" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-84" value="0.05" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="173.92000000000007" y="208.12" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-85" value="1.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="260.9200000000001" y="208.12" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-86" value="0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="0.040000000000020464" y="66.03999999999996" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-87" value="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry y="102.08000000000004" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-88" value="2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry y="138.12" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-89" value="3" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry y="174.15999999999997" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-90" value="150" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="87" y="66.03999999999996" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-91" value="75" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="86.96000000000004" y="102.08000000000004" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-92" value="45" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="86.96000000000004" y="138.12" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-93" value="15" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="86.96000000000004" y="174.15999999999997" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-94" value="0.50" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="173.96000000000004" y="66.03999999999996" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-95" value="0.25" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="173.92000000000007" y="102.08000000000004" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-96" value="0.15" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="173.92000000000007" y="138.12" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-97" value="0.05" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="173.92000000000007" y="174.15999999999997" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-98" value="0.50" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="260.96000000000004" y="66.03999999999996" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-99" value="0.75" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="260.9200000000001" y="102.08000000000004" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-100" value="0.90" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="260.9200000000001" y="138.12" width="86.96" height="36.04" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-101" value="0.95" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="260.9200000000001" y="174.15999999999997" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-102" value="Lead Time&lt;div&gt;(Days)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontColor=#ffffff;container=0;fontSize=15;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="0.040000000000020464" width="86.95999999999998" height="66.04000000000008" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-103" value="&lt;span&gt;Frequency&lt;/span&gt;&lt;div&gt;&lt;span&gt;(Days)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontColor=#ffffff;container=0;fontSize=15;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="87" width="86.95999999999998" height="66.04000000000008" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-104" value="&lt;span&gt;Relative Frequency&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontColor=#ffffff;container=0;fontSize=15;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="173.96000000000004" width="86.95999999999998" height="66.04000000000008" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-105" value="&lt;span&gt;Cumulative Relative Frequency&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontColor=#ffffff;container=0;fontSize=15;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="260.96000000000004" width="86.95999999999998" height="66.04000000000008" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-106" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="0.040000000000020464" y="242.07999999999993" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-107" value="300" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="87" y="242.07999999999993" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-108" value="1.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="173.96000000000004" y="242.07999999999993" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-109" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="o2nltqOlut8XN4g4-p3H-114">
+          <mxGeometry x="260.96000000000004" y="242.07999999999993" width="86.96" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-204" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;تحت في ال Random Number لو الرقم مثلا طلع في ال Demand=0.60 يبقي الرقم ما بين 0.51 و 0.75 ف ال Lead Time هيبقي ب 1 نفس الكلام ينطبق علي ال Lead Time&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="62" y="1080" width="712" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-116" value="2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="279.0517340486684" y="1498.1200000000001" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-117" value="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="346.5336271316345" y="1498.1200000000001" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-118" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="414.0155202146006" y="1498.1200000000001" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-119" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="481.5284537267677" y="1498.1200000000001" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-120" value="0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="279.0827744778694" y="1356.04" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-121" value="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="279.0517340486684" y="1392.0800000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-122" value="0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="279.0517340486684" y="1428.1200000000001" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-123" value="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="279.0517340486684" y="1464.16" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-124" value="5" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="346.56466756083546" y="1356.04" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-125" value="4" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="346.5336271316345" y="1392.0800000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-126" value="4" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="346.5336271316345" y="1428.1200000000001" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-127" value="3" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="346.5336271316345" y="1464.16" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-128" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="414.04656064380157" y="1356.04" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-129" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="414.0155202146006" y="1392.0800000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-130" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="414.0155202146006" y="1428.1200000000001" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-131" value="0.620" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="414.0155202146006" y="1464.16" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-132" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="481.55949415596865" y="1356.04" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-133" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="481.5284537267677" y="1392.0800000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-134" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="481.5284537267677" y="1428.1200000000001" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-135" value="3" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="481.5284537267677" y="1464.16" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-140" value="4" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="279.0827744778694" y="1532.08" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-141" value="0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="346.56466756083546" y="1532.08" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-142" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="414.04656064380157" y="1532.08" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-143" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="481.55949415596865" y="1532.08" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-145" value="5" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="9" y="1498.1200000000001" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-146" value="3" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="76.48189308296611" y="1498.1200000000001" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-147" value="0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="143.96378616593222" y="1498.1200000000001" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-148" value="0.886" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="211.47671967809927" y="1498.1200000000001" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-149" value="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="9.031040429201012" y="1356.04" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-150" value="2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="9" y="1392.0800000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-151" value="3" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="9" y="1428.1200000000001" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-152" value="4" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="9" y="1464.16" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-153" value="5" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="76.51293351216708" y="1356.04" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-154" value="5" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="76.48189308296611" y="1392.0800000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-155" value="4" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="76.48189308296611" y="1428.1200000000001" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-156" value="4" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="76.48189308296611" y="1464.16" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-157" value="0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="143.9948265951332" y="1356.04" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-158" value="0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="143.96378616593222" y="1392.0800000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-159" value="0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="143.96378616593222" y="1428.1200000000001" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-160" value="0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="143.96378616593222" y="1464.16" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-161" value="0.093" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="211.50776010730024" y="1356.04" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-162" value="0.681" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="211.47671967809927" y="1392.0800000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-163" value="0.292" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="211.47671967809927" y="1428.1200000000001" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-164" value="0.528" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="211.47671967809927" y="1464.16" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-169" value="6" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="9.031040429201012" y="1532.08" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-170" value="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="76.51293351216708" y="1532.08" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-171" value="0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="143.9948265951332" y="1532.08" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-172" value="0.975" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="211.50776010730024" y="1532.08" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-174" value="0.10" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="549.0103468097337" y="1498.1200000000001" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-175" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="616.4922398926999" y="1498.1200000000001" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-176" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="683.974132975666" y="1498.1200000000001" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-177" value="0.10" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="751.487066487833" y="1498.1200000000001" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-178" value="0.50" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="549.0413872389347" y="1356.04" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-179" value="0.40" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="549.0103468097337" y="1392.0800000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-180" value="0.40" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="549.0103468097337" y="1428.1200000000001" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-181" value="0.30" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="549.0103468097337" y="1464.16" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-182" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="616.5232803219008" y="1356.04" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-183" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="616.4922398926999" y="1392.0800000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-184" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="616.4922398926999" y="1428.1200000000001" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-185" value="20.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="616.4922398926999" y="1464.16" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-186" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="684.0051734048669" y="1356.04" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-187" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="683.974132975666" y="1392.0800000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-188" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="683.974132975666" y="1428.1200000000001" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-189" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="683.974132975666" y="1464.16" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-190" value="0.50" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="751.518106917034" y="1356.04" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-191" value="0.40" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="751.487066487833" y="1392.0800000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-192" value="0.40" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="751.487066487833" y="1428.1200000000001" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-193" value="20.30" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="751.487066487833" y="1464.16" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-198" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="549.0413872389347" y="1532.08" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-199" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="616.5232803219008" y="1532.08" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-200" value="150.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="684.0051734048669" y="1532.08" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-201" value="150.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="751.518106917034" y="1532.08" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-208" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;curved=0;" edge="1" parent="1" source="o2nltqOlut8XN4g4-p3H-136">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="144.64" y="1275.16" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="313" y="1270" />
+              <mxPoint x="145" y="1270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-209" value="&amp;nbsp;-&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o2nltqOlut8XN4g4-p3H-208">
+          <mxGeometry x="0.4008" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-136" value="Unit Demand&lt;div&gt;`D`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontColor=#ffffff;container=0;fontSize=14;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="279.0820809381467" y="1300" width="67.48197976546331" height="56.03999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-210" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;curved=0;strokeWidth=1;endArrow=none;startFill=0;" edge="1" parent="1" source="o2nltqOlut8XN4g4-p3H-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="201" y="1267" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="1250" />
+              <mxPoint x="201" y="1250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-211" value="&amp;nbsp;=&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o2nltqOlut8XN4g4-p3H-210">
+          <mxGeometry x="-0.2958" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-265" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="o2nltqOlut8XN4g4-p3H-137" target="o2nltqOlut8XN4g4-p3H-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="1270" />
+              <mxPoint x="583" y="1270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-267" value="&amp;nbsp;`times H_c=times&amp;nbsp;0.1`&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o2nltqOlut8XN4g4-p3H-265">
+          <mxGeometry x="0.0052" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-137" value="End Inventory" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#a0522d;strokeColor=default;fontColor=#ffffff;container=0;fontSize=14;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="346.56406070361" y="1300" width="67.48197976546331" height="56.03999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-138" value="Random Number `L`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=default;fontColor=#ffffff;container=0;fontSize=14;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="414.0460404690734" y="1300" width="67.48197976546331" height="56.03999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-139" value="&lt;span&gt;Lead Time&lt;/span&gt;&lt;div&gt;`L`&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=default;fontColor=#ffffff;container=0;fontSize=14;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="481.55906070361004" y="1300" width="67.48197976546331" height="56.03999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-165" value="Day" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#a0522d;strokeColor=default;fontColor=#ffffff;container=0;fontSize=14;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="9.03" y="1300" width="67.48197976546331" height="56.03999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-206" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;endArrow=none;startFill=0;" edge="1" parent="1" source="o2nltqOlut8XN4g4-p3H-166" target="o2nltqOlut8XN4g4-p3H-167">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="1280" />
+              <mxPoint x="178" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-207" value="&amp;nbsp;+&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="o2nltqOlut8XN4g4-p3H-206">
+          <mxGeometry x="0.072" y="-1" relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-166" value="Begin.&lt;div&gt;inventory&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#a0522d;strokeColor=default;fontColor=#ffffff;container=0;fontSize=14;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="76.51197976546331" y="1300" width="67.48197976546331" height="56.03999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-167" value="&lt;span&gt;Received&lt;/span&gt;&lt;div&gt;&lt;span&gt;Units&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#a0522d;strokeColor=default;fontColor=#ffffff;container=0;fontSize=14;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="143.99395953092667" y="1300" width="67.48197976546331" height="56.03999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-168" value="&lt;span&gt;Random Number `D`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontColor=#ffffff;container=0;fontSize=14;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="211.5069797654633" y="1300" width="67.48197976546331" height="56.03999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-194" value="Holding Cost&lt;div&gt;`H_c`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=default;fontColor=#ffffff;container=0;fontSize=14;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="549.0410404690733" y="1300" width="67.48197976546331" height="56.03999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-195" value="Order&lt;div&gt;Cost&lt;/div&gt;&lt;div&gt;`O_c`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#76608a;strokeColor=default;fontColor=#ffffff;container=0;fontSize=14;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="616.5230202345367" y="1300" width="67.48197976546331" height="56.03999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-196" value="&lt;span&gt;Shortage&lt;/span&gt;&lt;div&gt;&lt;span&gt;Cost&lt;/span&gt;&lt;/div&gt;&lt;div&gt;`S_c`&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#000000;strokeColor=default;fontColor=#ffffff;container=0;fontSize=14;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="684.0050000000001" y="1300" width="67.48197976546331" height="56.03999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-197" value="&lt;span&gt;Total&lt;/span&gt;&lt;div&gt;&lt;span&gt;Cost&lt;/span&gt;&lt;/div&gt;&lt;div&gt;`T_c`&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#a0522d;strokeColor=default;fontColor=#ffffff;container=0;fontSize=14;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="751.5180202345367" y="1300" width="67.48197976546331" height="56.03999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-212" value="0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="279.0517340486684" y="1636.0400000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-213" value="2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="346.5336271316345" y="1636.0400000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-214" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="414.0155202146006" y="1636.0400000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-215" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="481.5284537267677" y="1636.0400000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-216" value="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="279.0517340486684" y="1566.0400000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-217" value="2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="279.0517340486684" y="1602.0800000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-218" value="4" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="346.5336271316345" y="1566.0400000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-219" value="2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="346.5336271316345" y="1602.0800000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-220" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="414.0155202146006" y="1566.0400000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-221" value="0.939" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="414.0155202146006" y="1602.0800000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-222" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="481.5284537267677" y="1566.0400000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-223" value="5" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="481.5284537267677" y="1602.0800000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-224" value="0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="279.0827744778694" y="1670" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-225" value="2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="346.56466756083546" y="1670" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-226" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="414.04656064380157" y="1670" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-227" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="481.55949415596865" y="1670" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-228" value="9" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="9" y="1636.0400000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-229" value="2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="76.48189308296611" y="1636.0400000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-230" value="0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="143.96378616593222" y="1636.0400000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-231" value="0.373" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="211.47671967809927" y="1636.0400000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-232" value="7" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="9" y="1566.0400000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-233" value="8" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="9" y="1602.0800000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-234" value="0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="76.48189308296611" y="1566.0400000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-235" value="4" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="76.48189308296611" y="1602.0800000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-236" value="5" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="143.96378616593222" y="1566.0400000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-237" value="0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="143.96378616593222" y="1602.0800000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-238" value="0.622" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="211.47671967809927" y="1566.0400000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-239" value="0.819" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="211.47671967809927" y="1602.0800000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-240" value="10" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="9.031040429201012" y="1670" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-241" value="2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="76.51293351216708" y="1670" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-242" value="0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="143.9948265951332" y="1670" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-243" value="0.353" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="211.50776010730024" y="1670" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-244" value="0.20" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="549.0103468097337" y="1636.0400000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-245" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="616.4922398926999" y="1636.0400000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-246" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="683.974132975666" y="1636.0400000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-247" value="0.20" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="751.487066487833" y="1636.0400000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-248" value="0.40" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="549.0103468097337" y="1566.0400000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-249" value="0.20" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="549.0103468097337" y="1602.0800000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-250" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="616.4922398926999" y="1566.0400000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-251" value="20.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="616.4922398926999" y="1602.0800000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-252" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="683.974132975666" y="1566.0400000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-253" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="683.974132975666" y="1602.0800000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-254" value="0.40" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="751.487066487833" y="1566.0400000000002" width="67.48189308296608" height="36.04000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-255" value="20.&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;20&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="751.487066487833" y="1602.0800000000002" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-256" value="0.20" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="549.0413872389347" y="1670" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-257" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="616.5232803219008" y="1670" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-258" value="0.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="684.0051734048669" y="1670" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-259" value="0.20" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="751.518106917034" y="1670" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-260" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;لو انت حسبت ال End inventory وطلع معاك بالسالب دا معناه الطلب اكتر من اللي موجود ف بتكتب ال End Inventory بصفر والرقم السالب تخليه موجب وتضربه في ال Shortage Cost فوق اللي هو ب 50$ و تكتب الناتج في ال `S_c` في الجدول يعني&amp;nbsp; `3 times 50 = 150`&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="28.52" y="1810" width="778.97" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-271" value="0.27" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="549.0413872389347" y="1703.96" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-272" value="4.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="616.5232803219008" y="1703.96" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-273" value="15.00" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="684.0051734048669" y="1703.96" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-274" value="19.27" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="751.518106917034" y="1703.96" width="67.48189308296608" height="33.960000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-275" value="Average Costs for Simulated 10 Days" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=default;container=0;fontSize=16;fontStyle=0;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="1">
+          <mxGeometry x="9.03" y="1703.96" width="540" height="33.96" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-276" value="شرح شوية حاجات في الجدول" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="317.12" y="1754" width="192.88" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-277" value="&lt;div style=&quot;direction: rtl;&quot;&gt;ال Reorder Point فوق ب 3&amp;nbsp; هتلاحظ في الجدول بعد كل 3 ايام فيه Random Number `L` بيظهر فبجيب قيمته من جدول ال Leap Time وبكتبه، في اليوم الرابع مثلا طلعت القيمة ب 3 ف في خلال 3 ايام عند اليوم السابع هتلاقي ال Received Units بقت ب 5 وال خمسة دي هي ال Order Quantity `x` وفي نفس اليوم ال Demand كان 1 فالمتبقي 4 ، فالاربعة دي هتبقي بداية اليوم اللي بعده&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1880" width="780" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="o2nltqOlut8XN4g4-p3H-278" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;بعد ما تخلص ال 10 ايام هتحسب المتوسط بتاع كل تكلفة اخر اربع اعمدة من الجدول وبكدا تكون خلصت المسألة&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="28" y="1950" width="780" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
