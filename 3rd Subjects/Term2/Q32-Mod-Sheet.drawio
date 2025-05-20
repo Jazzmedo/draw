@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5" pages="2">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2" pages="2">
   <diagram name="Page-1" id="WOf9486LqnUHYk-fnlfq">
-    <mxGraphModel dx="2723" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1659" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,16 +77,10 @@
           <mxGeometry x="20" y="1250" width="640" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UpKMaLktLhD9NpLo18jT-2" value="`\mu_{Demand} = \frac{sum_{i = 1}^n x_i}{n} = \frac{103 + 83 + 116 + 97 + 112 + 104 + 106 + 109 + 92 + 96}{10} =101.8`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry y="1320" width="660" height="30" as="geometry" />
+          <mxGeometry x="20" y="1320" width="660" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UpKMaLktLhD9NpLo18jT-3" value="&lt;div&gt;`\sigma = \sqrt{ \frac{ \sum_{i=1}^n (x_i - \mu)^2&amp;nbsp; }{n}`&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="1390" width="310" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UpKMaLktLhD9NpLo18jT-6" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;`\sigma_{LeadTime} = \sqrt{ \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu_{x})^2 } = \sqrt{ \frac{(6.5 - 6.14)^2 + \cdots + (6.3 - 6.14)^2}{10} } = \sqrt{0.9444} = 0.972`&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="1470" width="840" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UpKMaLktLhD9NpLo18jT-7" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;`\sigma_{Demand} = \sqrt{ \frac{1}{n} \sum_{i=1}^{n} (y_i - \mu_{y})^2 } = \sqrt{ \frac{(103 - 101.8)^2 + \cdots + (96 - 101.8)^2}{10} } = \sqrt{88.77} = 9.42`&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-55" y="1540" width="830" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UpKMaLktLhD9NpLo18jT-8" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;`\text{Cov}(X, Y) = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu_{x})(y_i - \mu_{y}) = \frac{(6.5 - 6.14)(103 - 101.8) + \cdots + (6.3 - 6.14)(96 - 101.8)}{10} = 7.80`&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry y="1620" width="820" height="30" as="geometry" />
@@ -101,16 +95,28 @@
           <mxGeometry x="27.5" y="1770" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UpKMaLktLhD9NpLo18jT-14" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;`\rho_{X,Y} = \frac{\text{Cov}(X, Y)}{\hat{\sigma}_X \cdot \hat{\sigma}_Y}`&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3" y="1830" width="410" height="30" as="geometry" />
+          <mxGeometry x="47.5" y="1830" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UpKMaLktLhD9NpLo18jT-15" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;`\mu = \sum_{i=1}^{n} X_i \cdot P(X_i)`&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="264" y="1930" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8gi4yrrcjp4P46ncQ63N-1" value="&lt;span style=&quot;font-family: Helvetica; font-weight: 400; text-wrap-mode: nowrap;&quot;&gt;`\sigma_{LeadTime} = \sqrt{ \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu_{x})^2 } =`&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="76.43" y="1450" width="273.57" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6hGKmJXNHkPfGkvqWRHk-1" value="&lt;span style=&quot;font-family: Helvetica; font-weight: 400; text-wrap-mode: nowrap;&quot;&gt;`\sigma_{Demand} = \sqrt{ \frac{1}{n} \sum_{i=1}^{n} (y_i - \mu_{y})^2 } =`&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="65.43" y="1540" width="277.14" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TxAHqwkLYFe7m8ob8W4E-1" value="&lt;span style=&quot;font-family: Helvetica; font-weight: 400; text-wrap-mode: nowrap;&quot;&gt;`\sqrt{ \frac{(6.5 - 6.14)^2 + \cdots + (6.3 - 6.14)^2}{10} } = \sqrt{0.9444} = 0.972`&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="1450" width="357.14" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f5gUung1pFi6Vh4uCZ9g-1" value="&lt;span style=&quot;font-family: Helvetica; font-weight: 400; text-wrap-mode: nowrap;&quot;&gt;`\sqrt{ \frac{(103 - 101.8)^2 + \cdots + (96 - 101.8)^2}{10} } = \sqrt{88.77} = 9.42`&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="310" y="1540" width="350" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="cAbZK5lkuBDKHxEaB9qF" name="ex1-sheet">
-    <mxGraphModel dx="1295" dy="-367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2820" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,10 +148,10 @@
           <mxGeometry x="42" y="1971" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="feYQ3WDWf9__3DX3kqpM-16" value="`\hat{\text{Cov}}(X_{LeadTime}, X_{Demand}) = \frac{1}{10 - 1} \left( 6328.5 - 10 \cdot 6.14 \cdot 101.8 \right) = \frac{77.98}{9} \approx 8.664`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;flipV=1;fontColor=#346058;spacingLeft=-71;" parent="1" vertex="1">
-          <mxGeometry x="20" y="2111" width="700" height="30" as="geometry" />
+          <mxGeometry x="80" y="2111" width="700" height="30" as="geometry" />
         </mxCell>
         <mxCell id="feYQ3WDWf9__3DX3kqpM-17" value="`\sum_{j=1}^{10} X_{LeadTime,j} \cdot X_{Demand,j} = (6.5 \cdot 103) + (4.3 \cdot 83) + \cdots + (4.5 \cdot 92) + (6.3 \cdot 96) = 6328.5`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;flipV=1;fontColor=#346058;spacingLeft=-47;" parent="1" vertex="1">
-          <mxGeometry x="35" y="2051" width="700" height="30" as="geometry" />
+          <mxGeometry x="64" y="2051" width="700" height="30" as="geometry" />
         </mxCell>
         <mxCell id="feYQ3WDWf9__3DX3kqpM-19" value="&lt;div&gt;`\hat{\sigma}_{\text{Demand}} = 9.93`&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#990000;fontStyle=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="1899.79" width="220" height="30" as="geometry" />

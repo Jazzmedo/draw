@@ -1,0 +1,361 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2">
+  <diagram name="Page-1" id="cXukFDZk0h48nhwEVmen">
+    <mxGraphModel dx="1410" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C-VXF9TLK3M_xMKjsoj1-1" value="Comupter Network Midterm" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fixedSize=1;size=16;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=ADLaM Display;fontSize=20;strokeWidth=2;align=center;spacingLeft=0;spacingBottom=5;fillStyle=hachure;fontStyle=1;rounded=1;arcSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DADLaM%2BDisplay;hachureGap=4;" parent="1" vertex="1">
+          <mxGeometry x="264" y="30" width="299.32" height="57.14" as="geometry" />
+        </mxCell>
+        <mxCell id="C-VXF9TLK3M_xMKjsoj1-2" value="ماننساش&lt;br&gt;غزة" style="triangle;whiteSpace=wrap;html=1;dashed=0;direction=south;fillColor=#e51400;fontColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontFamily=Cairo;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCairo;verticalAlign=top;spacingTop=0;fontStyle=1;fontSize=16;hachureGap=4;" parent="1" vertex="1">
+          <mxGeometry x="710" y="18.57" width="102.16" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IHsJaNxGLqxoFGFYKgB4-4" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="20" y="38.56999999999999" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IHsJaNxGLqxoFGFYKgB4-5" value="Chapter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=2;fontFamily=Chakra Petch;arcSize=0;hachureGap=4;align=right;spacingRight=5;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="IHsJaNxGLqxoFGFYKgB4-4" vertex="1">
+          <mxGeometry width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IHsJaNxGLqxoFGFYKgB4-6" value="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#333333;strokeColor=#000000;strokeWidth=2;fontFamily=Chakra Petch;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontStyle=1;fontColor=#ffffff;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="IHsJaNxGLqxoFGFYKgB4-4" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IHsJaNxGLqxoFGFYKgB4-25" value="" style="group;flipH=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="389" y="260" width="420" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IHsJaNxGLqxoFGFYKgB4-26" value="Each computer operates &lt;font color=&quot;#d72027&quot;&gt;independently,&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font&gt; &lt;/font&gt;&lt;font&gt;which means no computer on the network can start, stop or control the others&lt;/font&gt; &lt;/font&gt;but can &lt;font color=&quot;#d72027&quot;&gt;communicate&lt;/font&gt; with others." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="IHsJaNxGLqxoFGFYKgB4-25" vertex="1">
+          <mxGeometry y="40" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IHsJaNxGLqxoFGFYKgB4-27" value="Autonomous" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="IHsJaNxGLqxoFGFYKgB4-25" vertex="1">
+          <mxGeometry x="140" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wilk4GHjQIamZe4483__-4" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="10" y="690" width="366" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wilk4GHjQIamZe4483__-5" value="Network Topology Factors" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#ffcc99;strokeColor=#000000;strokeWidth=2;fontFamily=Chakra Petch;arcSize=0;hachureGap=4;align=right;spacingRight=5;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="wilk4GHjQIamZe4483__-4" vertex="1">
+          <mxGeometry x="20" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wilk4GHjQIamZe4483__-6" value="-" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontFamily=Mina;fontStyle=1;fontSize=20;spacingTop=3;fontColor=#ffffff;" parent="wilk4GHjQIamZe4483__-4" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wilk4GHjQIamZe4483__-7" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="46" y="760" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wilk4GHjQIamZe4483__-8" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;The topology should allow for easy reconfiguration of the network. This&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;involves moving existing nodes and adding new ones.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="wilk4GHjQIamZe4483__-7" vertex="1">
+          <mxGeometry y="40" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wilk4GHjQIamZe4483__-9" value="Flexibility" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="wilk4GHjQIamZe4483__-7" vertex="1">
+          <mxGeometry x="50" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-1" value="" style="group;flipH=0;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="10" y="1180" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-2" value="Chapter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=2;fontFamily=Chakra Petch;arcSize=0;hachureGap=4;align=right;spacingRight=5;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=default;spacingLeft=5;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="Qc6sEPvMZquaexBOeqnc-1" vertex="1">
+          <mxGeometry width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-3" value="2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#333333;strokeColor=#000000;strokeWidth=2;fontFamily=Chakra Petch;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontStyle=1;fontColor=#ffffff;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="Qc6sEPvMZquaexBOeqnc-1" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-11" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="35" y="1250" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-12" value="Converts digital &lt;font color=&quot;#d72027&quot;&gt;data&lt;/font&gt; into digital &lt;font color=&quot;#d72027&quot;&gt;signals&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt; so it can be &lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;transmitted&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt; between digital systems&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="Qc6sEPvMZquaexBOeqnc-11" vertex="1">
+          <mxGeometry y="40" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-13" value="Digital-to-Digital Conversion" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="Qc6sEPvMZquaexBOeqnc-11" vertex="1">
+          <mxGeometry x="20" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-14" value="" style="group;flipH=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="413" y="1250" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-15" value="Converts digital &lt;font color=&quot;#d72027&quot;&gt;signals&lt;/font&gt; to &lt;font color=&quot;#d72027&quot;&gt;analog&lt;/font&gt; for transmission over &lt;font color=&quot;#d72027&quot;&gt;analog &lt;/font&gt;media like &lt;font color=&quot;#d72027&quot;&gt;telephone&lt;/font&gt; lines." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="Qc6sEPvMZquaexBOeqnc-14" vertex="1">
+          <mxGeometry y="40" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-16" value="Digital-to-Analog Conversion" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="Qc6sEPvMZquaexBOeqnc-14" vertex="1">
+          <mxGeometry x="35" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-17" value="Characteristics of Transmission Media" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fixedSize=1;size=-76.68000000000006;fillColor=#ffcc99;strokeColor=default;fontFamily=Chakra Petch;fontSize=20;strokeWidth=2;align=center;spacingLeft=0;spacingBottom=5;fillStyle=hachure;fontStyle=1;rounded=1;arcSize=17;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1">
+          <mxGeometry x="217.00000000000003" y="1480" width="373.32" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-21" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="19" y="2780" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-23" value="Physical Description" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;" parent="Qc6sEPvMZquaexBOeqnc-21" vertex="1">
+          <mxGeometry x="45" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-24" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="429" y="2800" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-26" value="Transmission Characteristics" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;" parent="Qc6sEPvMZquaexBOeqnc-24" vertex="1">
+          <mxGeometry x="5" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-30" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="586" y="2690" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-32" value="Connectivity" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;" parent="Qc6sEPvMZquaexBOeqnc-30" vertex="1">
+          <mxGeometry x="35" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-34" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="299.55" y="2920" width="205" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-36" value="Geographic Scope" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;" parent="Qc6sEPvMZquaexBOeqnc-34" vertex="1">
+          <mxGeometry width="205" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-37" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="559.55" y="2920" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-39" value="Noise Immunity" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;" parent="Qc6sEPvMZquaexBOeqnc-37" vertex="1">
+          <mxGeometry x="20" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-40" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="28" y="2900" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Qc6sEPvMZquaexBOeqnc-42" value="Relative Cost" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;" parent="Qc6sEPvMZquaexBOeqnc-40" vertex="1">
+          <mxGeometry x="42.5" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-30" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="17.549999999999997" y="3030" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-31" value="Common Media" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#000000;strokeWidth=2;fontFamily=Mina;arcSize=0;hachureGap=4;align=right;spacingRight=5;fontStyle=1" parent="0mcbXrqJwGiYXePzuXtM-30" vertex="1">
+          <mxGeometry x="20" width="188" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-32" value="🌟" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontFamily=Mina;fontStyle=1;fontSize=20;spacingTop=3;fontColor=#ffffff;" parent="0mcbXrqJwGiYXePzuXtM-30" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-51" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="20" y="3090" width="103.66" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-34" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;Name&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="0mcbXrqJwGiYXePzuXtM-51" vertex="1">
+          <mxGeometry x="0.047659770114947354" width="103.61234022988506" height="67.97434930215015" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-35" value="Description" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontColor=#333333;" parent="0mcbXrqJwGiYXePzuXtM-51" vertex="1">
+          <mxGeometry x="0.047659770114947354" y="67.97434930215007" width="103.61234022988506" height="67.97434930215015" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-36" value="Types" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontColor=#333333;" parent="0mcbXrqJwGiYXePzuXtM-51" vertex="1">
+          <mxGeometry y="135.94869860430015" width="103.61234022988506" height="67.97434930215015" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-37" value="Usage" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontColor=#333333;" parent="0mcbXrqJwGiYXePzuXtM-51" vertex="1">
+          <mxGeometry y="203.92304790645022" width="103.61234022988506" height="67.97434930215015" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-38" value="Advantages" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontColor=#333333;" parent="0mcbXrqJwGiYXePzuXtM-51" vertex="1">
+          <mxGeometry y="271.8973972086003" width="103.61234022988506" height="64.05130139569975" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-46" value="Disadvantages" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;fontColor=#333333;" parent="0mcbXrqJwGiYXePzuXtM-51" vertex="1">
+          <mxGeometry y="335.9486986043001" width="103.61234022988506" height="64.05130139569975" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-55" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="123.58" y="3090" width="686.42" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-47" value="" style="group" parent="0mcbXrqJwGiYXePzuXtM-55" vertex="1" connectable="0">
+          <mxGeometry x="514.775541503794" width="171.6444584962059" height="400.00000000000017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-25" value="&lt;div&gt;&lt;b&gt;Wireless Transmission&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="0mcbXrqJwGiYXePzuXtM-47" vertex="1">
+          <mxGeometry x="0.07891699241209874" width="171.56554150379384" height="67.97434930215017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-26" value="Uses electromagnetic waves." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-47" vertex="1">
+          <mxGeometry x="0.07891699241209874" y="67.9743493021501" width="171.56554150379384" height="67.97434930215017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-27" value="&lt;span&gt;-&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-47" vertex="1">
+          <mxGeometry y="135.9486986043002" width="171.56554150379384" height="67.97434930215017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-28" value="Radio, microwave, infrared." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-47" vertex="1">
+          <mxGeometry y="203.9230479064503" width="171.56554150379384" height="67.97434930215017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-29" value="No physical medium required." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-47" vertex="1">
+          <mxGeometry y="271.8973972086004" width="171.56554150379384" height="64.05130139569978" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-45" value="Susceptible to interference, limited by distance and obstacles." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-47" vertex="1">
+          <mxGeometry y="335.94869860430026" width="171.56554150379384" height="64.05130139569978" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-48" value="" style="group" parent="0mcbXrqJwGiYXePzuXtM-55" vertex="1" connectable="0">
+          <mxGeometry x="343.1310830075881" width="171.6444584962059" height="400.00000000000017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-19" value="&lt;b&gt;Optical Fiber&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="0mcbXrqJwGiYXePzuXtM-48" vertex="1">
+          <mxGeometry x="0.07891699241201464" width="171.56554150379384" height="67.97434930215017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-20" value="Glass or plastic core with cladding." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-48" vertex="1">
+          <mxGeometry x="0.07891699241201464" y="67.9743493021501" width="171.56554150379384" height="67.97434930215017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-21" value="-" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-48" vertex="1">
+          <mxGeometry y="135.9486986043002" width="171.56554150379384" height="67.97434930215017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-22" value="High data rates, long distances." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-48" vertex="1">
+          <mxGeometry y="203.9230479064503" width="171.56554150379384" height="67.97434930215017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-23" value="High bandwidth, immune to electromagnetic interference." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-48" vertex="1">
+          <mxGeometry y="271.8973972086004" width="171.56554150379384" height="64.05130139569978" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-44" value="Expensive, difficult to install." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-48" vertex="1">
+          <mxGeometry y="335.94869860430026" width="171.56554150379384" height="64.05130139569978" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-49" value="" style="group" parent="0mcbXrqJwGiYXePzuXtM-55" vertex="1" connectable="0">
+          <mxGeometry x="171.56554150379407" width="171.64445849620586" height="400.00000000000017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-13" value="&lt;b&gt;Coaxial Cable&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="0mcbXrqJwGiYXePzuXtM-49" vertex="1">
+          <mxGeometry x="0.07891699241201464" width="171.56554150379384" height="67.97434930215017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-14" value="Copper core surrounded by insulation and braided conductor." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d0cee2;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-49" vertex="1">
+          <mxGeometry x="0.07891699241201464" y="67.9743493021501" width="171.56554150379384" height="67.97434930215017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-15" value="Broadband (75 Ω) and Baseband (50 Ω)." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d0cee2;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-49" vertex="1">
+          <mxGeometry y="135.9486986043002" width="171.56554150379384" height="67.97434930215017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-16" value="High data rates, good interference immunity." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d0cee2;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-49" vertex="1">
+          <mxGeometry y="203.9230479064503" width="171.56554150379384" height="67.97434930215017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-17" value="Higher bandwidth than twisted pair." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d0cee2;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-49" vertex="1">
+          <mxGeometry y="271.8973972086004" width="171.56554150379384" height="64.05130139569978" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-43" value="More expensive than twisted pair." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d0cee2;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-49" vertex="1">
+          <mxGeometry y="335.94869860430026" width="171.56554150379384" height="64.05130139569978" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-50" value="" style="group" parent="0mcbXrqJwGiYXePzuXtM-55" vertex="1" connectable="0">
+          <mxGeometry width="171.64445849620589" height="400.00000000000017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-7" value="&lt;b&gt;Twisted Pair&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;" parent="0mcbXrqJwGiYXePzuXtM-50" vertex="1">
+          <mxGeometry x="0.0789169924120567" width="171.56554150379384" height="67.97434930215017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-8" value="Two insulated wires twisted together." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-50" vertex="1">
+          <mxGeometry x="0.0789169924120567" y="67.9743493021501" width="171.56554150379384" height="67.97434930215017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-9" value="(STP) and Unshielded (UTP)." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-50" vertex="1">
+          <mxGeometry y="135.9486986043002" width="171.56554150379384" height="67.97434930215017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-10" value="Analog and digital signals." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-50" vertex="1">
+          <mxGeometry y="203.9230479064503" width="171.56554150379384" height="67.97434930215017" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-11" value="Low cost, easy installation." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-50" vertex="1">
+          <mxGeometry y="271.8973972086004" width="171.56554150379384" height="64.05130139569978" as="geometry" />
+        </mxCell>
+        <mxCell id="0mcbXrqJwGiYXePzuXtM-42" value="Limited distance, susceptible to interference." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;container=0;fontSize=15;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacing=3;" parent="0mcbXrqJwGiYXePzuXtM-50" vertex="1">
+          <mxGeometry y="335.94869860430026" width="171.56554150379384" height="64.05130139569978" as="geometry" />
+        </mxCell>
+        <mxCell id="xXMY8BafT9azxOb8arzI-1" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontStyle=0" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="20" y="120" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IHsJaNxGLqxoFGFYKgB4-11" value="&lt;div&gt;Serves all of the organization’s computational needs based&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;on time sharing&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="xXMY8BafT9azxOb8arzI-1" vertex="1">
+          <mxGeometry y="40" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IHsJaNxGLqxoFGFYKgB4-12" value="Mainframe" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="xXMY8BafT9azxOb8arzI-1" vertex="1">
+          <mxGeometry x="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xXMY8BafT9azxOb8arzI-2" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontStyle=0" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="309" y="120" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IHsJaNxGLqxoFGFYKgB4-14" value="Terminals used to connect the users to mainframes" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="xXMY8BafT9azxOb8arzI-2" vertex="1">
+          <mxGeometry y="40" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IHsJaNxGLqxoFGFYKgB4-15" value="Dumb Terminal" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="xXMY8BafT9azxOb8arzI-2" vertex="1">
+          <mxGeometry x="20" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xXMY8BafT9azxOb8arzI-3" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontStyle=0" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="560" y="120" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xXMY8BafT9azxOb8arzI-4" value="Computer that server people based on time sharing" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="xXMY8BafT9azxOb8arzI-3" vertex="1">
+          <mxGeometry y="40" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xXMY8BafT9azxOb8arzI-5" value="Time Sharing" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="xXMY8BafT9azxOb8arzI-3" vertex="1">
+          <mxGeometry x="40" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xXMY8BafT9azxOb8arzI-6" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="19" y="260" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IHsJaNxGLqxoFGFYKgB4-23" value="&lt;font color=&quot;#d72027&quot;&gt;interconnected&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;font&gt;collection&lt;/font&gt; of&lt;/font&gt; autonomous &lt;font color=&quot;#d72027&quot;&gt;computers&lt;/font&gt; that can&amp;nbsp;&lt;font color=&quot;#d72027&quot;&gt;exchange&lt;/font&gt;&amp;nbsp;information." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="xXMY8BafT9azxOb8arzI-6" vertex="1">
+          <mxGeometry y="40" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IHsJaNxGLqxoFGFYKgB4-24" value="Computer Network" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="xXMY8BafT9azxOb8arzI-6" vertex="1">
+          <mxGeometry x="65" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-1" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="430" y="410" width="372" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wilk4GHjQIamZe4483__-1" value="In a network, &lt;font color=&quot;#d72027&quot;&gt;users&lt;/font&gt; control how computers &lt;font color=&quot;#d72027&quot;&gt;connect&lt;/font&gt;, while in a distributed system, the &lt;font color=&quot;#d72027&quot;&gt;complexity&lt;/font&gt; is &lt;font color=&quot;#d72027&quot;&gt;hidden&lt;/font&gt; from users." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="GkcYimPHbOf8uDblDo3v-1" vertex="1">
+          <mxGeometry y="40" width="372" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wilk4GHjQIamZe4483__-2" value="Network vs. Distributed System" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="GkcYimPHbOf8uDblDo3v-1" vertex="1">
+          <mxGeometry x="20" width="332" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-2" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="19" y="410" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-3" value="&lt;div&gt;&lt;font&gt;making it easier for corporations with computers but with&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;different operating system or specs to interoperate&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="GkcYimPHbOf8uDblDo3v-2" vertex="1">
+          <mxGeometry y="40" width="370" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-4" value="Interoperability" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="GkcYimPHbOf8uDblDo3v-2" vertex="1">
+          <mxGeometry x="95" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-5" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="30" y="560" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-6" value="Nodes interconnection pattern in a network" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="GkcYimPHbOf8uDblDo3v-5" vertex="1">
+          <mxGeometry y="40" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-7" value="Network Topology" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="GkcYimPHbOf8uDblDo3v-5" vertex="1">
+          <mxGeometry x="15" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-8" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="299" y="560" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-9" value="Shows how the system is wired" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="GkcYimPHbOf8uDblDo3v-8" vertex="1">
+          <mxGeometry y="40" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-10" value="Physical Topology" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="GkcYimPHbOf8uDblDo3v-8" vertex="1">
+          <mxGeometry x="15" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-11" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="570" y="560" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-12" value="Shows the signal flow in the network" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="GkcYimPHbOf8uDblDo3v-11" vertex="1">
+          <mxGeometry y="40" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-13" value="Logical Topology" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="GkcYimPHbOf8uDblDo3v-11" vertex="1">
+          <mxGeometry x="15" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-14" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="316" y="760" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-15" value="&lt;div&gt;For a network to be cost-effective, installation and maintenance cost&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;should be minimized.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="GkcYimPHbOf8uDblDo3v-14" vertex="1">
+          <mxGeometry y="40" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-16" value="Cost" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="GkcYimPHbOf8uDblDo3v-14" vertex="1">
+          <mxGeometry x="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-17" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="572" y="760" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-18" value="&lt;div&gt;The topology should allow the location of the fault to be detected and&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;provide some means of isolating or fixing it.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="GkcYimPHbOf8uDblDo3v-17" vertex="1">
+          <mxGeometry y="40" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GkcYimPHbOf8uDblDo3v-19" value="Reliability" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="GkcYimPHbOf8uDblDo3v-17" vertex="1">
+          <mxGeometry x="40" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0dopm-p-t6QoXUohSpI-1" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="433" y="960" width="372" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="m0dopm-p-t6QoXUohSpI-2" value="Cover larger areas like cities or countries." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="m0dopm-p-t6QoXUohSpI-1">
+          <mxGeometry y="40" width="372" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0dopm-p-t6QoXUohSpI-3" value="WAN (Wide Area Network):" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e51400;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontColor=#ffffff;" vertex="1" parent="m0dopm-p-t6QoXUohSpI-1">
+          <mxGeometry x="42" width="288" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0dopm-p-t6QoXUohSpI-4" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="22" y="960" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="m0dopm-p-t6QoXUohSpI-5" value="Covers a small area like a building or campus." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="m0dopm-p-t6QoXUohSpI-4">
+          <mxGeometry y="40" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0dopm-p-t6QoXUohSpI-6" value="LAN (Local Area Network)" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e51400;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontColor=#ffffff;" vertex="1" parent="m0dopm-p-t6QoXUohSpI-4">
+          <mxGeometry x="20" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0dopm-p-t6QoXUohSpI-8" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="114" y="1370" width="600" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m0dopm-p-t6QoXUohSpI-9" value="&lt;div&gt;The physical &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;path&lt;/font&gt; between &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;transmitter&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;and &lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: rgb(255, 0, 0);&quot;&gt;receiver&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; in a &lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: rgb(255, 0, 0);&quot;&gt;communication&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; network.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="m0dopm-p-t6QoXUohSpI-8">
+          <mxGeometry y="40" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0dopm-p-t6QoXUohSpI-10" value="The Transmission Medium" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="m0dopm-p-t6QoXUohSpI-8">
+          <mxGeometry x="160" width="280" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
