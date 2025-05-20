@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5" pages="6">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5" pages="4">
   <diagram name="Page-1" id="WOf9486LqnUHYk-fnlfq">
     <mxGraphModel dx="475" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -249,286 +249,72 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Q11" id="6kgEJgXcNwnEg6JcUQ_U">
-    <mxGraphModel dx="618" dy="-784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1412" dy="-294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="7Juw7eIDhR4qtw-yaTz--0" />
         <mxCell id="7Juw7eIDhR4qtw-yaTz--1" parent="7Juw7eIDhR4qtw-yaTz--0" />
-        <mxCell id="7Juw7eIDhR4qtw-yaTz--2" value="&lt;span style=&quot;color: rgb(153, 0, 0); font-family: Mali; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Solution&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="7Juw7eIDhR4qtw-yaTz--2" value="&lt;span style=&quot;color: rgb(153, 0, 0); font-family: Mali; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Solution&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="369" y="1280" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Juw7eIDhR4qtw-yaTz--3" value="سؤال 11 من الشيت" style="text;strokeColor=none;fillColor=#fff2cc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=20;fontFamily=Kufam;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKufam;dashed=1;dashPattern=12 12;gradientColor=none;fillStyle=auto;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="7Juw7eIDhR4qtw-yaTz--3" value="سؤال 11 من الشيت" style="text;strokeColor=none;fillColor=#fff2cc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=20;fontFamily=Kufam;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKufam;dashed=1;dashPattern=12 12;gradientColor=none;fillStyle=auto;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="19" y="1180" width="790" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7Juw7eIDhR4qtw-yaTz--5" value="&lt;div style=&quot;line-height: 130%;&quot;&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;A production process manufactures computer chips on the&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;average at `2%` non-conforming. Every day a random sample of&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;size `50` is taken from the process. If the sample contains more&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;than two non-conforming chips, the process will be stopped.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Determine the probability that the process is stopped by the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;sampling scheme.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="7Juw7eIDhR4qtw-yaTz--5" value="&lt;div style=&quot;line-height: 130%;&quot;&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;A production process manufactures computer chips on the&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;average at `2%` non-conforming. Every day a random sample of&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;size `50` is taken from the process. If the sample contains more&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;than two non-conforming chips, the process will be stopped.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Determine the probability that the process is stopped by the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;sampling scheme.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="35" y="1220" width="695" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Juw7eIDhR4qtw-yaTz--7" value="\[ P(0 \le X \le 2) = F(2) - F(0) \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="7Juw7eIDhR4qtw-yaTz--7" value="\[ P(0 \le X \le 2) = F(2) - F(0) \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="50" y="1480" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7Juw7eIDhR4qtw-yaTz--9" value="\[ = (1 - e^{\frac{-2}{2}}) - (1 - e^{\frac{-0}{2}}) \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=17;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="7Juw7eIDhR4qtw-yaTz--9" value="\[ = (1 - e^{\frac{-2}{2}}) - (1 - e^{\frac{-0}{2}}) \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=17;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="130" y="1516" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Juw7eIDhR4qtw-yaTz--10" value="\[ = (1 - e^{-1}) - (1 - 1) \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=17;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="7Juw7eIDhR4qtw-yaTz--10" value="\[ = (1 - e^{-1}) - (1 - 1) \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=17;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="160" y="1557" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Juw7eIDhR4qtw-yaTz--11" value="\[ \approx 0.632 \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=17;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="7Juw7eIDhR4qtw-yaTz--11" value="\[ \approx 0.632 \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=17;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="270" y="1602" width="70" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="7Juw7eIDhR4qtw-yaTz--12" value="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Verdana;fontSize=14;verticalAlign=middle;spacingBottom=7;fillColor=#cce5ff;strokeColor=#36393d;spacingTop=5;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="7Juw7eIDhR4qtw-yaTz--12" value="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Verdana;fontSize=14;verticalAlign=middle;spacingBottom=7;fillColor=#cce5ff;strokeColor=#36393d;spacingTop=5;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="30" y="1485" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7Juw7eIDhR4qtw-yaTz--13" value="\[ = (1 - e^{\frac{-3}{2}}) - (1 - e^{\frac{-2}{2}}) \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=17;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="7Juw7eIDhR4qtw-yaTz--13" value="\[ = (1 - e^{\frac{-3}{2}}) - (1 - e^{\frac{-2}{2}}) \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=17;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="140" y="1696" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Juw7eIDhR4qtw-yaTz--14" value="\[ = (1 - e^{\frac{-3}{2}})&amp;nbsp;- (1 - e^{-1})&amp;nbsp;\]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=17;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="7Juw7eIDhR4qtw-yaTz--14" value="\[ = (1 - e^{\frac{-3}{2}})&amp;nbsp;- (1 - e^{-1})&amp;nbsp;\]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=17;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="170" y="1737" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Juw7eIDhR4qtw-yaTz--15" value="\[ = 0.77 - 0.632 \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=17;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="7Juw7eIDhR4qtw-yaTz--15" value="\[ = 0.77 - 0.632 \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=17;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="220" y="1790" width="150" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="7Juw7eIDhR4qtw-yaTz--16" value="\[ P(2 \le X \le 3) = F(3) - F(2) \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="7Juw7eIDhR4qtw-yaTz--16" value="\[ P(2 \le X \le 3) = F(3) - F(2) \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="60" y="1660" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7Juw7eIDhR4qtw-yaTz--17" value="\[ \approx 0.145 \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=17;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="7Juw7eIDhR4qtw-yaTz--17" value="\[ \approx 0.145 \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=17;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="290" y="1823" width="70" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="7Juw7eIDhR4qtw-yaTz--18" value="2" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Verdana;fontSize=14;verticalAlign=middle;spacingBottom=7;fillColor=#cce5ff;strokeColor=#36393d;spacingTop=5;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="7Juw7eIDhR4qtw-yaTz--18" value="2" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Verdana;fontSize=14;verticalAlign=middle;spacingBottom=7;fillColor=#cce5ff;strokeColor=#36393d;spacingTop=5;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="30" y="1665" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PUkwj0wi9g4K9dTl5ut_-0" value="Bernoulli" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="PUkwj0wi9g4K9dTl5ut_-0" value="Bernoulli" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="630" y="1330" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PUkwj0wi9g4K9dTl5ut_-1" value="Binomial" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="PUkwj0wi9g4K9dTl5ut_-1" value="Binomial" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="630" y="1360" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PUkwj0wi9g4K9dTl5ut_-2" value="Geometric" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="PUkwj0wi9g4K9dTl5ut_-2" value="Geometric" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="630" y="1390" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PUkwj0wi9g4K9dTl5ut_-3" value="Geometric" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="PUkwj0wi9g4K9dTl5ut_-3" value="Geometric" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="630" y="1420" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PUkwj0wi9g4K9dTl5ut_-4" value="Poisson" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="PUkwj0wi9g4K9dTl5ut_-4" value="Poisson" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="630" y="1450" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PUkwj0wi9g4K9dTl5ut_-5" value="Continuous Distributions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="PUkwj0wi9g4K9dTl5ut_-5" value="Continuous Distributions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="440" y="1485" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PUkwj0wi9g4K9dTl5ut_-6" value="Discrete Distributions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" vertex="1" parent="7Juw7eIDhR4qtw-yaTz--1">
+        <mxCell id="PUkwj0wi9g4K9dTl5ut_-6" value="Discrete Distributions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="7Juw7eIDhR4qtw-yaTz--1" vertex="1">
           <mxGeometry x="480" y="1380" width="100" height="50" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="2EQC3e5ZtWqgKaqcXk4l" name="Page-5">
-    <mxGraphModel dx="815" dy="-661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-1" value="Bernoulli" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="1" vertex="1">
-          <mxGeometry x="420" y="1270" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-2" value="Binomial" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="1" vertex="1">
-          <mxGeometry x="420" y="1300" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-3" value="Geometric" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="1" vertex="1">
-          <mxGeometry x="420" y="1330" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-4" value="Geometric" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="1" vertex="1">
-          <mxGeometry x="420" y="1360" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-5" value="Poisson" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="1" vertex="1">
-          <mxGeometry x="420" y="1390" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-6" value="Continuous Distributions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="1" vertex="1">
-          <mxGeometry x="230" y="1425" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-7" value="Discrete Distributions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="1" vertex="1">
-          <mxGeometry x="270" y="1320" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-17" value="\[ P(x_i) = \begin{cases} p, &amp;amp; x_i = 1 \\ q:=1-p, &amp;amp; x_i = 0 \end{cases} \]" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;align=left;" parent="1" vertex="1">
-          <mxGeometry x="137" y="1536.04" width="343" height="63.96" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-18" value="&lt;div style=&quot;direction: ltr;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\[ P(x) = \begin{cases} \binom{n}{x}\cdot p^x \cdot q^{n-x}, &amp;amp; x = 0,1,\cdots ,n \\ 0, &amp;amp; \text{otherwise} \end{cases} \]&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;align=left;" parent="1" vertex="1">
-          <mxGeometry x="137" y="1600" width="343" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-19" value="\[ P(x) = \begin{cases} q^{x-1} \cdot p, &amp;amp; x = 0,1,\cdots ,n \\ 0, &amp;amp; \text{otherwise} \end{cases} \]" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;align=left;" parent="1" vertex="1">
-          <mxGeometry x="137" y="1670" width="343" height="62.08" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-20" value="\[ P(x) = \begin{cases} \frac{\alpha^x}{x!} \cdot e^{-\alpha}, &amp;amp; x = 0,1,\cdots ,n \\ 0, &amp;amp; \text{otherwise} \end{cases} \]" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;align=left;" parent="1" vertex="1">
-          <mxGeometry x="137" y="1732.08" width="343" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-33" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;`P(x)`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#008A00;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="137" y="1500" width="343" height="36.04" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-10" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;Name&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f0a30a;strokeColor=#000000;fontColor=#000000;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=center;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="49.999999999999986" y="1500" width="86.96" height="36.04" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-11" value="Bernoulli" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="49.999999999999986" y="1536.04" width="86.96" height="63.96" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-12" value="Binomial" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="50" y="1600" width="86.96" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-13" value="Geometric" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="50" y="1670" width="86.96" height="62.08" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-14" value="Poisson" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="50" y="1732.08" width="86.96" height="61.92" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-22" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;`E(x_i)=\mu`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1500" width="99.96" height="36.04" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-23" value="`p`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1536.04" width="99.96" height="63.96" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-28" value="&lt;b&gt;`V(x_i) = \sigma^2`&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#a20025;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="580.0400000000001" y="1500" width="99.96" height="36.04" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-29" value="`p \cdot q`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="580" y="1536.04" width="99.96" height="63.96" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;`n \cdot p`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1600" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;`\frac{1}{p}`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1670" width="100" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-26" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;`\alpha = V(x)`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="479.96" y="1732.08" width="100" height="61.92" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-30" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;`n\cdot p\cdot q`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="579.96" y="1600" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-31" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;`\frac{q}{p^2}`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="579.96" y="1670" width="100" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="BIRkr3RbhW1GYkkgKD84-32" value="`\alpha = E(x)`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="580" y="1732" width="100" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="E6RpdTapnu6dJl98XvjU-1" value="&lt;b&gt;`V(x_i) = \sigma^2`&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#a20025;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="680.08" y="1500.08" width="99.96" height="36.04" as="geometry" />
-        </mxCell>
-        <mxCell id="E6RpdTapnu6dJl98XvjU-2" value="`p \cdot q`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="680.04" y="1536.12" width="99.96" height="63.96" as="geometry" />
-        </mxCell>
-        <mxCell id="E6RpdTapnu6dJl98XvjU-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;`n\cdot p\cdot q`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="680" y="1600.08" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="E6RpdTapnu6dJl98XvjU-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;`\frac{q}{p^2}`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="680" y="1670.08" width="100" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="E6RpdTapnu6dJl98XvjU-5" value="CDF `F(x) = \sum{i=0}^x \frac{\alpha^i}{i!}\dot e^{-alpha}`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="680.04" y="1732.08" width="100" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="E6RpdTapnu6dJl98XvjU-6" value="CDF `F(x) = \sum_{i=0}^x \frac{\alpha^i}{i!}\dot e^{-alpha}`" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipV=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="218.5" y="1930" width="311.5" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="Copy of Page-5" id="3dIM2CA5d_x80c_3oqFC">
-    <mxGraphModel dx="1188" dy="-428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
-      <root>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-0" />
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-1" parent="u8-CPHMfK9tnpPCOLyB7-0" />
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-2" value="Bernoulli" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="420" y="1270" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-3" value="Binomial" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="420" y="1300" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-4" value="Geometric" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="420" y="1330" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-5" value="Geometric" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="420" y="1360" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-6" value="Poisson" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="420" y="1390" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-7" value="Continuous Distributions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="230" y="1425" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-8" value="Discrete Distributions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mali;fontStyle=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="270" y="1320" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-9" value="\[ P(x_i) = \begin{cases} p, &amp;amp; x_i = 1 \\ q:=1-p, &amp;amp; x_i = 0 \end{cases} \]" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;align=left;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="137" y="1536.04" width="343" height="63.96" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-10" value="&lt;div style=&quot;direction: ltr;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\[ P(x) = \begin{cases} \binom{n}{x}\cdot p^x \cdot q^{n-x}, &amp;amp; x = 0,1,\cdots ,n \\ 0, &amp;amp; \text{otherwise} \end{cases} \]&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;align=left;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="137" y="1600" width="343" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-11" value="\[ P(x) = \begin{cases} q^{x-1} \cdot p, &amp;amp; x = 0,1,\cdots ,n \\ 0, &amp;amp; \text{otherwise} \end{cases} \]" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;align=left;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="137" y="1670" width="343" height="62.08" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-12" value="\[ P(x) = \begin{cases} \frac{\alpha^x}{x!} \cdot e^{-\alpha}, &amp;amp; x = 0,1,\cdots ,n \\ 0, &amp;amp; \text{otherwise} \end{cases} \]" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;align=left;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="137" y="1732.08" width="343" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-13" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;`P(x)`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#008A00;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="137" y="1500" width="343" height="36.04" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-14" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;Name&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f0a30a;strokeColor=#000000;fontColor=#000000;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=center;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="49.999999999999986" y="1500" width="86.96" height="36.04" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-15" value="Bernoulli" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="49.999999999999986" y="1536.04" width="86.96" height="63.96" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-16" value="Binomial" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="50" y="1600" width="86.96" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-17" value="Geometric" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="50" y="1670" width="86.96" height="62.08" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-18" value="Poisson" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;align=left;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="50" y="1732.08" width="86.96" height="61.92" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-19" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;`E(x_i)=\mu`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="480" y="1500" width="99.96" height="36.04" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-20" value="`p`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="480" y="1536.04" width="99.96" height="63.96" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-21" value="&lt;b&gt;`V(x_i) = \sigma^2`&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#a20025;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="580.0400000000001" y="1500" width="99.96" height="36.04" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-22" value="`p \cdot q`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="580" y="1536.04" width="99.96" height="63.96" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;`n \cdot p`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="480" y="1600" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;`\frac{1}{p}`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="480" y="1670" width="100" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;`\alpha = V(x)`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="479.96" y="1732.08" width="100" height="61.92" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-26" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;`n\cdot p\cdot q`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="579.96" y="1600" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-27" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;`\frac{q}{p^2}`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="579.96" y="1670" width="100" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-28" value="`\alpha = E(x)`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="580" y="1732" width="100" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-29" value="&lt;b&gt;`V(x_i) = \sigma^2`&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#a20025;strokeColor=#000000;fontColor=#ffffff;container=0;fontSize=16;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="680.08" y="1500.08" width="99.96" height="36.04" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-30" value="`p \cdot q`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="680.04" y="1536.12" width="99.96" height="63.96" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-31" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;`n\cdot p\cdot q`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="680" y="1600.08" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-32" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;`\frac{q}{p^2}`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="680" y="1670.08" width="100" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-33" value="CDF `F(x) = \sum{i=0}^x \frac{\alpha^i}{i!}\dot e^{-alpha}`" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;container=0;fontSize=16;fontStyle=1;fontFamily=Mina;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMina;spacingLeft=2;spacingRight=2;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="680.04" y="1732.08" width="100" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="u8-CPHMfK9tnpPCOLyB7-34" value="CDF `F(x) = \sum_{i=0}^x \frac{\alpha^i}{i!}\dot e^{-alpha}`" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipV=1;html=1;" parent="u8-CPHMfK9tnpPCOLyB7-1" vertex="1">
-          <mxGeometry x="218.5" y="1930" width="311.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
