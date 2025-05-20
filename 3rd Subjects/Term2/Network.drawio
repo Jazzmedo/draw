@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2" pages="3">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5" pages="4">
   <diagram id="mt5Rb7GmIyOTGnbLlRh9" name="Mid-Term">
     <mxGraphModel dx="1410" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1862,6 +1862,700 @@
         </mxCell>
         <mxCell id="I1lcThAW4T4od5DI724R-2" value="ماننساش&lt;br&gt;غزة" style="triangle;whiteSpace=wrap;html=1;dashed=0;direction=south;fillColor=#e51400;fontColor=#ffffff;strokeColor=#000000;strokeWidth=5;fontFamily=Cairo;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCairo;verticalAlign=top;spacingTop=2;fontStyle=1;fontSize=23;hachureGap=4;" vertex="1" parent="I1lcThAW4T4od5DI724R-216">
           <mxGeometry x="1000.8399999999999" width="148" height="115.9" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Photo" id="7gYLy81J6X7ySlzS7P_3">
+    <mxGraphModel dx="4034" dy="2500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="1800" math="0" shadow="0">
+      <root>
+        <mxCell id="y63Ci895xgGnurHmZe7u-0" />
+        <mxCell id="y63Ci895xgGnurHmZe7u-1" parent="y63Ci895xgGnurHmZe7u-0" />
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-0" value="Computer Network Final" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fixedSize=1;size=16;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=ADLaM Display;fontSize=20;strokeWidth=2;align=center;spacingLeft=0;spacingBottom=5;fillStyle=hachure;fontStyle=1;rounded=1;arcSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DADLaM%2BDisplay;hachureGap=4;" vertex="1" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1160" y="30" width="299.32" height="57.14" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-1" value="ماننساش&lt;br&gt;غزة" style="triangle;whiteSpace=wrap;html=1;dashed=0;direction=south;fillColor=#e51400;fontColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontFamily=Cairo;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCairo;verticalAlign=top;spacingTop=0;fontStyle=1;fontSize=16;hachureGap=4;" vertex="1" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1270" y="88" width="102.16" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-2" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="20" y="38.56999999999999" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-3" value="Chapter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=2;fontFamily=Chakra Petch;arcSize=0;hachureGap=4;align=right;spacingRight=5;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-2">
+          <mxGeometry width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-4" value="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#333333;strokeColor=#000000;strokeWidth=2;fontFamily=Chakra Petch;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontStyle=1;fontColor=#ffffff;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-2">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-5" value="" style="group;flipH=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="389" y="260" width="420" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-6" value="Each computer operates &lt;font color=&quot;#d72027&quot;&gt;independently,&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font&gt; &lt;/font&gt;&lt;font&gt;which means no computer on the network can start, stop or control the others&lt;/font&gt; &lt;/font&gt;but can &lt;font color=&quot;#d72027&quot;&gt;communicate&lt;/font&gt; with others." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-5">
+          <mxGeometry y="40" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-7" value="Autonomous" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-5">
+          <mxGeometry x="140" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-8" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="46" y="790" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-9" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Allow for &lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;easy reconfiguration&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt; of the network. This&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;involves &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;moving&lt;/font&gt;&amp;nbsp;or adding nodes.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-8">
+          <mxGeometry y="40" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-10" value="Flexibility" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-8">
+          <mxGeometry x="50" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-11" value="" style="group;flipH=0;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="20" y="1190" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-12" value="Chapter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=2;fontFamily=Chakra Petch;arcSize=0;hachureGap=4;align=right;spacingRight=5;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=default;spacingLeft=5;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-11">
+          <mxGeometry width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-13" value="2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#333333;strokeColor=#000000;strokeWidth=2;fontFamily=Chakra Petch;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontStyle=1;fontColor=#ffffff;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-11">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-14" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontStyle=0" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="20" y="120" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-15" value="&lt;div&gt;Serves all of the organization’s computational needs based&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;on time sharing&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-14">
+          <mxGeometry y="40" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-16" value="Mainframe" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-14">
+          <mxGeometry x="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-17" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontStyle=0" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="309" y="120" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-18" value="Terminals used to connect the users to mainframes" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-17">
+          <mxGeometry y="40" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-19" value="Dumb Terminal" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-17">
+          <mxGeometry x="20" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-20" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontStyle=0" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="550" y="120" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-21" value="Computer that serve people based on time sharing concept" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-20">
+          <mxGeometry y="40" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-22" value="Time Sharing" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-20">
+          <mxGeometry x="50" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-23" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="19" y="260" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-24" value="&lt;font color=&quot;#d72027&quot;&gt;interconnected&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;font&gt;collection&lt;/font&gt; of&lt;/font&gt; autonomous &lt;font color=&quot;#d72027&quot;&gt;computers&lt;/font&gt; that can&amp;nbsp;&lt;font color=&quot;#d72027&quot;&gt;exchange&lt;/font&gt;&amp;nbsp;information." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-23">
+          <mxGeometry y="40" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-25" value="Computer Network" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-23">
+          <mxGeometry x="65" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-26" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="430" y="410" width="372" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-27" value="In a network, &lt;font color=&quot;#d72027&quot;&gt;users&lt;/font&gt; control how computers &lt;font color=&quot;#d72027&quot;&gt;connect&lt;/font&gt;, while in a distributed system, the &lt;font color=&quot;#d72027&quot;&gt;complexity&lt;/font&gt; is &lt;font color=&quot;#d72027&quot;&gt;hidden&lt;/font&gt; from users." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-26">
+          <mxGeometry y="40" width="372" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-28" value="Network vs. Distributed System" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-26">
+          <mxGeometry x="20" width="332" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-29" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="19" y="410" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-30" value="&lt;div&gt;&lt;font&gt;ease of &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;corporations&lt;/font&gt; between &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;computers&lt;/font&gt; with&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;different&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt; operating system or &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;specs&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt; to interoperate&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-29">
+          <mxGeometry y="40" width="370" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-31" value="Interoperability" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-29">
+          <mxGeometry x="95" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-32" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="29" y="580" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-33" value="Nodes interconnection pattern in a network" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-32">
+          <mxGeometry y="40" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-34" value="Network Topology" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-32">
+          <mxGeometry x="15" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-35" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="298" y="580" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-36" value="Shows how the system is wired" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-35">
+          <mxGeometry y="40" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-37" value="Physical Topology" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-35">
+          <mxGeometry x="15" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-38" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="569" y="580" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-39" value="Shows the signal flow in the network" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-38">
+          <mxGeometry y="40" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-40" value="Logical Topology" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-38">
+          <mxGeometry x="15" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-41" value="" style="group" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="316" y="790" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-42" value="&lt;div&gt;by &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;minimizing&lt;/font&gt; installation and maintenance &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;cost&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;. to be &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;cost-effective&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-41">
+          <mxGeometry y="40" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-43" value="Cost" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-41">
+          <mxGeometry x="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-44" value="" style="group" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="572" y="790" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-45" value="&lt;div&gt;Allow the &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;fault detection&lt;/font&gt; and&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;provide some &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 255, 255));&quot;&gt;isolating means&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; or &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 255, 255));&quot;&gt;fixing&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; it.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-44">
+          <mxGeometry y="30" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-46" value="Reliability" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-44">
+          <mxGeometry x="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-47" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="29" y="1000" width="344" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-48" value="Covers a &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;small &lt;/font&gt;area like a building or campus." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-47">
+          <mxGeometry y="40" width="344" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-49" value="LAN (Local Area Network)" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e51400;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontColor=#ffffff;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-47">
+          <mxGeometry x="27" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-50" value="" style="group" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="174" y="1523" width="499.1600000000001" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-51" value="Characteristics of Transmission Media" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fixedSize=1;size=-76.68000000000006;fillColor=#a0522d;strokeColor=default;fontFamily=Chakra Petch;fontSize=20;strokeWidth=2;align=center;spacingLeft=0;spacingBottom=5;fillStyle=hachure;fontStyle=1;rounded=1;arcSize=17;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontColor=#ffffff;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-50">
+          <mxGeometry x="2.5" width="496.66" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-52" value="Physical Description" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=default;fontSize=18;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-50">
+          <mxGeometry y="40" width="182.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-53" value="Geographic Scope" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=default;fontSize=18;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-50">
+          <mxGeometry x="333.82" y="40" width="164.68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-54" value="Noise Immunity" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=default;fontSize=18;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-50">
+          <mxGeometry x="182.5" y="40" width="152" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-55" value="Relative Cost" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=default;fontSize=18;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-50">
+          <mxGeometry x="372.5" y="80" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-56" value="Transmission Characteristics" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=default;fontSize=18;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-50">
+          <mxGeometry y="80" width="252.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-57" value="Connectivity" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=default;fontSize=18;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-50">
+          <mxGeometry x="252.5" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-58" value="" style="group" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="427" y="1000" width="372" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-59" value="Cover &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;larger &lt;/font&gt;areas like cities or countries." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-58">
+          <mxGeometry x="28.5" y="40" width="315" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-60" value="WAN (Wide Area Network)" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e51400;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontColor=#ffffff;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-58">
+          <mxGeometry x="42" width="288" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-61" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="186" y="2010" width="475" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-62" value="To minimizes &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Electro Magnetic&lt;/font&gt; (EM) interference between pairs" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-61">
+          <mxGeometry y="40" width="475" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-63" value="Why we need to Twisted Pair?" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e51400;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-61">
+          <mxGeometry x="75" width="325" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-64" value="Components of optical transmission system" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fixedSize=1;size=10;fillColor=#a0522d;strokeColor=default;fontFamily=Chakra Petch;fontSize=20;strokeWidth=2;align=center;spacingLeft=0;spacingBottom=5;fillStyle=hachure;fontStyle=1;rounded=1;arcSize=17;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontColor=#ffffff;" vertex="1" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1044" y="1000" width="453.34" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-65" value="" style="group" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="890" y="810" width="761" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-66" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontStyle=0" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-65">
+          <mxGeometry width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-67" value="Devices that &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;increase&lt;/font&gt; the &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;strength&lt;/font&gt; (amplitude) of the signal &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;without&lt;/font&gt; changing the &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;shape&lt;/font&gt; (frequency) used for every 5-6 Km" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-66">
+          <mxGeometry y="40" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-68" value="Amplifiers" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-66">
+          <mxGeometry x="110" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-69" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontStyle=0" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-65">
+          <mxGeometry x="451" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-70" value="Devices fixes The weak corrupted digital signals, regenerated &amp;amp; retransmitted used for every 2-3 KM" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-69">
+          <mxGeometry y="40" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-71" value="Repeaters" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-69">
+          <mxGeometry x="90" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-72" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#e51400;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-65">
+          <mxGeometry x="387" y="47.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-73" value="" style="group" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="49" y="1695" width="750" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-74" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-73">
+          <mxGeometry width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-75" value="&lt;div&gt;Transmission signal are guided along a &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;physical&lt;/font&gt; path (e.g. Cupper cables, Fiber optics)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-74">
+          <mxGeometry y="40" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-76" value="Guided Media" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-74">
+          <mxGeometry x="102.5" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-77" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-73">
+          <mxGeometry x="420" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-78" value="Transmission signal are guided through the &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;air&lt;/font&gt; (e.g. Microwaves, Radio waves, Lasers)" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-77">
+          <mxGeometry y="40" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-79" value="Unguided Media" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-77">
+          <mxGeometry x="70" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-80" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-73">
+          <mxGeometry x="2" y="140" width="335" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-81" value="&lt;div&gt;Signal represents data using discrete levels&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-80">
+          <mxGeometry y="40" width="335" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-82" value="Digital Signal" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-80">
+          <mxGeometry x="85" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-83" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-73">
+          <mxGeometry x="392" y="140" width="355" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-84" value="Signal represents data using continuous levels" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-83">
+          <mxGeometry y="40" width="355" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-85" value="Analog Signal" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-83">
+          <mxGeometry x="95" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-86" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#e51400;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-73">
+          <mxGeometry x="367" y="115" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-87" value="" style="group" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="45" y="1260" width="758" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-88" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-87">
+          <mxGeometry width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-89" value="Converts digital &lt;font color=&quot;#d72027&quot;&gt;data&lt;/font&gt; into digital &lt;font color=&quot;#d72027&quot;&gt;signals&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt; so it can be &lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;transmitted&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt; between digital systems&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-88">
+          <mxGeometry y="40" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-90" value="Digital-to-Digital Conversion" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-88">
+          <mxGeometry x="20" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-91" value="" style="group;flipH=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-87">
+          <mxGeometry x="378" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-92" value="Converts digital &lt;font color=&quot;#d72027&quot;&gt;signals&lt;/font&gt; to &lt;font color=&quot;#d72027&quot;&gt;analog&lt;/font&gt; for transmission over &lt;font color=&quot;#d72027&quot;&gt;analog &lt;/font&gt;media like &lt;font color=&quot;#d72027&quot;&gt;telephone&lt;/font&gt; lines." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-91">
+          <mxGeometry y="40" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-93" value="Digital-to-Analog Conversion" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-91">
+          <mxGeometry x="35" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-94" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-87">
+          <mxGeometry x="79" y="120" width="600" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-95" value="&lt;div&gt;The physical &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;path&lt;/font&gt; between &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;transmitter&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;and &lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: rgb(255, 0, 0);&quot;&gt;receiver&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; in a &lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: rgb(255, 0, 0);&quot;&gt;communication&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; network.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-94">
+          <mxGeometry y="40" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-96" value="The Transmission Medium" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#008a00;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-94">
+          <mxGeometry x="160" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-97" value="" style="group" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="870" y="1060" width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-98" value="&lt;div&gt;in fiber optics can be an &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;LED&lt;/font&gt; or &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Laser Diode&lt;/font&gt;—LEDs&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;are &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;cheaper&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; and &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;longer-lasting&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, while Laser Diodes are &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;faster&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; and more&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;powerful&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;arcSize=9;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-97">
+          <mxGeometry y="40" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-99" value="The Light Source" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#a0522d;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-97">
+          <mxGeometry x="76.5" width="187" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-100" value="" style="group" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1251" y="1060" width="420" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-101" value="&lt;div&gt;(PIN or APD) at the receiver converts &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;light&lt;/font&gt; into&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;electrical signals&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, using intensity modulation (OOK) to represent&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;binary data&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; at rates up to 1000 Mbps.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;arcSize=9;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-100">
+          <mxGeometry y="40" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-102" value="The Photo Detector" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#a0522d;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-100">
+          <mxGeometry x="120" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-103" value="" style="group" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1101" y="1210" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-104" value="&lt;div&gt;It is an &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;ultra-thin&lt;/font&gt; fiber of &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;glass&lt;/font&gt; or fused&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;silica&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;arcSize=9;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-103">
+          <mxGeometry y="40" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-105" value="The Transmission Medium" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#a0522d;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-103">
+          <mxGeometry x="30" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-106" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1023" y="1320" width="495" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-107" value="Because it does &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;not&lt;/font&gt; contain &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;metal&lt;/font&gt; and uses &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;light&lt;/font&gt; for transmission" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-106">
+          <mxGeometry y="40" width="495" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-108" value="Why is there no noise in optical fiber?" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-106">
+          <mxGeometry x="47.5" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-109" value="Network Topology Factors" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fixedSize=1;size=10;fillColor=#a0522d;strokeColor=default;fontFamily=Chakra Petch;fontSize=20;strokeWidth=2;align=center;spacingLeft=0;spacingBottom=5;fillStyle=hachure;fontStyle=1;rounded=1;arcSize=17;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontColor=#ffffff;" vertex="1" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="276" y="720" width="275.34" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-110" value="" style="group" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="886" y="1440" width="770" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-111" value="&lt;div&gt;A dedicated line is necessary &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;before&lt;/font&gt; data can be&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;transmitted&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; , three phases take place for connection:&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-110">
+          <mxGeometry x="7" y="40" width="757" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-112" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Circuit Switching&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontSize=23;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;arcSize=11;fontColor=#ffffff;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-110">
+          <mxGeometry x="292" width="187" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-113" value="" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fillColor=none;arcSize=4;strokeWidth=2;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-110">
+          <mxGeometry y="80" width="770" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-114" value="" style="group" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-110">
+          <mxGeometry x="11" y="100" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-115" value="Circuit Establishment" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;verticalAlign=middle;spacingBottom=0;fontColor=#ffffff;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-114">
+          <mxGeometry x="30" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-116" value="circuit is set-up between &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;source&lt;/font&gt; and &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;destination&lt;/font&gt;." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-114">
+          <mxGeometry y="40" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-117" value="" style="group" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-110">
+          <mxGeometry x="321" y="100" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-118" value="Data Transfer" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;verticalAlign=middle;spacingBottom=0;fontColor=#ffffff;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-117">
+          <mxGeometry x="150" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-119" value="&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;After&lt;/font&gt; completion of a &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;connection&lt;/font&gt;, a signal confirming circuit&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;establishment&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; is returned and data &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;transfer&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; begins.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-117">
+          <mxGeometry y="40" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-120" value="" style="group" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-110">
+          <mxGeometry x="165" y="230" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-121" value="Circuit Disconnect" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;verticalAlign=middle;spacingBottom=0;fontColor=#ffffff;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-120">
+          <mxGeometry x="123" width="194" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-122" value="&lt;div&gt;After completion of data &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;transfer&lt;/font&gt;, the circuit is &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;disconnected&lt;/font&gt; and become&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;available&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; for other connections.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-120">
+          <mxGeometry y="40" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-123" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#e51400;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-110">
+          <mxGeometry x="251" y="7.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-124" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="886" y="1830" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-125" value="The message, with an &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;appended&lt;/font&gt; address, is &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;transmitted&lt;/font&gt; from one node to another using a method known as &quot;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;store and forward&lt;/font&gt;.&quot;" style="rounded=1;whiteSpace=wrap;hachureGap=4;strokeWidth=2;fillColor=#ffcccc;strokeColor=#000000;textShadow=0;align=left;spacing=7;verticalAlign=middle;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=16;arcSize=10;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-124">
+          <mxGeometry y="40" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-126" value="Message Switching" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e51400;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-124">
+          <mxGeometry x="40" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-127" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#e51400;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-124">
+          <mxGeometry x="4" y="7.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-128" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1227" y="1830" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-129" value="This technique &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;enhances&lt;/font&gt; data transmission &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;accuracy&lt;/font&gt; by adding &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;redundant bits&lt;/font&gt; to identify &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;errors&lt;/font&gt; and retransmit &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;corrupted data&lt;/font&gt; blocks, using ARQ method" style="rounded=1;whiteSpace=wrap;hachureGap=4;strokeWidth=2;fillColor=#bac8d3;strokeColor=default;textShadow=0;align=left;spacing=7;verticalAlign=middle;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=16;arcSize=10;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-128">
+          <mxGeometry y="40" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-130" value="Error Control" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#647687;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-128">
+          <mxGeometry x="135" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-131" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1061" y="1990" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-132" value="A method of error control where &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;the receiver&lt;/font&gt; identifies &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;errors&lt;/font&gt; in data and &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;requests&lt;/font&gt; the sender to &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;resend&lt;/font&gt; the &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;corrupted&lt;/font&gt; information." style="rounded=1;whiteSpace=wrap;hachureGap=4;strokeWidth=2;fillColor=#bac8d3;strokeColor=default;textShadow=0;align=left;spacing=7;verticalAlign=middle;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=16;arcSize=10;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-131">
+          <mxGeometry y="40" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-133" value="ARQ (Automatic Repeat Request)" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#647687;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-131">
+          <mxGeometry x="30" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-134" value="" style="group;flipH=0;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1760" y="90" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-135" value="Chapter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=2;fontFamily=Chakra Petch;arcSize=0;hachureGap=4;align=right;spacingRight=5;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=default;spacingLeft=5;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-134">
+          <mxGeometry width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-136" value="3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#333333;strokeColor=#000000;strokeWidth=2;fontFamily=Chakra Petch;arcSize=0;hachureGap=4;align=center;spacingRight=0;fontStyle=1;fontColor=#ffffff;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-134">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-137" value="" style="group" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1779" y="860" width="770" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-138" value="The physical layer also defines the direction of transmission between two devices" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;strokeWidth=2;fillColor=#008a00;strokeColor=#005700;fontSize=19;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;fontColor=#ffffff;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-137">
+          <mxGeometry x="15" width="741" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-139" value="" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fillColor=none;arcSize=4;strokeWidth=2;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-137">
+          <mxGeometry y="40" width="770" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-140" value="" style="group" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-137">
+          <mxGeometry x="451" y="70" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-141" value="The Half-Duplex&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;Mode&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;verticalAlign=middle;spacingBottom=0;fontColor=#ffffff;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-140">
+          <mxGeometry x="20" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-142" value="&lt;div&gt;two devices can &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;send&lt;/font&gt; and &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;receive&lt;/font&gt;, but &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;not&lt;/font&gt; at the&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;same time.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-140">
+          <mxGeometry y="40" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-143" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#e51400;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-137">
+          <mxGeometry x="7" y="49" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-144" value="" style="group" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-137">
+          <mxGeometry x="61" y="70" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-145" value="The Simplex Mode" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;verticalAlign=middle;spacingBottom=0;fontColor=#ffffff;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-144">
+          <mxGeometry x="20" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-146" value="&lt;div&gt;only &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;one device can send&lt;/font&gt;; the &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;other&lt;/font&gt; can only &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;receive&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-144">
+          <mxGeometry y="40" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-147" value="" style="group" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-137">
+          <mxGeometry x="189" y="190" width="391" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-148" value="The Full-Duplex Mode" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontSize=20;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;verticalAlign=middle;spacingBottom=0;fontColor=#ffffff;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-147">
+          <mxGeometry x="84" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-149" value="&lt;div&gt;two devices can &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;send&lt;/font&gt; and &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;receive&lt;/font&gt; at the &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;same&lt;/font&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;time.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-147">
+          <mxGeometry y="40" width="391" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-150" value="" style="group" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1774" y="200" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-151" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-150">
+          <mxGeometry width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-152" value="&lt;div&gt;set of &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;rules&lt;/font&gt; governing the &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;exchange&lt;/font&gt; of &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;data&lt;/font&gt; between two&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;entities.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;arcSize=8;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-151">
+          <mxGeometry y="40" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-153" value="Protocol" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-151">
+          <mxGeometry x="100" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-154" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;flipH=1;" vertex="1" connectable="0" parent="wq1lV82WTQ-Z09QDScQK-150">
+          <mxGeometry x="370" width="410" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-155" value="Each application on a computer has a &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;unique &lt;/font&gt;address that &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;enables&lt;/font&gt; it to access and &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;communicate&lt;/font&gt; &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;individually&lt;/font&gt; via the &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;transport &lt;/font&gt;layer." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;arcSize=11;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-154">
+          <mxGeometry y="40" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-156" value="Service Access Point (SAP)" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#a0522d;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-154">
+          <mxGeometry x="60" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-157" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#e51400;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-154">
+          <mxGeometry x="366" y="7.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-158" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontStyle=0" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1769" y="430" width="370" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-159" value="Applications" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=18;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-158">
+          <mxGeometry y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-160" value="Three-Layer Model Communication" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-158">
+          <mxGeometry width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-161" value="&amp;nbsp;Computers" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=18;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-158">
+          <mxGeometry x="120" y="50" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-162" value="Networks" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=18;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-158">
+          <mxGeometry x="250" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-163" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontStyle=0" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="2169" y="430" width="390" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-164" value="&lt;div&gt;means those systems that are &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;open&lt;/font&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;for communication with other systems.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=18;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-163">
+          <mxGeometry y="40" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-165" value="OSI (Open System Interconnection)" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-163">
+          <mxGeometry x="10" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-166" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontStyle=0" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1899" y="662" width="530" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-167" value="&lt;div&gt;is to open &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;communication&lt;/font&gt; between&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;different&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; systems without requiring changes to the &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;logic&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; of the &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;hardware&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;and &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;software&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=18;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-166">
+          <mxGeometry y="40" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-168" value="The purpose of the OSI model" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-166">
+          <mxGeometry x="100" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-169" value="Functions of the Layers" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=default;fontFamily=Chakra Petch;fontSize=20;strokeWidth=2;align=center;spacingLeft=0;spacingBottom=5;fillStyle=hachure;fontStyle=1;rounded=1;arcSize=17;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontColor=default;" vertex="1" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="2038" y="1280" width="252" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-170" value="" style="group;flipH=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="2220" y="1340" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-171" value="It converts a raw transmission facility into error-free lines for the network layer." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcccc;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-170">
+          <mxGeometry y="40" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-172" value="The Data Link Layer" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e51400;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-170">
+          <mxGeometry x="27.5" width="225" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-173" value="2" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#e51400;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-170">
+          <mxGeometry x="252.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-174" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1780" y="1340" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-175" value="&lt;div&gt;transmitting raw bits over a&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;communication channel.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cce5ff;strokeColor=#000000;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=11;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-174">
+          <mxGeometry y="40" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-176" value="The Physical Layer" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-174">
+          <mxGeometry x="85" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-177" value="1" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#0050ef;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-174">
+          <mxGeometry x="45" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-178" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1780" y="1500" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-179" value="&lt;div&gt;links all open networks&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;together into a single global network.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#ffcc99;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=11;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-178">
+          <mxGeometry y="40" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-180" value="The Network Layer" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#a0522d;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-178">
+          <mxGeometry x="85" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-181" value="3" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#a0522d;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-178">
+          <mxGeometry x="45" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-182" value="" style="group;flipH=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="2220" y="1500" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-183" value="Receive data from the session layer, split into smaller units, and pass to the network layer." style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#cdeb8b;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-182">
+          <mxGeometry y="40" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-184" value="The Transport Layer" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-182">
+          <mxGeometry x="26.25" width="227.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-185" value="4" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#008a00;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-182">
+          <mxGeometry x="253.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-186" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1784" y="1660" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-187" value="&lt;div&gt;controlling the dialogue&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;between applications in end systems.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#d0cee2;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=11;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-186">
+          <mxGeometry y="40" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-188" value="The Session Layer" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#76608a;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-186">
+          <mxGeometry x="85" width="205" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-189" value="5" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#76608a;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-186">
+          <mxGeometry x="45" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-190" value="" style="group;flipH=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="2224" y="1660" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-191" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;div style=&quot;&quot;&gt;It converts data into a machine’s internal numeric format and manages data unit syntax.&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#bac8d3;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-190">
+          <mxGeometry y="40" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-192" value="The Presentation Layer" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#647687;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-190">
+          <mxGeometry x="13.75" width="252.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-193" value="6" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#647687;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-190">
+          <mxGeometry x="266.25" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-194" value="" style="group;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1994" y="1820" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-195" value="&lt;div&gt;It provides the appropriate semantics or meaning to the information being&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;exchanged.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#b1ddf0;strokeColor=default;fontSize=16;fontStyle=0;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;arcSize=11;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-194">
+          <mxGeometry x="-20" y="40" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-196" value="The Application Layer" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#1ba1e2;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-194">
+          <mxGeometry x="67.5" width="245" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-197" value="7" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Chakra Petch;strokeWidth=2;fillColor=#1ba1e2;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-194">
+          <mxGeometry x="27.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-198" value="" style="group" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="37" y="5390" width="752.6800000000001" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-199" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Cairo; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;الأسئلة دي مش كاملة&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;textOpacity=20;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-198">
+          <mxGeometry x="223.68" y="210" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-200" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Cairo; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;الأسئلة دي مش كاملة&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;textOpacity=20;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-198">
+          <mxGeometry x="592.68" y="190" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-201" value="Disclaimer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Oxanium;fontSize=24;fontColor=#FF0000;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-198">
+          <mxGeometry x="309" y="5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-202" value="&lt;p style=&quot;direction: rtl; line-height: 140%;&quot;&gt;خليني افكرك ان ده ملخص (وارد يبقي فيه اجابات مختصرة تسهيلا ليك &lt;font color=&quot;#ff0000&quot;&gt;لأنه ملخص&lt;/font&gt; مش شرح) معمول من طلبة و &lt;font color=&quot;#b5739d&quot;&gt;الأسئلة دي مش كاملة&lt;/font&gt; و يفضل المذاكرة من الاسئلة اللي في أخر كل&amp;nbsp; &amp;nbsp;السلايدز قبل الاعتماد عليه&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; outline: 0px;&quot;&gt;و دي&amp;nbsp;الاسئلة اللي قدرنا نجمعها للميد في المادة &lt;a href=&quot;https://ma-quiz.vercel.app/quizzes/Network_QB.html&quot;&gt;هــنــا&lt;/a&gt;&lt;br&gt;ودي صفحة المادة علي موقع وعليها كل الماتيريال &lt;a href=&quot;https://sites.google.com/view/ma-platform/resources/level-3-semester-2/computer-networks&quot;&gt;هــنــا&lt;/a&gt;&amp;nbsp;و&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;background-color: initial; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;div style=&quot;text-align: center; line-height: 10%;&quot;&gt;&lt;span style=&quot;background-color: initial; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; outline: 0px;&quot;&gt;&quot;&lt;font face=&quot;Amiri Quran&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Amiri+Quran&quot; style=&quot;font-size: 27px;&quot;&gt;جل من لا يسهو&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; outline: 0px;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Cairo;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCairo;fontSize=16;fontStyle=1;textShadow=0;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-198">
+          <mxGeometry x="41.93000000000001" y="60" width="617.07" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-203" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#B20000;fillColor=#e51400;shape=mxgraph.azure.azure_alert;fontColor=#ffffff;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-198">
+          <mxGeometry x="8.5" y="53.75" width="82" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-204" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#B20000;fillColor=#e51400;shape=mxgraph.azure.azure_alert;fontColor=#ffffff;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-198">
+          <mxGeometry x="666" y="53.75" width="82" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-205" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Cairo; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;الأسئلة دي مش كاملة&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;textOpacity=5;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-198">
+          <mxGeometry x="383.68" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-206" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Cairo; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;الأسئلة دي مش كاملة&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;textOpacity=20;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-198">
+          <mxGeometry x="499" y="10" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-207" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Cairo; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;الأسئلة دي مش كاملة&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;textOpacity=10;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-198">
+          <mxGeometry x="499" y="130" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-208" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Cairo; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;الأسئلة دي مش كاملة&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;textOpacity=20;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-198">
+          <mxGeometry x="41.93000000000001" y="150" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-209" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Cairo; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;الأسئلة دي مش كاملة&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;textOpacity=10;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-198">
+          <mxGeometry x="110.68" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-210" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Cairo; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;الأسئلة دي مش كاملة&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;textOpacity=20;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-198">
+          <mxGeometry width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-211" value="&lt;p style=&quot;direction: rtl; line-height: 140%; font-size: 20px;&quot;&gt;شكرَا: يوستينا ثروت&lt;/p&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;fontFamily=Kufam;fontSize=14;fillColor=#ffcccc;strokeColor=#36393d;fontStyle=0;size=20;fillStyle=cross-hatch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKufam;rounded=1;strokeWidth=2;arcSize=50;spacingLeft=12;spacingRight=10;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="570" y="5780" width="247.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-212" value="PNGRCT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Chakra Petch;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="694.8599999999999" y="1558.71" width="97.1434554973822" height="48.57142857142857" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-213" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-weight: normal;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Kufam&quot; face=&quot;Kufam&quot; style=&quot;font-size: 14px;&quot;&gt;ماتحفظهمش الدكتور هيجيبلك ال Function وانت تقوله بتاعت انه Layer&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Kufam;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKufam;fontColor=light-dark(#FF0000,#FF0000);" vertex="1" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="2310.86" y="1275.7200000000003" width="259.14" height="48.57" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-214" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#e51400;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="1994" y="1287.5100000000002" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2050" y="3240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-231" value="" style="group" vertex="1" connectable="0" parent="y63Ci895xgGnurHmZe7u-1">
+          <mxGeometry x="885" y="281.5" width="762" height="367" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-216" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Cairo; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;الأسئلة دي مش كاملة&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;textOpacity=20;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-231">
+          <mxGeometry x="425.5353730669078" y="252.19791666666742" width="232.4642610405484" height="43.5875" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-217" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Cairo; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;الأسئلة دي مش كاملة&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;textOpacity=20;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-231">
+          <mxGeometry x="484.7660750916725" y="323.57958333333363" width="232.4642610405484" height="43.5875" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-218" value="Disclaimer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Oxanium;fontSize=35;fontColor=#FF0000;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-231">
+          <mxGeometry x="316.5569402667802" width="188.8772120954456" height="58.11666666666665" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-219" value="&lt;p style=&quot;direction: rtl; line-height: 140%;&quot;&gt;&lt;font&gt;خليني افكرك ان ده ملخص (وارد يبقي فيه اجابات مختصرة تسهيلا ليك &lt;font color=&quot;#ff0000&quot;&gt;لأنه ملخص&lt;/font&gt; مش شرح) معمول من طلبة و &lt;font color=&quot;#b5739d&quot;&gt;الأسئلة دي مش كاملة&lt;/font&gt; و يفضل المذاكرة من الاسئلة اللي في أخر كل&amp;nbsp; &amp;nbsp;السلايدز قبل الاعتماد عليه&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font&gt;و دي&amp;nbsp;الاسئلة اللي قدرنا نجمعها للميد في المادة &lt;a href=&quot;https://ma-quiz.vercel.app/quizzes/Network_QB.html&quot;&gt;هــنــا&lt;/a&gt;&lt;br&gt;ودي صفحة المادة علي موقع وعليها كل الماتيريال &lt;a href=&quot;https://sites.google.com/view/ma-platform/resources/level-3-semester-2/computer-networks&quot;&gt;هــنــا&lt;/a&gt;&amp;nbsp;و&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;background-color: initial; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;div style=&quot;text-align: center; line-height: 10%;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;span style=&quot;background-color: initial; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; outline: 0px;&quot;&gt;&quot;&lt;font style=&quot;&quot; face=&quot;Amiri Quran&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Amiri+Quran&quot;&gt;جل من لا يسهو&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; outline: 0px;&quot;&gt;&quot;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Cairo;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCairo;fontSize=22;fontStyle=1;textShadow=0;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-231">
+          <mxGeometry x="119.14033613222102" y="58.11541666666699" width="620.14" height="282.82" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-220" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#B20000;fillColor=#e51400;shape=mxgraph.azure.azure_alert;fontColor=#ffffff;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-231">
+          <mxGeometry y="146.85718750000024" width="119.13793378328106" height="105.3364583333333" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-222" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Cairo; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;الأسئلة دي مش كاملة&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;textOpacity=5;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-231">
+          <mxGeometry x="484.7696341074561" y="58.107916666666824" width="232.4642610405484" height="43.5875" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-223" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Cairo; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;الأسئلة دي مش كاملة&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;textOpacity=20;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-231">
+          <mxGeometry x="529.9982502524313" y="29.994583333333594" width="232.4642610405484" height="43.5875" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-224" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Cairo; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;الأسئلة دي مش كاملة&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;textOpacity=10;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-231">
+          <mxGeometry x="578.54" y="279.99" width="181.46" height="43.59" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-225" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Cairo; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;الأسئلة دي مش كاملة&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;textOpacity=20;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-231">
+          <mxGeometry x="60.92050154115975" y="217.9329166666671" width="232.4642610405484" height="43.5875" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-226" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Cairo; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;الأسئلة دي مش كاملة&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;textOpacity=10;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-231">
+          <mxGeometry x="134.53748870702032" y="261.5179166666667" width="232.4642610405484" height="43.5875" as="geometry" />
+        </mxCell>
+        <mxCell id="wq1lV82WTQ-Z09QDScQK-227" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Cairo; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;الأسئلة دي مش كاملة&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;textOpacity=20;" vertex="1" parent="wq1lV82WTQ-Z09QDScQK-231">
+          <mxGeometry x="84.09033613222107" y="58.105416666667224" width="232.4642610405484" height="43.5875" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
