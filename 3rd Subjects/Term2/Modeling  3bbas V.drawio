@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2" pages="5">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5" pages="5">
   <diagram name="Page-1" id="lEEVBHIyu8XrA76qkRSj">
     <mxGraphModel dx="1410" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1001,12 +1001,94 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SMTgXpbJq1Kilyh0L7qB" name="Combined LCM">
-    <mxGraphModel dx="1410" dy="-1495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1350" dy="-1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-iqzZ4GS1WJfVQyZNKmY-1" value="&lt;font face=&quot;Mali&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Mali&quot;&gt;&lt;font style=&quot;&quot;&gt;Combined Linear Congruential Method (&lt;/font&gt;&lt;font style=&quot;&quot;&gt;CLCM&lt;/font&gt;&lt;font style=&quot;&quot;&gt;)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#f8cecc;strokeColor=default;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;container=0;spacingLeft=5;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="154" y="2360" width="520" height="40" as="geometry" />
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Mali&quot; face=&quot;Mali&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Combined&amp;nbsp;Linear Congruential Method (C&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 255, 204);&quot;&gt;LCM&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2360" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-2" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;Given a params: `k`,&lt;br&gt;`a_1`, `c_1`, `m_1`, `X_{\circ, 1}`&lt;br&gt;`a_2`, `c_2`, `m_2`, `X_{\circ, 2}`&lt;br&gt;`\cdots`&lt;br&gt;`a_k`, `c_k`, `m_k`, `X_{\circ, k}`&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mali;strokeWidth=2;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;fillColor=#bac8d3;strokeColor=default;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2410" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-3" value="زي  ما شوفنا في الـ LCM عشان نعمل generate لـrandom number بس قابلتنا مشكلة ان الـPeriod صغيرة (الارقام بتتكرر )،  فهنستخدم ال CLCM وهو بيعمل Combine لأكتر من Generator  شكل الـ given هيبقي `k` و ده عدد ال generators و `a_j ` و `c_j` و `m_j` و فيه منهم بيعتمد علي اكتر من  seeder اللي قبله زي الـ `X_{i, j}` و بشكل ابتدائي هو بيديك الـ `X_{\circ , j}`" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=right;fontStyle=0;textDirection=rtl;fontSize=15;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2420" width="498.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-4" value="We apply on formula: `X_{i+1,j} = (a_j \cdot X_{i, j} + c_j) % m_j`" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#b1ddf0;strokeColor=default;fontSize=13;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2560" width="340" height="44.55" as="geometry" />
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;endFill=0;fillColor=#d0cee2;strokeColor=#56517e;curved=1;" edge="1" parent="1" source="T6MzDhw3RiBCDIWgw46K-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235.00383911132812" y="2595.001536114032" as="targetPoint" />
+            <mxPoint x="235.85" y="2632.54" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-6" value="Multiplier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Mali;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="2630" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-7" value="Increment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Mali;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="260" y="2630" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;endFill=0;fillColor=#d0cee2;strokeColor=#56517e;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280.00383911132815" y="2595.001536114032" as="targetPoint" />
+            <mxPoint x="290" y="2630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-9" value="Modulus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Mali;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMali;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="335" y="2610" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;endFill=0;fillColor=#d0cee2;strokeColor=#56517e;curved=1;" edge="1" parent="1" source="T6MzDhw3RiBCDIWgw46K-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="308.00383911132815" y="2594.001536114032" as="targetPoint" />
+            <mxPoint x="353" y="2614" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="309" y="2625" />
+              <mxPoint x="309" y="2594" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="2720" width="680" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-23" value="&lt;font face=&quot;Mali&quot;&gt;`X_{1,j} = (a_j \cdot X_{\circ,j} + c_j) % m_j`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="T6MzDhw3RiBCDIWgw46K-22">
+          <mxGeometry x="40" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-24" value="&lt;div&gt;1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" vertex="1" parent="T6MzDhw3RiBCDIWgw46K-22">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-25" value="&lt;font face=&quot;Mali&quot;&gt;`X_{2,j} = (a_j \cdot X_{1,j} + c_j) % m_j`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="T6MzDhw3RiBCDIWgw46K-22">
+          <mxGeometry x="40" y="48.5" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-26" value="&lt;div&gt;2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" vertex="1" parent="T6MzDhw3RiBCDIWgw46K-22">
+          <mxGeometry y="48.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-27" value="&lt;font face=&quot;Mali&quot;&gt;`X_{3,j} = (a_j \cdot X_{2,j} + c_j) % m_j`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="T6MzDhw3RiBCDIWgw46K-22">
+          <mxGeometry x="40" y="98.5" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-28" value="&lt;div&gt;3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" vertex="1" parent="T6MzDhw3RiBCDIWgw46K-22">
+          <mxGeometry y="98.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-29" value="&lt;font face=&quot;Mali&quot;&gt;`X_{i + 1,j} = (a_j \cdot X_{i,j} + c_j) % m_j`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="T6MzDhw3RiBCDIWgw46K-22">
+          <mxGeometry x="40" y="148.5" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-30" value="&lt;div&gt;..&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=25;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=center;spacing=7;verticalAlign=middle;" vertex="1" parent="T6MzDhw3RiBCDIWgw46K-22">
+          <mxGeometry y="148.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T6MzDhw3RiBCDIWgw46K-31" value="&lt;font face=&quot;Mali&quot;&gt;`X_{i+1} =`&lt;br&gt;`(x_{i+1, 1} - x_{i + 1,2} \cdots) mod m_1 -1`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#1A1A1A;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="T6MzDhw3RiBCDIWgw46K-22">
+          <mxGeometry x="450" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8vcGjpxcgdleFt7-bXFL-3" value="&lt;font face=&quot;Mali&quot;&gt;\[ R_{i+1} = \begin{cases} \frac{X_{i+1}}{m_1}, &amp;amp; x &amp;gt; 0 \\ \frac{m_1 - 1} {m_1}, &amp;amp; x=0 \end{cases} \]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#fff2cc;strokeColor=#1A1A1A;fontSize=14;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" vertex="1" parent="T6MzDhw3RiBCDIWgw46K-22">
+          <mxGeometry x="450" y="99" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8vcGjpxcgdleFt7-bXFL-1" value="`X_{1,j} = \text{in range} [1, m_j -1]`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="404.99999999999994" y="2580" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8vcGjpxcgdleFt7-bXFL-4" value="هنا بجيب الـ Seeder اللي هعمل Generate علي اساسه عن طريق اني بعمل Combine لأكتر من seeder جبتهم من كذا generator واللي عددهم `k`" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=right;fontStyle=0;textDirection=rtl;fontSize=15;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="521" y="2650" width="249" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8vcGjpxcgdleFt7-bXFL-5" value="Period = `\frac{(m_1 - 1)(m_2 - 1) \cdots}{2^{k-1}}`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Mina;fontStyle=1;fontSize=21;fillColor=#f8cecc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="194" y="2960" width="341" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
