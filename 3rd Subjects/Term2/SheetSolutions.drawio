@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5" pages="11">
   <diagram name="Q9" id="0cHmnmEeIFw0UhiYTlYR">
-    <mxGraphModel dx="1412" dy="-294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="943" dy="-627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="8Q8wRUhIEwHD_FdldHn4-6" value="\[ P(0 \le X \le 2) = F(2) - F(0) \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" parent="1" vertex="1">
           <mxGeometry x="50" y="1480" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8Q8wRUhIEwHD_FdldHn4-7" value="\[ F(X)_{inspection\_device} = 1 - e^{-\frac{x}{2}} \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#0000FF;" parent="1" vertex="1">
+        <mxCell id="8Q8wRUhIEwHD_FdldHn4-7" value="\[ F(X)_{\text{inspection Device}} = 1 - e^{-\frac{x}{2}} \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="414" y="1410" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Q8wRUhIEwHD_FdldHn4-8" value="\[ = (1 - e^{\frac{-2}{2}}) - (1 - e^{\frac{-0}{2}}) \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=0;fontSize=17;labelBackgroundColor=none;labelBorderColor=none;flipV=1;fontColor=#990000;" parent="1" vertex="1">
@@ -754,27 +754,118 @@
     </mxGraphModel>
   </diagram>
   <diagram name="UNKNOWN" id="MPFWmxuNTJMkQTlOSMJT">
-    <mxGraphModel dx="1041" dy="-566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1139" dy="-515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="VDEKtA68N6Fchdauf_-Y-0" />
         <mxCell id="VDEKtA68N6Fchdauf_-Y-1" parent="VDEKtA68N6Fchdauf_-Y-0" />
-        <mxCell id="VDEKtA68N6Fchdauf_-Y-17" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;حبة اسئلة من شيت MCQ&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=#fff2cc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=20;fontFamily=Kufam;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKufam;dashed=1;dashPattern=12 12;gradientColor=none;fillStyle=auto;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+        <mxCell id="VDEKtA68N6Fchdauf_-Y-17" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;حبة اسئلة من شيت MCQ&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=#fff2cc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=20;fontFamily=Kufam;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKufam;dashed=1;dashPattern=12 12;gradientColor=none;fillStyle=auto;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="VDEKtA68N6Fchdauf_-Y-1" vertex="1">
           <mxGeometry x="19" y="1180" width="790" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6KHm7oCIUcmpBfQVYSWZ-0" value="&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Mina&quot; face=&quot;Mina&quot;&gt;&amp;nbsp;If a random variable `X` follows Normal distribution with mean `1` and variance `4`&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;then `Y=\frac{X-1}{2}` follows&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
-          <mxGeometry x="40" y="1220" width="610" height="70" as="geometry" />
+        <mxCell id="6KHm7oCIUcmpBfQVYSWZ-0" value="&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Mina&quot; face=&quot;Mina&quot;&gt;&amp;nbsp;If a random variable `X` follows Normal distribution with mean `1` and variance `4`&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;then `Y=\frac{X-1}{2}` follows&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" parent="VDEKtA68N6Fchdauf_-Y-1" vertex="1">
+          <mxGeometry x="40" y="1240" width="630" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6KHm7oCIUcmpBfQVYSWZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VDEKtA68N6Fchdauf_-Y-1" source="6KHm7oCIUcmpBfQVYSWZ-1" target="6KHm7oCIUcmpBfQVYSWZ-4">
+        <mxCell id="6KHm7oCIUcmpBfQVYSWZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="VDEKtA68N6Fchdauf_-Y-1" source="6KHm7oCIUcmpBfQVYSWZ-1" target="6KHm7oCIUcmpBfQVYSWZ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6KHm7oCIUcmpBfQVYSWZ-1" value="`Z = \frac{X - \mu} {\sigma}`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
-          <mxGeometry x="199.99999999999994" y="1350" width="97.1434554973822" height="48.57142857142857" as="geometry" />
+        <mxCell id="6KHm7oCIUcmpBfQVYSWZ-1" value="`Z = \frac{X - \mu} {\sigma}`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" parent="VDEKtA68N6Fchdauf_-Y-1" vertex="1">
+          <mxGeometry x="490" y="1341.4299999999998" width="97.1434554973822" height="48.57142857142857" as="geometry" />
         </mxCell>
-        <mxCell id="6KHm7oCIUcmpBfQVYSWZ-3" value="`X ~ N(1, 4)`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
-          <mxGeometry x="309.99999999999994" y="1290" width="97.1434554973822" height="48.57142857142857" as="geometry" />
+        <mxCell id="6KHm7oCIUcmpBfQVYSWZ-3" value="`X ~ N(\mu = 1, \text{variance} = 4)`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" parent="VDEKtA68N6Fchdauf_-Y-1" vertex="1">
+          <mxGeometry x="158.57" y="1281.43" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6KHm7oCIUcmpBfQVYSWZ-4" value="`Z~ N(0, 1)`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
-          <mxGeometry x="326" y="1350" width="87.14" height="48.57" as="geometry" />
+        <mxCell id="6KHm7oCIUcmpBfQVYSWZ-4" value="`Z~ N(0, 1)`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" parent="VDEKtA68N6Fchdauf_-Y-1" vertex="1">
+          <mxGeometry x="616" y="1341.4299999999998" width="87.14" height="48.57" as="geometry" />
+        </mxCell>
+        <mxCell id="3yzHKQ5-MFY5gu2gbt-4-0" value="`Y=\frac{X-1}{2}`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#331A00;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="239.9999999999999" y="1440" width="97.1434554973822" height="48.57142857142857" as="geometry" />
+        </mxCell>
+        <mxCell id="3yzHKQ5-MFY5gu2gbt-4-1" value="Apply Linear Transformation" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="118.57" y="1370" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3yzHKQ5-MFY5gu2gbt-4-2" value="`Z~ N(\mu, \text{variance})`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="603.57" y="1390" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3yzHKQ5-MFY5gu2gbt-4-4" value="`X~ N(1, 4)`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="211.43" y="1311.4300000000003" width="87.14" height="48.57" as="geometry" />
+        </mxCell>
+        <mxCell id="3yzHKQ5-MFY5gu2gbt-4-5" value="`Y = aX+b`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#331A00;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="123.57" y="1440.0000000000002" width="87.14" height="48.57" as="geometry" />
+        </mxCell>
+        <mxCell id="3yzHKQ5-MFY5gu2gbt-4-6" value="`\mu_y = a\mu_x+b`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#000099;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="123.57" y="1700.0000000000002" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3yzHKQ5-MFY5gu2gbt-4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.566;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;align=left;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="VDEKtA68N6Fchdauf_-Y-1" source="3yzHKQ5-MFY5gu2gbt-4-0" target="3yzHKQ5-MFY5gu2gbt-4-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="293.57" y="1420" />
+              <mxPoint x="172.57" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3yzHKQ5-MFY5gu2gbt-4-8" value="`Y = \frac{1}{2}X-\frac{1}{2}`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#331A00;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="123.57" y="1520.0000000000002" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3yzHKQ5-MFY5gu2gbt-4-9" value="`a = \frac{1}{2}, b = -\frac{1}{2}`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#331A00;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="123.57" y="1580.0000000000002" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3yzHKQ5-MFY5gu2gbt-4-11" value="`\text{variance}_y&amp;nbsp;= a^2 \cdot \text{variance}_x`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#990000;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="313.57" y="1700" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3yzHKQ5-MFY5gu2gbt-4-12" value="`Y~ N(a\mu_x+b,a^2\cdot \text{variance}_x)`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#4C0099;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="134" y="1650.0000000000002" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkndyptvpkdpCcWXFc-e-0" value="`\mu_y = \frac{1}{2} \cdot 1-\frac{1}{2} = 0`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#000099;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="123.57" y="1739.0000000000002" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkndyptvpkdpCcWXFc-e-1" value="`\text{variance}_y&amp;nbsp;= (\frac{1}{2})^2 \cdot 4 = 1`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#990000;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="313.57" y="1739" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkndyptvpkdpCcWXFc-e-3" value="&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Mina&quot; face=&quot;Mina&quot;&gt;&amp;nbsp;If a random variable `X` follows Normal distribution with mean `1` and variance `4`&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;then `Y=\frac{X+1}{2}` follows&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="40" y="1810" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkndyptvpkdpCcWXFc-e-4" value="`X ~ N(\mu = 1, \text{variance} = 4)`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="103.57" y="1870" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkndyptvpkdpCcWXFc-e-5" value="`X~ N(1, 4)`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="156.43" y="1909.0000000000005" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkndyptvpkdpCcWXFc-e-6" value="`Y=\frac{X+1}{2}`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#331A00;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="220.7099999999999" y="2050" width="97.1434554973822" height="48.57142857142857" as="geometry" />
+        </mxCell>
+        <mxCell id="mkndyptvpkdpCcWXFc-e-7" value="Apply Linear Transformation" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="99" y="1980" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkndyptvpkdpCcWXFc-e-8" value="`Y = aX+b`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#331A00;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="104.28" y="2050" width="87.14" height="48.57" as="geometry" />
+        </mxCell>
+        <mxCell id="mkndyptvpkdpCcWXFc-e-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.566;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;align=left;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" source="mkndyptvpkdpCcWXFc-e-6" target="mkndyptvpkdpCcWXFc-e-8" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="274.28" y="2030" />
+              <mxPoint x="153.28" y="2030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkndyptvpkdpCcWXFc-e-10" value="`Y = \frac{1}{2}X+\frac{1}{2}`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#331A00;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="104.28" y="2110" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkndyptvpkdpCcWXFc-e-11" value="`a = \frac{1}{2}, b = \frac{1}{2}`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#331A00;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="103.57000000000001" y="2160" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkndyptvpkdpCcWXFc-e-12" value="`\mu_y = a\mu_x+b`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#000099;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="60" y="2248" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkndyptvpkdpCcWXFc-e-13" value="`\text{variance}_y&amp;nbsp;= a^2 \cdot \text{variance}_x`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#990000;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="250" y="2248" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkndyptvpkdpCcWXFc-e-14" value="`Y~ N(a\mu_x+b,a^2\cdot \text{variance}_x)`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#4C0099;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="68.57000000000001" y="2210" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkndyptvpkdpCcWXFc-e-15" value="`\mu_y = \frac{1}{2} \cdot 1+\frac{1}{2} = 1`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#000099;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="60" y="2287" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkndyptvpkdpCcWXFc-e-16" value="`\text{variance}_y&amp;nbsp;= (\frac{1}{2})^2 \cdot 4 = 1`" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1;fontColor=#990000;" vertex="1" parent="VDEKtA68N6Fchdauf_-Y-1">
+          <mxGeometry x="250" y="2287" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
