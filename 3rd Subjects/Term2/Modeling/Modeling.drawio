@@ -6252,7 +6252,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9Wez56r8wL1qfccPexdW" name="Auto Correlation">
-    <mxGraphModel dx="1426" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1177" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8936,7 +8936,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="09x_6056hV_jox_1XJTw" name="Inventory">
-    <mxGraphModel dx="1651" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1412" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9734,7 +9734,7 @@
           <mxGeometry x="28" y="1950" width="780" height="45" as="geometry" />
         </mxCell>
         <mxCell id="wdPY2-vLnw9Ot24MYA5Q-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Mali&quot; face=&quot;Mali&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Need to FIX&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="56.000000000000014" y="1180" width="714" height="650" as="geometry" />
+          <mxGeometry x="37.52000000000001" y="2020" width="714" height="650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
