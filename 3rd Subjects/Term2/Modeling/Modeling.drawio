@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5" pages="17">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2" pages="17">
   <diagram id="eQ0YqRfG51seviyqJrEr" name="Finale">
     <mxGraphModel dx="1130" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,12 +262,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0xKXV_2REGAyJ3WWkiKn" name="MCQ">
-    <mxGraphModel dx="1412" dy="-1463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1426" dy="-1479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cJqhJ_S65NUHn1S_L_56-1" value="&lt;font face=&quot;Mali&quot;&gt;True &amp;amp; False&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;spacingLeft=5;" parent="1" vertex="1">
-          <mxGeometry x="334" y="2350" width="160" height="40" as="geometry" />
+        <mxCell id="cJqhJ_S65NUHn1S_L_56-1" value="&lt;font face=&quot;Mali&quot;&gt;MCQ&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#76608a;strokeColor=#000000;fontSize=22;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=5;verticalAlign=middle;spacingTop=0;spacingRight=2;fontColor=#ffffff;container=0;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="378" y="2350" width="72" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eHqYzABXCEs-g5CobePF-1" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Q1. For normal distribution&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;A) Mean = median&lt;/div&gt;&lt;div&gt;B) Mean &amp;gt; median&lt;/div&gt;&lt;div&gt;C) Mean &amp;lt; median&lt;/div&gt;&lt;div&gt;D) None of these.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ANSWER: A&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Q2. The mean of Binomial(10,1/2)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A) 10&lt;/div&gt;&lt;div&gt;B) 5&lt;/div&gt;&lt;div&gt;C) 1&lt;/div&gt;&lt;div&gt;D) None of these&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ANSWER: B&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Explanation: The mean of a binomial distribution is calculated by multiplying the number of trials by the probability of success in each trial. In this case, the number of trials is 10 and the probability of success is 1/2. Therefore, the mean is \(10 \times \frac{1}{2} = 5\).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Q3. The mean of uniform(0,2)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A) 1&lt;/div&gt;&lt;div&gt;B) 5&lt;/div&gt;&lt;div&gt;C) 10&lt;/div&gt;&lt;div&gt;D) None of these&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ANSWER: A&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Explanation: The mean of a uniform distribution is the average of the minimum and maximum values of the distribution. In this case, the minimum value is 0 and the maximum value is 2. Therefore, the mean is \(\frac{0+2}{2} = 1\).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Q4. The parameters of a binomial distribution with mean 8 and variance 4 are&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A) \(N=16, p=\frac{1}{2}\)&lt;/div&gt;&lt;div&gt;B) \(N=16, p=\frac{1}{4}\)&lt;/div&gt;&lt;div&gt;C) \(N=32, p=\frac{1}{4}\)&lt;/div&gt;&lt;div&gt;D) \(N=2, p=\frac{1}{2}\)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ANSWER: A&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Explanation: The given answer, \(n=16\) and \(p=\frac{1}{2}\), is correct because it satisfies the conditions of the binomial distribution. The mean of a binomial distribution is given by \(n \times p\), and in this case, it is \(16 \times \frac{1}{2} = 8\), which matches the given mean of 8. Similarly, the variance of a binomial distribution is given by \(n \times p \times (1-p)\), and in this case, it is \(16 \times \frac{1}{2} \times (1-\frac{1}{2}) = 4\), which matches the given variance of 4. Therefore, \(n=16\) and \(p=\frac{1}{2}\) is the correct answer.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Q5. If \(X\) be a random variable of any continuous distribution then \(Y=F(X)\) having distribution&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A) Uniform in (0,1)&lt;/div&gt;&lt;div&gt;B) Normal in (0,1)&lt;/div&gt;&lt;div&gt;C) Exponential in (0,1)&lt;/div&gt;&lt;div&gt;D) None of these.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ANSWER: A&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Explanation: If \(X\) is a random variable of any continuous distribution, then \(Y=F(X)\) will have a uniform distribution in the interval (0,1). This is because the cumulative distribution function (CDF) \(F(X)\) transforms the values of \(X\) into probabilities between 0 and 1. As \(F(X)\) is a monotonically increasing function, the values of \(Y\) will be evenly spread out in the interval (0,1), resulting in a uniform distribution.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeWidth=2;fillColor=#eeeeee;strokeColor=default;align=left;spacingLeft=10;fontFamily=Oxanium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontStyle=0;fontSize=15;spacingRight=5;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="19" y="2400" width="790" height="1090" as="geometry" />
@@ -470,7 +470,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o0UcNhDISm8ggfTrr4Eg-11" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="90" y="2720" width="680" height="189" as="geometry" />
+          <mxGeometry x="74" y="2680" width="680" height="189" as="geometry" />
         </mxCell>
         <mxCell id="o0UcNhDISm8ggfTrr4Eg-12" value="&lt;font face=&quot;Mali&quot;&gt;`X_{1,j} = (a_j \cdot X_{\circ,j} + c_j) % m_j`&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Mina;strokeWidth=2;fillColor=#e1d5e7;strokeColor=default;fontSize=16;fontStyle=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;align=left;spacing=7;verticalAlign=middle;" parent="o0UcNhDISm8ggfTrr4Eg-11" vertex="1">
           <mxGeometry x="40" width="400" height="40" as="geometry" />
@@ -503,13 +503,13 @@
           <mxGeometry x="450" y="99" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="o0UcNhDISm8ggfTrr4Eg-22" value="`X_{1,j} = \text{in range} [1, m_j -1]`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Mina;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="404.99999999999994" y="2580" width="220" height="30" as="geometry" />
+          <mxGeometry x="219.99999999999994" y="2520" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o0UcNhDISm8ggfTrr4Eg-23" value="هنا بجيب الـ Seeder اللي هعمل Generate علي اساسه عن طريق اني بعمل Combine لأكتر من seeder جبتهم من كذا generator واللي عددهم `k`" style="text;whiteSpace=wrap;fontFamily=Beiruti;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;align=right;fontStyle=0;textDirection=rtl;fontSize=15;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
-          <mxGeometry x="521" y="2650" width="249" height="70" as="geometry" />
+          <mxGeometry x="568" y="2560" width="249" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o0UcNhDISm8ggfTrr4Eg-24" value="Period = `\frac{(m_1 - 1)(m_2 - 1) \cdots}{2^{k-1}}`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Mina;fontStyle=1;fontSize=21;fillColor=#f8cecc;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="194" y="2960" width="341" height="80" as="geometry" />
+          <mxGeometry x="227" y="2890" width="341" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2456,7 +2456,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QWp8RScAcYkeZdcxu7id" name="Run Test">
-    <mxGraphModel dx="1177" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1426" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2895,7 +2895,7 @@
         <mxCell id="IP_H60ymF85vzSYRgadk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;endArrow=oval;endFill=1;targetPerimeterSpacing=6;" parent="1" source="IP_H60ymF85vzSYRgadk-2" target="IP_H60ymF85vzSYRgadk-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IP_H60ymF85vzSYRgadk-2" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;بعد ما جبت ال `Z_0` هتحسب قيمة ال `Z_{alpha}` عن طريق اننا نقسم قيمة الالفا علي 2 وبعدين نعمل واحد ناقص الناتج اللي طلع ونروح نشوف قيمته في الجدول ونجمع اول الصف والعمود بتاعت القيمة ولو طلعت ال `Z_{alpha}`اكبر من ال `Z_0` يبقي Accepted&amp;nbsp; لكن لو ال `Z_0` اكبر من ال `Z_{alpha}` يبقي Rejected&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="IP_H60ymF85vzSYRgadk-2" value="&lt;div style=&quot;direction: rtl;&quot;&gt;بعد ما جبت ال `Z_0` هتحسب قيمة ال `Z_{alpha}` عن طريق اننا نقسم قيمة الالفا علي 2 وبعدين نعمل واحد ناقص الناتج اللي طلع ونروح نشوف قيمته في الجدول ونجمع اول الصف والعمود بتاعت القيمة ولو طلعت ال `Z_{0}` بين ال `Z_{alpha}` و `Z_{-alpha}`&amp;nbsp; يبقي Accepted&amp;nbsp; لكن لو لا يبقي Rejected&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="339.51" y="690" width="460" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IP_H60ymF85vzSYRgadk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IP_H60ymF85vzSYRgadk-4" target="IP_H60ymF85vzSYRgadk-6" edge="1">
@@ -5013,8 +5013,8 @@
         <mxCell id="IP_H60ymF85vzSYRgadk-441" value="`Z_0.025 = 0.97 to 1.90+0.06=1.96`&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffff88;strokeColor=#36393d;arcSize=8;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="480" y="990" width="329.51" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IP_H60ymF85vzSYRgadk-442" value="`Z_0&amp;lt;Z_{alpha}`&lt;div&gt;&lt;br&gt;&lt;div&gt;`-0.13&amp;lt;1.96`&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffff88;strokeColor=#36393d;arcSize=8;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="359.87" y="770" width="179.64" height="100" as="geometry" />
+        <mxCell id="IP_H60ymF85vzSYRgadk-442" value="`Z_{-alpha}&amp;lt;Z_0&amp;lt;Z_{alpha}`&lt;div&gt;&lt;br&gt;&lt;div&gt;`-1.96&amp;lt;-0.13&amp;lt;1.96`&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffff88;strokeColor=#36393d;arcSize=8;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="328" y="780" width="220.62" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IP_H60ymF85vzSYRgadk-443" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Accepted&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Oxanium;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontSize=20;fontColor=#00CC00;" parent="1" vertex="1">
           <mxGeometry x="401.18999999999994" y="910" width="97" height="30" as="geometry" />
@@ -6252,7 +6252,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9Wez56r8wL1qfccPexdW" name="Auto Correlation">
-    <mxGraphModel dx="1177" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="983" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6385,9 +6385,14 @@
           <mxGeometry x="247" width="193" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J6ZZn11wI2kpDfpvEtjg-106" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;endArrow=oval;endFill=1;targetPerimeterSpacing=6;" parent="1" source="J6ZZn11wI2kpDfpvEtjg-103" target="J6ZZn11wI2kpDfpvEtjg-104" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="875" />
+              <mxPoint x="714" y="875" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="J6ZZn11wI2kpDfpvEtjg-103" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;بعد ما جبت ال `Z_0` هتحسب قيمة ال `Z_{alpha}` عن طريق اننا نقسم قيمة الالفا علي 2 وبعدين نعمل واحد ناقص الناتج اللي طلع ونروح نشوف قيمته في الجدول ونجمع اول الصف والعمود بتاعت القيمة ولو طلعت ال `Z_{alpha}`اكبر من ال `Z_0` يبقي Accepted&amp;nbsp; لكن لو ال `Z_0` اكبر من ال `Z_{alpha}` يبقي Rejected&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="J6ZZn11wI2kpDfpvEtjg-103" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;بعد ما جبت ال `Z_0` هتحسب قيمة ال `Z_{alpha}` عن طريق اننا نقسم قيمة الالفا علي 2 وبعدين نعمل واحد ناقص الناتج اللي طلع ونروح نشوف قيمته في الجدول ونجمع اول الصف والعمود بتاعت القيمة ولو طلعت ال `Z_{0}` بين ال `Z_{alpha}` و&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;`Z_{-alpha}`&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&amp;nbsp;يبقي Accepted&amp;nbsp; لكن لو لا يبقي Rejected&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Beiruti;fontStyle=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBeiruti;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="340" y="790" width="460" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIMfvxujFKCbaCbttmPJ-438" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J6ZZn11wI2kpDfpvEtjg-104" target="J6ZZn11wI2kpDfpvEtjg-105" edge="1">
@@ -8505,8 +8510,8 @@
         <mxCell id="ZIMfvxujFKCbaCbttmPJ-435" value="`Z_0.025 = 0.97 to 1.90+0.06=1.96`&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;arcSize=8;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="470" y="1090" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZIMfvxujFKCbaCbttmPJ-437" value="`Z_0&amp;lt;Z_{alpha}`&lt;div&gt;&lt;br&gt;&lt;div&gt;`-0.1945&amp;lt;1.96`&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;arcSize=8;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="360.36" y="870" width="179.64" height="100" as="geometry" />
+        <mxCell id="ZIMfvxujFKCbaCbttmPJ-437" value="`Z_{-alpha}&amp;lt;Z_0&amp;lt;Z_{alpha}`&lt;div&gt;&lt;br&gt;&lt;div&gt;`-1.96&amp;lt;-0.1945&amp;lt;1.96`&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=default;arcSize=8;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="330.36" y="890" width="239.64" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2E88HcXqjTvoM9A3S7TC-1" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Accepted&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Oxanium;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOxanium;fontSize=20;fontColor=#00CC00;" parent="1" vertex="1">
           <mxGeometry x="401.67999999999995" y="1010" width="97" height="30" as="geometry" />
@@ -8608,7 +8613,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nQoTzQ2piNTOV8q7Zgtf" name="Pursuit">
-    <mxGraphModel dx="1426" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="396" dy="239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8936,7 +8941,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="09x_6056hV_jox_1XJTw" name="Inventory">
-    <mxGraphModel dx="1412" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1426" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9734,7 +9739,7 @@
           <mxGeometry x="28" y="1950" width="780" height="45" as="geometry" />
         </mxCell>
         <mxCell id="wdPY2-vLnw9Ot24MYA5Q-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Mali&quot; face=&quot;Mali&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Need to FIX&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="37.52000000000001" y="2020" width="714" height="650" as="geometry" />
+          <mxGeometry x="63.000000000000014" y="2070" width="714" height="650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
