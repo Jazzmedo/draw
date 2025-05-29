@@ -1,0 +1,1 @@
+> Clean Version without my annonate [Load thes version from HERE with "Wadiiii" message](https://github.com/Jazzmedo/draw/blob/6d5a1c74b1b24eeb43a0be6b5bdd21d7af943496/3rd%20Subjects/Term2/Cyber/Cyber.drawio); any new changes will contains my annonates
